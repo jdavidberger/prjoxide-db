@@ -190,6 +190,12 @@
         "1P6NS": [(frame:53,bit:0,invert:false,),],
       },
     ),
+    "IOLOGICA.DELAY.COARSE_DELAY_MODE": (
+      options: {
+        "DYNAMIC": [(frame:51,bit:0,invert:false,),],
+        "STATIC": [],
+      },
+    ),
     "IOLOGICA.DELAY.EDGE_MONITOR": (
       options: {
         "DISABLED": [],

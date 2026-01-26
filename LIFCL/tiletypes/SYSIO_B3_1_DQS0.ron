@@ -91,6 +91,12 @@
         "1P6NS": [(frame:54,bit:0,invert:false,),],
       },
     ),
+    "IOLOGICB.DELAY.COARSE_DELAY_MODE": (
+      options: {
+        "DYNAMIC": [(frame:52,bit:0,invert:false,),],
+        "STATIC": [],
+      },
+    ),
     "IOLOGICB.DELAY.EDGE_MONITOR": (
       options: {
         "DISABLED": [],
