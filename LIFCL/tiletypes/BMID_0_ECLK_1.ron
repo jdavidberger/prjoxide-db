@@ -72,10 +72,6 @@
     ],
     "G:JMUXIN0_ECLKBANK_CORE_ECLKBANK4": [
       (
-        from_wire: "N1:JECLKCIB0_ECLKBANK_CORE_ECLKBANK4",
-        bits: [(frame:84,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
-      ),
-      (
         from_wire: "G:JLLCLKOP_ECLKBANK_CORE_ECLKBANK4",
         bits: [(frame:84,bit:0,invert:false,),(frame:85,bit:0,invert:false,),(frame:86,bit:0,invert:false,),(frame:87,bit:0,invert:false,),],
       ),
@@ -115,12 +111,12 @@
         from_wire: "G:JPCLKT3_ECLKBANK_CORE_ECLKBANK4",
         bits: [(frame:84,bit:0,invert:false,),(frame:87,bit:0,invert:false,),],
       ),
+      (
+        from_wire: "N1:JECLKCIB0_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:84,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
     ],
     "G:JMUXIN0_ECLKBANK_CORE_ECLKBANK5": [
-      (
-        from_wire: "N1W1:JECLKCIB0_ECLKBANK_CORE_ECLKBANK5",
-        bits: [(frame:9,bit:1,invert:false,),(frame:11,bit:1,invert:false,),],
-      ),
       (
         from_wire: "G:JLLCLKOP_ECLKBANK_CORE_ECLKBANK5",
         bits: [(frame:9,bit:1,invert:false,),(frame:10,bit:1,invert:false,),(frame:11,bit:1,invert:false,),(frame:12,bit:1,invert:false,),],
@@ -161,12 +157,12 @@
         from_wire: "G:JPCLKT3_ECLKBANK_CORE_ECLKBANK5",
         bits: [(frame:9,bit:1,invert:false,),(frame:12,bit:1,invert:false,),],
       ),
+      (
+        from_wire: "N1W1:JECLKCIB0_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:9,bit:1,invert:false,),(frame:11,bit:1,invert:false,),],
+      ),
     ],
     "G:JMUXIN1_ECLKBANK_CORE_ECLKBANK5": [
-      (
-        from_wire: "N1W1:JECLKCIB1_ECLKBANK_CORE_ECLKBANK5",
-        bits: [(frame:16,bit:1,invert:false,),(frame:99,bit:1,invert:false,),],
-      ),
       (
         from_wire: "G:JLLCLKOP_ECLKBANK_CORE_ECLKBANK5",
         bits: [(frame:16,bit:1,invert:false,),(frame:17,bit:1,invert:false,),(frame:99,bit:1,invert:false,),(frame:100,bit:1,invert:false,),],
@@ -207,12 +203,12 @@
         from_wire: "G:JPCLKT3_ECLKBANK_CORE_ECLKBANK5",
         bits: [(frame:16,bit:1,invert:false,),(frame:100,bit:1,invert:false,),],
       ),
+      (
+        from_wire: "N1W1:JECLKCIB1_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:16,bit:1,invert:false,),(frame:99,bit:1,invert:false,),],
+      ),
     ],
     "G:JMUXIN3_ECLKBANK_CORE_ECLKBANK5": [
-      (
-        from_wire: "N1W1:JECLKCIB3_ECLKBANK_CORE_ECLKBANK5",
-        bits: [(frame:91,bit:0,invert:false,),(frame:93,bit:0,invert:false,),],
-      ),
       (
         from_wire: "G:JLLCLKOS2_ECLKBANK_CORE_ECLKBANK5",
         bits: [(frame:91,bit:0,invert:false,),(frame:92,bit:0,invert:false,),(frame:93,bit:0,invert:false,),(frame:94,bit:0,invert:false,),],
@@ -252,6 +248,10 @@
       (
         from_wire: "G:JPCLKT3_ECLKBANK_CORE_ECLKBANK5",
         bits: [(frame:91,bit:0,invert:false,),(frame:94,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N1W1:JECLKCIB3_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:91,bit:0,invert:false,),(frame:93,bit:0,invert:false,),],
       ),
     ],
     "G:JVPFN0_BMID_CORE_BMIDMUX": [

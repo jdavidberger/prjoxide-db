@@ -262,18 +262,18 @@
     ],
     "JPADDO_SEIO33_CORE_IOB": [
       (
-        from_wire: "W1:JCIBMUXOUTA1",
+        from_wire: "JDOUT_SIOLOGIC_CORE_IBASE_PIC_B",
       ),
       (
-        from_wire: "JDOUT_SIOLOGIC_CORE_IBASE_PIC_B",
+        from_wire: "W1:JCIBMUXOUTA1",
       ),
     ],
     "JPADDT_SEIO33_CORE_IOB": [
       (
-        from_wire: "W1:JCIBMUXOUTA0",
+        from_wire: "JTOUT_SIOLOGIC_CORE_IBASE_PIC_B",
       ),
       (
-        from_wire: "JTOUT_SIOLOGIC_CORE_IBASE_PIC_B",
+        from_wire: "W1:JCIBMUXOUTA0",
       ),
     ],
     "JSCLKIN_SIOLOGIC_CORE_IBASE_PIC_A": [

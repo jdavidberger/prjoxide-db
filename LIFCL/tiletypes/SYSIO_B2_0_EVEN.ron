@@ -727,34 +727,34 @@
     ],
     "JPADDO_SEIO33_CORE_IOA": [
       (
-        from_wire: "W1:JCIBMUXOUTA0",
+        from_wire: "JDOUT_SIOLOGIC_CORE_IBASE_PIC_A",
       ),
       (
-        from_wire: "JDOUT_SIOLOGIC_CORE_IBASE_PIC_A",
+        from_wire: "W1:JCIBMUXOUTA0",
       ),
     ],
     "JPADDO_SEIO33_CORE_IOB": [
       (
-        from_wire: "W1:JCIBMUXOUTC0",
+        from_wire: "JDOUT_SIOLOGIC_CORE_IBASE_PIC_B",
       ),
       (
-        from_wire: "JDOUT_SIOLOGIC_CORE_IBASE_PIC_B",
+        from_wire: "W1:JCIBMUXOUTC0",
       ),
     ],
     "JPADDT_SEIO33_CORE_IOA": [
       (
-        from_wire: "W1:JCIBMUXOUTB1",
+        from_wire: "JTOUT_SIOLOGIC_CORE_IBASE_PIC_A",
       ),
       (
-        from_wire: "JTOUT_SIOLOGIC_CORE_IBASE_PIC_A",
+        from_wire: "W1:JCIBMUXOUTB1",
       ),
     ],
     "JPADDT_SEIO33_CORE_IOB": [
       (
-        from_wire: "W1:JCIBMUXOUTB4",
+        from_wire: "JTOUT_SIOLOGIC_CORE_IBASE_PIC_B",
       ),
       (
-        from_wire: "JTOUT_SIOLOGIC_CORE_IBASE_PIC_B",
+        from_wire: "W1:JCIBMUXOUTB4",
       ),
     ],
     "JSCLKIN_SIOLOGIC_CORE_IBASE_PIC_A": [

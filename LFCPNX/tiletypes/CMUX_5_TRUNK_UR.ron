@@ -194,22 +194,6 @@
         bits: [(frame:3,bit:0,invert:false,),(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:false,),(frame:8,bit:0,invert:false,),(frame:9,bit:0,invert:false,),],
       ),
       (
-        from_wire: "S8W1:JJCLKLL_DCSMUX_CORE_DCSMUX0",
-        bits: [(frame:3,bit:0,invert:false,),(frame:4,bit:0,invert:true,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:true,),(frame:8,bit:0,invert:true,),(frame:9,bit:0,invert:true,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKLR_DCSMUX_CORE_DCSMUX0",
-        bits: [(frame:3,bit:0,invert:true,),(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:false,),(frame:7,bit:0,invert:false,),(frame:8,bit:0,invert:false,),(frame:9,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKUL_DCSMUX_CORE_DCSMUX0",
-        bits: [(frame:3,bit:0,invert:false,),(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:true,),(frame:8,bit:0,invert:true,),(frame:9,bit:0,invert:true,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKUR_DCSMUX_CORE_DCSMUX0",
-        bits: [(frame:3,bit:0,invert:true,),(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:true,),(frame:8,bit:0,invert:true,),(frame:9,bit:0,invert:true,),],
-      ),
-      (
         from_wire: "G:JVPFN0_DCSMUX_CORE_DCSMUX0",
         bits: [(frame:3,bit:0,invert:true,),(frame:4,bit:0,invert:true,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:true,),(frame:8,bit:0,invert:true,),(frame:9,bit:0,invert:false,),],
       ),
@@ -345,6 +329,22 @@
         from_wire: "G:JVPFS9_DCSMUX_CORE_DCSMUX0",
         bits: [(frame:3,bit:0,invert:false,),(frame:4,bit:0,invert:true,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:false,),(frame:8,bit:0,invert:false,),(frame:9,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "S8W1:JJCLKLL_DCSMUX_CORE_DCSMUX0",
+        bits: [(frame:3,bit:0,invert:false,),(frame:4,bit:0,invert:true,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:true,),(frame:8,bit:0,invert:true,),(frame:9,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKLR_DCSMUX_CORE_DCSMUX0",
+        bits: [(frame:3,bit:0,invert:true,),(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:false,),(frame:7,bit:0,invert:false,),(frame:8,bit:0,invert:false,),(frame:9,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKUL_DCSMUX_CORE_DCSMUX0",
+        bits: [(frame:3,bit:0,invert:false,),(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:true,),(frame:8,bit:0,invert:true,),(frame:9,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKUR_DCSMUX_CORE_DCSMUX0",
+        bits: [(frame:3,bit:0,invert:true,),(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:true,),(frame:7,bit:0,invert:true,),(frame:8,bit:0,invert:true,),(frame:9,bit:0,invert:true,),],
+      ),
     ],
     "S8W1:JDCSMUXOUT_DCSMUX_CORE_DCSMUX1": [
       (
@@ -442,22 +442,6 @@
       (
         from_wire: "G:JHPFW9_DCSMUX_CORE_DCSMUX1",
         bits: [(frame:10,bit:0,invert:false,),(frame:11,bit:0,invert:false,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:false,),(frame:15,bit:0,invert:false,),(frame:16,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKLL_DCSMUX_CORE_DCSMUX1",
-        bits: [(frame:10,bit:0,invert:false,),(frame:11,bit:0,invert:true,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:true,),(frame:15,bit:0,invert:true,),(frame:16,bit:0,invert:true,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKLR_DCSMUX_CORE_DCSMUX1",
-        bits: [(frame:10,bit:0,invert:true,),(frame:11,bit:0,invert:false,),(frame:12,bit:0,invert:false,),(frame:14,bit:0,invert:false,),(frame:15,bit:0,invert:false,),(frame:16,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKUL_DCSMUX_CORE_DCSMUX1",
-        bits: [(frame:10,bit:0,invert:false,),(frame:11,bit:0,invert:false,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:true,),(frame:15,bit:0,invert:true,),(frame:16,bit:0,invert:true,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKUR_DCSMUX_CORE_DCSMUX1",
-        bits: [(frame:10,bit:0,invert:true,),(frame:11,bit:0,invert:false,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:true,),(frame:15,bit:0,invert:true,),(frame:16,bit:0,invert:true,),],
       ),
       (
         from_wire: "G:JVPFN0_DCSMUX_CORE_DCSMUX1",
@@ -595,12 +579,24 @@
         from_wire: "G:JVPFS9_DCSMUX_CORE_DCSMUX1",
         bits: [(frame:10,bit:0,invert:false,),(frame:11,bit:0,invert:true,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:false,),(frame:15,bit:0,invert:false,),(frame:16,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "S8W1:JJCLKLL_DCSMUX_CORE_DCSMUX1",
+        bits: [(frame:10,bit:0,invert:false,),(frame:11,bit:0,invert:true,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:true,),(frame:15,bit:0,invert:true,),(frame:16,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKLR_DCSMUX_CORE_DCSMUX1",
+        bits: [(frame:10,bit:0,invert:true,),(frame:11,bit:0,invert:false,),(frame:12,bit:0,invert:false,),(frame:14,bit:0,invert:false,),(frame:15,bit:0,invert:false,),(frame:16,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKUL_DCSMUX_CORE_DCSMUX1",
+        bits: [(frame:10,bit:0,invert:false,),(frame:11,bit:0,invert:false,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:true,),(frame:15,bit:0,invert:true,),(frame:16,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKUR_DCSMUX_CORE_DCSMUX1",
+        bits: [(frame:10,bit:0,invert:true,),(frame:11,bit:0,invert:false,),(frame:12,bit:0,invert:true,),(frame:14,bit:0,invert:true,),(frame:15,bit:0,invert:true,),(frame:16,bit:0,invert:true,),],
+      ),
     ],
     "S8W1:JHPRX0_CMUX_CORE_CMUX3": [
-      (
-        from_wire: "S8W1:JDCS1_CMUX_CORE_CMUX3",
-        bits: [(frame:22,bit:0,invert:true,),(frame:23,bit:0,invert:false,),(frame:24,bit:0,invert:false,),(frame:25,bit:0,invert:false,),(frame:26,bit:0,invert:false,),],
-      ),
       (
         from_wire: "G:JHPFW0_CMUX_CORE_CMUX3",
         bits: [(frame:22,bit:0,invert:false,),(frame:23,bit:0,invert:false,),(frame:24,bit:0,invert:true,),(frame:25,bit:0,invert:false,),(frame:26,bit:0,invert:false,),],
@@ -608,10 +604,6 @@
       (
         from_wire: "G:JHPFW7_CMUX_CORE_CMUX3",
         bits: [(frame:22,bit:0,invert:true,),(frame:23,bit:0,invert:true,),(frame:24,bit:0,invert:false,),(frame:25,bit:0,invert:false,),(frame:26,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
-        bits: [(frame:22,bit:0,invert:false,),(frame:23,bit:0,invert:true,),(frame:24,bit:0,invert:false,),(frame:25,bit:0,invert:false,),(frame:26,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN13_CMUX_CORE_CMUX3",
@@ -661,12 +653,16 @@
         from_wire: "G:JVPFS8_CMUX_CORE_CMUX3",
         bits: [(frame:22,bit:0,invert:true,),(frame:23,bit:0,invert:false,),(frame:24,bit:0,invert:true,),(frame:25,bit:0,invert:true,),(frame:26,bit:0,invert:false,),],
       ),
-    ],
-    "S8W1:JHPRX1_CMUX_CORE_CMUX3": [
       (
         from_wire: "S8W1:JDCS1_CMUX_CORE_CMUX3",
-        bits: [(frame:27,bit:0,invert:true,),(frame:28,bit:0,invert:false,),(frame:29,bit:0,invert:false,),(frame:30,bit:0,invert:false,),(frame:31,bit:0,invert:false,),],
+        bits: [(frame:22,bit:0,invert:true,),(frame:23,bit:0,invert:false,),(frame:24,bit:0,invert:false,),(frame:25,bit:0,invert:false,),(frame:26,bit:0,invert:false,),],
       ),
+      (
+        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
+        bits: [(frame:22,bit:0,invert:false,),(frame:23,bit:0,invert:true,),(frame:24,bit:0,invert:false,),(frame:25,bit:0,invert:false,),(frame:26,bit:0,invert:false,),],
+      ),
+    ],
+    "S8W1:JHPRX1_CMUX_CORE_CMUX3": [
       (
         from_wire: "G:JHPFE10_CMUX_CORE_CMUX3",
         bits: [(frame:27,bit:0,invert:false,),(frame:28,bit:0,invert:true,),(frame:29,bit:0,invert:true,),(frame:30,bit:0,invert:false,),(frame:31,bit:0,invert:false,),],
@@ -727,6 +723,10 @@
         from_wire: "G:JVPFS14_CMUX_CORE_CMUX3",
         bits: [(frame:27,bit:0,invert:false,),(frame:28,bit:0,invert:false,),(frame:29,bit:0,invert:true,),(frame:30,bit:0,invert:false,),(frame:31,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "S8W1:JDCS1_CMUX_CORE_CMUX3",
+        bits: [(frame:27,bit:0,invert:true,),(frame:28,bit:0,invert:false,),(frame:29,bit:0,invert:false,),(frame:30,bit:0,invert:false,),(frame:31,bit:0,invert:false,),],
+      ),
     ],
     "S8W1:JHPRX2_CMUX_CORE_CMUX3": [
       (
@@ -758,14 +758,6 @@
         bits: [(frame:32,bit:0,invert:false,),(frame:33,bit:0,invert:false,),(frame:34,bit:0,invert:true,),(frame:35,bit:0,invert:false,),(frame:36,bit:0,invert:false,),],
       ),
       (
-        from_wire: "S8W1:JJCLKLR_CMUX_CORE_CMUX3",
-        bits: [(frame:32,bit:0,invert:true,),(frame:33,bit:0,invert:false,),(frame:34,bit:0,invert:false,),(frame:35,bit:0,invert:false,),(frame:36,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKUR_CMUX_CORE_CMUX3",
-        bits: [(frame:32,bit:0,invert:false,),(frame:33,bit:0,invert:true,),(frame:34,bit:0,invert:false,),(frame:35,bit:0,invert:false,),(frame:36,bit:0,invert:false,),],
-      ),
-      (
         from_wire: "G:JVPFN0_CMUX_CORE_CMUX3",
         bits: [(frame:32,bit:0,invert:false,),(frame:33,bit:0,invert:true,),(frame:34,bit:0,invert:false,),(frame:35,bit:0,invert:false,),(frame:36,bit:0,invert:true,),],
       ),
@@ -792,6 +784,14 @@
       (
         from_wire: "G:JVPFS1_CMUX_CORE_CMUX3",
         bits: [(frame:32,bit:0,invert:false,),(frame:33,bit:0,invert:false,),(frame:34,bit:0,invert:true,),(frame:35,bit:0,invert:false,),(frame:36,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKLR_CMUX_CORE_CMUX3",
+        bits: [(frame:32,bit:0,invert:true,),(frame:33,bit:0,invert:false,),(frame:34,bit:0,invert:false,),(frame:35,bit:0,invert:false,),(frame:36,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKUR_CMUX_CORE_CMUX3",
+        bits: [(frame:32,bit:0,invert:false,),(frame:33,bit:0,invert:true,),(frame:34,bit:0,invert:false,),(frame:35,bit:0,invert:false,),(frame:36,bit:0,invert:false,),],
       ),
     ],
     "S8W1:JHPRX3_CMUX_CORE_CMUX3": [
@@ -840,10 +840,6 @@
         bits: [(frame:37,bit:0,invert:false,),(frame:38,bit:0,invert:false,),(frame:39,bit:0,invert:true,),(frame:40,bit:0,invert:false,),(frame:41,bit:0,invert:false,),],
       ),
       (
-        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
-        bits: [(frame:37,bit:0,invert:true,),(frame:38,bit:0,invert:false,),(frame:39,bit:0,invert:false,),(frame:40,bit:0,invert:false,),(frame:41,bit:0,invert:false,),],
-      ),
-      (
         from_wire: "G:JVPFN0_CMUX_CORE_CMUX3",
         bits: [(frame:37,bit:0,invert:false,),(frame:38,bit:0,invert:true,),(frame:39,bit:0,invert:false,),(frame:40,bit:0,invert:false,),(frame:41,bit:0,invert:true,),],
       ),
@@ -858,6 +854,10 @@
       (
         from_wire: "G:JVPFS9_CMUX_CORE_CMUX3",
         bits: [(frame:37,bit:0,invert:true,),(frame:38,bit:0,invert:true,),(frame:39,bit:0,invert:false,),(frame:40,bit:0,invert:false,),(frame:41,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
+        bits: [(frame:37,bit:0,invert:true,),(frame:38,bit:0,invert:false,),(frame:39,bit:0,invert:false,),(frame:40,bit:0,invert:false,),(frame:41,bit:0,invert:false,),],
       ),
     ],
     "S8W1:JHPRX4_CMUX_CORE_CMUX3": [
@@ -880,10 +880,6 @@
       (
         from_wire: "G:JHPFW5_CMUX_CORE_CMUX3",
         bits: [(frame:42,bit:0,invert:false,),(frame:43,bit:0,invert:true,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
-        bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:false,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN0_CMUX_CORE_CMUX3",
@@ -925,6 +921,10 @@
         from_wire: "G:JVPFS8_CMUX_CORE_CMUX3",
         bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:false,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
+        bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:false,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
+      ),
     ],
     "S8W1:JHPRX5_CMUX_CORE_CMUX3": [
       (
@@ -954,10 +954,6 @@
       (
         from_wire: "G:JHPFW9_CMUX_CORE_CMUX3",
         bits: [(frame:47,bit:0,invert:true,),(frame:48,bit:0,invert:true,),(frame:49,bit:0,invert:false,),(frame:50,bit:0,invert:false,),(frame:51,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKUL_CMUX_CORE_CMUX3",
-        bits: [(frame:47,bit:0,invert:true,),(frame:48,bit:0,invert:false,),(frame:49,bit:0,invert:false,),(frame:50,bit:0,invert:false,),(frame:51,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN5_CMUX_CORE_CMUX3",
@@ -990,6 +986,10 @@
       (
         from_wire: "G:JVPFS7_CMUX_CORE_CMUX3",
         bits: [(frame:47,bit:0,invert:false,),(frame:48,bit:0,invert:true,),(frame:49,bit:0,invert:true,),(frame:50,bit:0,invert:true,),(frame:51,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKUL_CMUX_CORE_CMUX3",
+        bits: [(frame:47,bit:0,invert:true,),(frame:48,bit:0,invert:false,),(frame:49,bit:0,invert:false,),(frame:50,bit:0,invert:false,),(frame:51,bit:0,invert:false,),],
       ),
     ],
     "S8W1:JHPRX6_CMUX_CORE_CMUX3": [
@@ -1060,10 +1060,6 @@
     ],
     "S8W1:JHPRX7_CMUX_CORE_CMUX3": [
       (
-        from_wire: "S8W1:JDCS0_CMUX_CORE_CMUX3",
-        bits: [(frame:57,bit:0,invert:true,),(frame:58,bit:0,invert:false,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
-      ),
-      (
         from_wire: "G:JHPFE0_CMUX_CORE_CMUX3",
         bits: [(frame:57,bit:0,invert:false,),(frame:58,bit:0,invert:true,),(frame:59,bit:0,invert:true,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
       ),
@@ -1078,10 +1074,6 @@
       (
         from_wire: "G:JHPFW1_CMUX_CORE_CMUX3",
         bits: [(frame:57,bit:0,invert:true,),(frame:58,bit:0,invert:true,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
-        bits: [(frame:57,bit:0,invert:false,),(frame:58,bit:0,invert:true,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN11_CMUX_CORE_CMUX3",
@@ -1122,6 +1114,14 @@
       (
         from_wire: "G:JVPFS7_CMUX_CORE_CMUX3",
         bits: [(frame:57,bit:0,invert:true,),(frame:58,bit:0,invert:true,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "S8W1:JDCS0_CMUX_CORE_CMUX3",
+        bits: [(frame:57,bit:0,invert:true,),(frame:58,bit:0,invert:false,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "S8W1:JJCLKLL_CMUX_CORE_CMUX3",
+        bits: [(frame:57,bit:0,invert:false,),(frame:58,bit:0,invert:true,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
       ),
     ],
   },

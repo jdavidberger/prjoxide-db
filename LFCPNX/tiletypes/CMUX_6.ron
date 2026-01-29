@@ -10,14 +10,6 @@
         bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:true,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
       ),
       (
-        from_wire: "N19:JJCLKLR_CMUX_CORE_CMUX2",
-        bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:false,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKUL_CMUX_CORE_CMUX2",
-        bits: [(frame:42,bit:0,invert:false,),(frame:43,bit:0,invert:true,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
-      ),
-      (
         from_wire: "G:JVPFN10_CMUX_CORE_CMUX2",
         bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:false,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:true,),(frame:46,bit:0,invert:false,),],
       ),
@@ -64,6 +56,14 @@
       (
         from_wire: "G:JVPFS8_CMUX_CORE_CMUX2",
         bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:true,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "N19:JJCLKLR_CMUX_CORE_CMUX2",
+        bits: [(frame:42,bit:0,invert:true,),(frame:43,bit:0,invert:false,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N19:JJCLKUL_CMUX_CORE_CMUX2",
+        bits: [(frame:42,bit:0,invert:false,),(frame:43,bit:0,invert:true,),(frame:44,bit:0,invert:false,),(frame:45,bit:0,invert:false,),(frame:46,bit:0,invert:false,),],
       ),
     ],
     "N19:JHPRX11_CMUX_CORE_CMUX2": [
@@ -134,10 +134,6 @@
     ],
     "N19:JHPRX12_CMUX_CORE_CMUX2": [
       (
-        from_wire: "N19:JDCS1_CMUX_CORE_CMUX2",
-        bits: [(frame:52,bit:0,invert:true,),(frame:53,bit:0,invert:false,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:false,),],
-      ),
-      (
         from_wire: "G:JHPFE2_CMUX_CORE_CMUX2",
         bits: [(frame:52,bit:0,invert:true,),(frame:53,bit:0,invert:false,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:true,),(frame:56,bit:0,invert:false,),],
       ),
@@ -152,14 +148,6 @@
       (
         from_wire: "G:JHPFW5_CMUX_CORE_CMUX2",
         bits: [(frame:52,bit:0,invert:false,),(frame:53,bit:0,invert:false,),(frame:54,bit:0,invert:true,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKLR_CMUX_CORE_CMUX2",
-        bits: [(frame:52,bit:0,invert:false,),(frame:53,bit:0,invert:true,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKUR_CMUX_CORE_CMUX2",
-        bits: [(frame:52,bit:0,invert:true,),(frame:53,bit:0,invert:true,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN12_CMUX_CORE_CMUX2",
@@ -197,12 +185,20 @@
         from_wire: "G:JVPFS9_CMUX_CORE_CMUX2",
         bits: [(frame:52,bit:0,invert:true,),(frame:53,bit:0,invert:false,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "N19:JDCS1_CMUX_CORE_CMUX2",
+        bits: [(frame:52,bit:0,invert:true,),(frame:53,bit:0,invert:false,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N19:JJCLKLR_CMUX_CORE_CMUX2",
+        bits: [(frame:52,bit:0,invert:false,),(frame:53,bit:0,invert:true,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N19:JJCLKUR_CMUX_CORE_CMUX2",
+        bits: [(frame:52,bit:0,invert:true,),(frame:53,bit:0,invert:true,),(frame:54,bit:0,invert:false,),(frame:55,bit:0,invert:false,),(frame:56,bit:0,invert:false,),],
+      ),
     ],
     "N19:JHPRX13_CMUX_CORE_CMUX2": [
-      (
-        from_wire: "N19:JDCS0_CMUX_CORE_CMUX2",
-        bits: [(frame:57,bit:0,invert:true,),(frame:58,bit:0,invert:false,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
-      ),
       (
         from_wire: "G:JHPFE0_CMUX_CORE_CMUX2",
         bits: [(frame:57,bit:0,invert:true,),(frame:58,bit:0,invert:false,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:true,),(frame:61,bit:0,invert:false,),],
@@ -263,12 +259,12 @@
         from_wire: "G:JVPFS6_CMUX_CORE_CMUX2",
         bits: [(frame:57,bit:0,invert:false,),(frame:58,bit:0,invert:false,),(frame:59,bit:0,invert:true,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:true,),],
       ),
-    ],
-    "N19:JHPRX14_CMUX_CORE_CMUX2": [
       (
         from_wire: "N19:JDCS0_CMUX_CORE_CMUX2",
-        bits: [(frame:62,bit:0,invert:true,),(frame:63,bit:0,invert:false,),(frame:64,bit:0,invert:false,),(frame:65,bit:0,invert:false,),(frame:66,bit:0,invert:false,),],
+        bits: [(frame:57,bit:0,invert:true,),(frame:58,bit:0,invert:false,),(frame:59,bit:0,invert:false,),(frame:60,bit:0,invert:false,),(frame:61,bit:0,invert:false,),],
       ),
+    ],
+    "N19:JHPRX14_CMUX_CORE_CMUX2": [
       (
         from_wire: "G:JHPFE10_CMUX_CORE_CMUX2",
         bits: [(frame:62,bit:0,invert:false,),(frame:63,bit:0,invert:true,),(frame:64,bit:0,invert:false,),(frame:65,bit:0,invert:true,),(frame:66,bit:0,invert:false,),],
@@ -292,10 +288,6 @@
       (
         from_wire: "G:JHPFW9_CMUX_CORE_CMUX2",
         bits: [(frame:62,bit:0,invert:false,),(frame:63,bit:0,invert:false,),(frame:64,bit:0,invert:true,),(frame:65,bit:0,invert:false,),(frame:66,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKLR_CMUX_CORE_CMUX2",
-        bits: [(frame:62,bit:0,invert:false,),(frame:63,bit:0,invert:true,),(frame:64,bit:0,invert:false,),(frame:65,bit:0,invert:false,),(frame:66,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN13_CMUX_CORE_CMUX2",
@@ -329,12 +321,16 @@
         from_wire: "G:JVPFS9_CMUX_CORE_CMUX2",
         bits: [(frame:62,bit:0,invert:false,),(frame:63,bit:0,invert:true,),(frame:64,bit:0,invert:false,),(frame:65,bit:0,invert:false,),(frame:66,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "N19:JDCS0_CMUX_CORE_CMUX2",
+        bits: [(frame:62,bit:0,invert:true,),(frame:63,bit:0,invert:false,),(frame:64,bit:0,invert:false,),(frame:65,bit:0,invert:false,),(frame:66,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N19:JJCLKLR_CMUX_CORE_CMUX2",
+        bits: [(frame:62,bit:0,invert:false,),(frame:63,bit:0,invert:true,),(frame:64,bit:0,invert:false,),(frame:65,bit:0,invert:false,),(frame:66,bit:0,invert:false,),],
+      ),
     ],
     "N19:JHPRX15_CMUX_CORE_CMUX2": [
-      (
-        from_wire: "N19:JDCS1_CMUX_CORE_CMUX2",
-        bits: [(frame:67,bit:0,invert:true,),(frame:68,bit:0,invert:false,),(frame:69,bit:0,invert:false,),(frame:70,bit:0,invert:false,),(frame:71,bit:0,invert:false,),],
-      ),
       (
         from_wire: "G:JHPFE2_CMUX_CORE_CMUX2",
         bits: [(frame:67,bit:0,invert:false,),(frame:68,bit:0,invert:true,),(frame:69,bit:0,invert:false,),(frame:70,bit:0,invert:true,),(frame:71,bit:0,invert:false,),],
@@ -358,10 +354,6 @@
       (
         from_wire: "G:JHPFW6_CMUX_CORE_CMUX2",
         bits: [(frame:67,bit:0,invert:true,),(frame:68,bit:0,invert:true,),(frame:69,bit:0,invert:false,),(frame:70,bit:0,invert:false,),(frame:71,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKUR_CMUX_CORE_CMUX2",
-        bits: [(frame:67,bit:0,invert:false,),(frame:68,bit:0,invert:true,),(frame:69,bit:0,invert:false,),(frame:70,bit:0,invert:false,),(frame:71,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN3_CMUX_CORE_CMUX2",
@@ -395,6 +387,14 @@
         from_wire: "G:JVPFS5_CMUX_CORE_CMUX2",
         bits: [(frame:67,bit:0,invert:false,),(frame:68,bit:0,invert:true,),(frame:69,bit:0,invert:false,),(frame:70,bit:0,invert:false,),(frame:71,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "N19:JDCS1_CMUX_CORE_CMUX2",
+        bits: [(frame:67,bit:0,invert:true,),(frame:68,bit:0,invert:false,),(frame:69,bit:0,invert:false,),(frame:70,bit:0,invert:false,),(frame:71,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N19:JJCLKUR_CMUX_CORE_CMUX2",
+        bits: [(frame:67,bit:0,invert:false,),(frame:68,bit:0,invert:true,),(frame:69,bit:0,invert:false,),(frame:70,bit:0,invert:false,),(frame:71,bit:0,invert:false,),],
+      ),
     ],
     "N19:JHPRX8_CMUX_CORE_CMUX2": [
       (
@@ -420,10 +420,6 @@
       (
         from_wire: "G:JHPFW3_CMUX_CORE_CMUX2",
         bits: [(frame:72,bit:0,invert:true,),(frame:73,bit:0,invert:true,),(frame:74,bit:0,invert:false,),(frame:75,bit:0,invert:false,),(frame:76,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKUL_CMUX_CORE_CMUX2",
-        bits: [(frame:72,bit:0,invert:true,),(frame:73,bit:0,invert:false,),(frame:74,bit:0,invert:false,),(frame:75,bit:0,invert:false,),(frame:76,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN16_CMUX_CORE_CMUX2",
@@ -461,12 +457,12 @@
         from_wire: "G:JVPFS9_CMUX_CORE_CMUX2",
         bits: [(frame:72,bit:0,invert:true,),(frame:73,bit:0,invert:true,),(frame:74,bit:0,invert:false,),(frame:75,bit:0,invert:false,),(frame:76,bit:0,invert:true,),],
       ),
+      (
+        from_wire: "N19:JJCLKUL_CMUX_CORE_CMUX2",
+        bits: [(frame:72,bit:0,invert:true,),(frame:73,bit:0,invert:false,),(frame:74,bit:0,invert:false,),(frame:75,bit:0,invert:false,),(frame:76,bit:0,invert:false,),],
+      ),
     ],
     "N19:JHPRX9_CMUX_CORE_CMUX2": [
-      (
-        from_wire: "N19:JDCS0_CMUX_CORE_CMUX2",
-        bits: [(frame:77,bit:0,invert:true,),(frame:78,bit:0,invert:false,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
-      ),
       (
         from_wire: "G:JHPFE11_CMUX_CORE_CMUX2",
         bits: [(frame:77,bit:0,invert:false,),(frame:78,bit:0,invert:true,),(frame:79,bit:0,invert:true,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
@@ -486,14 +482,6 @@
       (
         from_wire: "G:JHPFW4_CMUX_CORE_CMUX2",
         bits: [(frame:77,bit:0,invert:false,),(frame:78,bit:0,invert:false,),(frame:79,bit:0,invert:true,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKUL_CMUX_CORE_CMUX2",
-        bits: [(frame:77,bit:0,invert:true,),(frame:78,bit:0,invert:true,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
-      ),
-      (
-        from_wire: "N19:JJCLKUR_CMUX_CORE_CMUX2",
-        bits: [(frame:77,bit:0,invert:false,),(frame:78,bit:0,invert:true,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
       ),
       (
         from_wire: "G:JVPFN0_CMUX_CORE_CMUX2",
@@ -526,6 +514,18 @@
       (
         from_wire: "G:JVPFS6_CMUX_CORE_CMUX2",
         bits: [(frame:77,bit:0,invert:true,),(frame:78,bit:0,invert:true,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:true,),],
+      ),
+      (
+        from_wire: "N19:JDCS0_CMUX_CORE_CMUX2",
+        bits: [(frame:77,bit:0,invert:true,),(frame:78,bit:0,invert:false,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N19:JJCLKUL_CMUX_CORE_CMUX2",
+        bits: [(frame:77,bit:0,invert:true,),(frame:78,bit:0,invert:true,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N19:JJCLKUR_CMUX_CORE_CMUX2",
+        bits: [(frame:77,bit:0,invert:false,),(frame:78,bit:0,invert:true,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
       ),
     ],
   },
