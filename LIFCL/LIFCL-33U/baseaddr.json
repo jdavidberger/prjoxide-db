@@ -1,0 +1,44 @@
+{
+    "regions": {
+        "EBR_WID0": {
+            "abits": 17,
+            "addr": 536870912
+        },
+        "EBR_WID1": {
+            "abits": 17,
+            "addr": 537001984
+        },
+        "EBR_WID2047": {
+            "abits": 17,
+            "addr": 805175296
+        },
+        "I2CFIFO_CORE_R1C37": {
+            "abits": 6,
+            "addr": 236584960
+        },
+        "LRAM_CORE_R11C1": {
+            "abits": 17,
+            "addr": 536870912
+        },
+        "LRAM_CORE_R15C74": {
+            "abits": 17,
+            "addr": 536870912
+        },
+        "LRAM_CORE_R16C74": {
+            "abits": 17,
+            "addr": 536870912
+        },
+        "LRAM_CORE_R20C1": {
+            "abits": 17,
+            "addr": 536870912
+        },
+        "LRAM_CORE_R2C1": {
+            "abits": 17,
+            "addr": 536870912
+        },
+        "PLL_LLC": {
+            "abits": 7,
+            "addr": 235274240
+        }
+    }
+}
