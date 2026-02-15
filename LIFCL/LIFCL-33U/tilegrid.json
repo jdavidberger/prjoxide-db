@@ -146,28 +146,28 @@
         },
         "CIB_R0C24:PCLK_DLY_10": {
             "bits": 2,
-            "frames": 106,
+          "frames": 106,
             "start_bit": 0,
             "start_frame": 2482,
             "tiletype": "PCLK_DLY_10",
             "x": 24,
             "y": 0
         },
-        "CIB_R0C25:TMID_0": {
+        "CIB_R0C25:TMID_0_33K": {
             "bits": 2,
             "frames": 106,
             "start_bit": 0,
             "start_frame": 2588,
-            "tiletype": "TMID_0",
+            "tiletype": "TMID_0_33K",
             "x": 25,
             "y": 0
         },
-        "CIB_R0C26:TMID_1": {
+        "CIB_R0C26:TMID_1_33K": {
             "bits": 2,
             "frames": 106,
             "start_bit": 0,
             "start_frame": 2694,
-            "tiletype": "TMID_1",
+            "tiletype": "TMID_1_33K",
             "x": 26,
             "y": 0
         },
@@ -11358,12 +11358,12 @@
             "x": 50,
             "y": 82
         },
-        "CIB_R82C51:DDR_OSC_R": {
+        "CIB_R82C51:DDR_OSC_R_33K": {
             "bits": 11,
             "frames": 16,
             "start_bit": 973,
             "start_frame": 28,
-            "tiletype": "DDR_OSC_R",
+            "tiletype": "DDR_OSC_R_33K",
             "x": 51,
             "y": 82
         },
@@ -11565,21 +11565,21 @@
             "x": 24,
             "y": 83
         },
-        "CIB_R83C25:BMID_0_ECLK_1": {
+        "CIB_R83C25:BMID_0_ECLK_1_33K": {
             "bits": 2,
             "frames": 106,
             "start_bit": 984,
             "start_frame": 2588,
-            "tiletype": "BMID_0_ECLK_1",
+            "tiletype": "BMID_0_ECLK_1_33K",
             "x": 25,
             "y": 83
         },
-        "CIB_R83C26:BMID_1_ECLK_2": {
+        "CIB_R83C26:BMID_1_ECLK_2_33K": {
             "bits": 2,
             "frames": 106,
             "start_bit": 984,
             "start_frame": 2694,
-            "tiletype": "BMID_1_ECLK_2",
+            "tiletype": "BMID_1_ECLK_2_33K",
             "x": 26,
             "y": 83
         },

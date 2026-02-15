@@ -162,12 +162,12 @@
             "x": 25,
             "y": 0
         },
-        "CIB_R0C26:TMID_1": {
+        "CIB_R0C26:TMID_1_33K": {
             "bits": 2,
             "frames": 106,
             "start_bit": 0,
             "start_frame": 2694,
-            "tiletype": "TMID_1",
+            "tiletype": "TMID_1_33K",
             "x": 26,
             "y": 0
         },
@@ -11358,12 +11358,12 @@
             "x": 50,
             "y": 82
         },
-        "CIB_R82C51:DDR_OSC_R": {
+        "CIB_R82C51:DDR_OSC_R_33K": {
             "bits": 11,
             "frames": 16,
             "start_bit": 973,
             "start_frame": 28,
-            "tiletype": "DDR_OSC_R",
+            "tiletype": "DDR_OSC_R_33K",
             "x": 51,
             "y": 82
         },
@@ -11565,21 +11565,21 @@
             "x": 24,
             "y": 83
         },
-        "CIB_R83C25:BMID_0_ECLK_1": {
+        "CIB_R83C25:BMID_0_ECLK_1_33K": {
             "bits": 2,
             "frames": 106,
             "start_bit": 984,
             "start_frame": 2588,
-            "tiletype": "BMID_0_ECLK_1",
+            "tiletype": "BMID_0_ECLK_1_33K",
             "x": 25,
             "y": 83
         },
-        "CIB_R83C26:BMID_1_ECLK_2": {
+        "CIB_R83C26:BMID_1_ECLK_2_33K": {
             "bits": 2,
             "frames": 106,
             "start_bit": 984,
             "start_frame": 2694,
-            "tiletype": "BMID_1_ECLK_2",
+            "tiletype": "BMID_1_ECLK_2_33K",
             "x": 26,
             "y": 83
         },
@@ -43236,183 +43236,183 @@
             "x": 9,
             "y": 9
         },
-        "TAP_CIBT_R1C14:TAP_CIBT": {
+        "TAP_CIBT_R1C14:TAP_CIBT_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 2,
             "start_frame": 16,
-            "tiletype": "TAP_CIBT",
+            "tiletype": "TAP_CIBT_33K",
             "x": 14,
             "y": 1
         },
-        "TAP_CIBT_R1C26:TAP_CIBT": {
+        "TAP_CIBT_R1C26:TAP_CIBT_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 2,
             "start_frame": 22,
-            "tiletype": "TAP_CIBT",
+            "tiletype": "TAP_CIBT_33K",
             "x": 26,
             "y": 1
         },
-        "TAP_CIB_R10C14:TAP_CIB": {
+        "TAP_CIB_R10C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 109,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 10
         },
-        "TAP_CIB_R10C26:TAP_CIB": {
+        "TAP_CIB_R10C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 109,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 10
         },
-        "TAP_CIB_R19C14:TAP_CIB": {
+        "TAP_CIB_R19C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 217,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 19
         },
-        "TAP_CIB_R19C26:TAP_CIB": {
+        "TAP_CIB_R19C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 217,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 19
         },
-        "TAP_CIB_R28C14:TAP_CIB": {
+        "TAP_CIB_R28C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 325,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 28
         },
-        "TAP_CIB_R28C26:TAP_CIB": {
+        "TAP_CIB_R28C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 325,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 28
         },
-        "TAP_CIB_R37C14:TAP_CIB": {
+        "TAP_CIB_R37C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 433,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 37
         },
-        "TAP_CIB_R37C26:TAP_CIB": {
+        "TAP_CIB_R37C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 433,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 37
         },
-        "TAP_CIB_R46C14:TAP_CIB": {
+        "TAP_CIB_R46C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 541,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 46
         },
-        "TAP_CIB_R46C26:TAP_CIB": {
+        "TAP_CIB_R46C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 541,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 46
         },
-        "TAP_CIB_R55C14:TAP_CIB": {
+        "TAP_CIB_R55C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 649,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 55
         },
-        "TAP_CIB_R55C26:TAP_CIB": {
+        "TAP_CIB_R55C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 649,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 55
         },
-        "TAP_CIB_R64C14:TAP_CIB": {
+        "TAP_CIB_R64C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 757,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 64
         },
-        "TAP_CIB_R64C26:TAP_CIB": {
+        "TAP_CIB_R64C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 757,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 64
         },
-        "TAP_CIB_R73C14:TAP_CIB": {
+        "TAP_CIB_R73C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 865,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 73
         },
-        "TAP_CIB_R73C26:TAP_CIB": {
+        "TAP_CIB_R73C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 865,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 73
         },
-        "TAP_CIB_R82C14:TAP_CIB": {
+        "TAP_CIB_R82C14:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 973,
             "start_frame": 16,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 14,
             "y": 82
         },
-        "TAP_CIB_R82C26:TAP_CIB": {
+        "TAP_CIB_R82C26:TAP_CIB_33K": {
             "bits": 11,
             "frames": 6,
             "start_bit": 973,
             "start_frame": 22,
-            "tiletype": "TAP_CIB",
+            "tiletype": "TAP_CIB_33K",
             "x": 26,
             "y": 82
         },
