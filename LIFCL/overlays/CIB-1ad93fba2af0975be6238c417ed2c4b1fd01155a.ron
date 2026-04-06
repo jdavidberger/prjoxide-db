@@ -1,0 +1,164 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "JDCNTL0_DDRDLL_CORE_I1",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "JDCNTL1_DDRDLL_CORE_I1",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JDCNTL2_DDRDLL_CORE_I1",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JDCNTL3_DDRDLL_CORE_I1",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "JDCNTL4_DDRDLL_CORE_I1",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "JDCNTL5_DDRDLL_CORE_I1",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JDCNTL6_DDRDLL_CORE_I1",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JDCNTL7_DDRDLL_CORE_I1",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "JDCNTL8_DDRDLL_CORE_I1",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "JDIVOSCIB_DDRDLL_CORE_I1",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "JLOCK_DDRDLL_CORE_I1",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "E1:H01W0101": [
+      (
+        from_wire: "E2:H01W0001",
+      ),
+    ],
+    "E1:H02E0001": [
+      (
+        from_wire: "H02W0001",
+      ),
+    ],
+    "E1:H02E0101": [
+      (
+        from_wire: "H02W0101",
+      ),
+    ],
+    "E1:H02E0201": [
+      (
+        from_wire: "H02W0201",
+      ),
+    ],
+    "E1:H02E0301": [
+      (
+        from_wire: "H02W0301",
+      ),
+    ],
+    "E1:H02E0401": [
+      (
+        from_wire: "H02W0401",
+      ),
+    ],
+    "E1:H02E0501": [
+      (
+        from_wire: "H02W0501",
+      ),
+    ],
+    "E1:H02E0601": [
+      (
+        from_wire: "H02W0601",
+      ),
+    ],
+    "E1:H02E0701": [
+      (
+        from_wire: "H02W0701",
+      ),
+    ],
+    "JCLKIN_DDRDLL_CORE_I1": [
+      (
+        from_wire: "JCLKOUT_I0",
+      ),
+    ],
+    "JECLK0_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_0",
+      ),
+    ],
+    "JECLK1_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_1",
+      ),
+    ],
+    "JECLK2_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_2",
+      ),
+    ],
+    "JECLK3_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_3",
+      ),
+    ],
+    "JFREEZE_DDRDLL_CORE_I1": [
+      (
+        from_wire: "JCIBMUXOUTC2",
+      ),
+    ],
+    "JPCLK_I0": [
+      (
+        from_wire: "JCLK1",
+      ),
+    ],
+    "JRST_DDRDLL_CORE_I1": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JUDDCNTL_N_DDRDLL_CORE_I1": [
+      (
+        from_wire: "JCIBMUXOUTD1",
+      ),
+    ],
+  },
+)

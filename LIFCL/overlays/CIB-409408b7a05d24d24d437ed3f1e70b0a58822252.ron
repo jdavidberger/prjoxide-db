@@ -1,0 +1,72 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JADA0_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTA3",
+      ),
+    ],
+    "JADA1_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTA5",
+      ),
+    ],
+    "JADA8_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD1",
+      ),
+    ],
+    "JADB0_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTC6",
+      ),
+    ],
+    "JADB1_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTC7",
+      ),
+    ],
+    "JADB3_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTD1",
+      ),
+    ],
+    "JADB4_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JADB8_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JDWS0_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDWS1_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JDWS2_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JDWS3_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JDWS4_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC0",
+      ),
+    ],
+  },
+)

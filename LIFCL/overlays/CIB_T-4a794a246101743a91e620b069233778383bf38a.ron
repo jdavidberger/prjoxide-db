@@ -1,0 +1,31 @@
+(
+  pips: {
+    "JQ0": [
+      (
+        from_wire: "N1W25:JU3RXUPSE_DPHY_CORE_DPHY0",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W25:JU3RXVDE_DPHY_CORE_DPHY0",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1W25:JU3SSTT_DPHY_CORE_DPHY0",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1W25:JU3USAN_DPHY_CORE_DPHY0",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

@@ -1,0 +1,55 @@
+(
+  pips: {
+    "BRANCH_L:HPBX0000": [
+      (
+        from_wire: "BRANCH_R:HPBX0000",
+        bits: [(frame:0,bit:0,invert:false,),(frame:1,bit:0,invert:false,),],
+      ),
+    ],
+    "BRANCH_L:HPBX0100": [
+      (
+        from_wire: "BRANCH_R:HPBX0100",
+        bits: [(frame:0,bit:4,invert:false,),(frame:1,bit:4,invert:false,),],
+      ),
+    ],
+    "BRANCH_L:HPBX0200": [
+      (
+        from_wire: "BRANCH_R:HPBX0200",
+        bits: [(frame:0,bit:2,invert:false,),(frame:1,bit:2,invert:false,),],
+      ),
+    ],
+    "BRANCH_L:HPBX0300": [
+      (
+        from_wire: "BRANCH_R:HPBX0300",
+        bits: [(frame:0,bit:6,invert:false,),(frame:1,bit:6,invert:false,),],
+      ),
+    ],
+    "BRANCH_L:HPBX0400": [
+      (
+        from_wire: "BRANCH_R:HPBX0400",
+        bits: [(frame:0,bit:1,invert:false,),(frame:1,bit:1,invert:false,),],
+      ),
+    ],
+    "BRANCH_L:HPBX0500": [
+      (
+        from_wire: "BRANCH_R:HPBX0500",
+        bits: [(frame:0,bit:5,invert:false,),(frame:1,bit:5,invert:false,),],
+      ),
+    ],
+    "BRANCH_L:HPBX0600": [
+      (
+        from_wire: "BRANCH_R:HPBX0600",
+        bits: [(frame:0,bit:3,invert:false,),(frame:1,bit:3,invert:false,),],
+      ),
+    ],
+    "BRANCH_L:HPBX0700": [
+      (
+        from_wire: "BRANCH_R:HPBX0700",
+        bits: [(frame:0,bit:7,invert:false,),(frame:1,bit:7,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

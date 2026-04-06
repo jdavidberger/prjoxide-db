@@ -1,0 +1,103 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "W2:JSLVADDRMATCH_I2CFIFO_CORE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "W2:JSLVADDRMATCHSCL_I2CFIFO_CORE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "W2:JBUSBUSY_I2CFIFO_CORE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "W2:JIRQ_I2CFIFO_CORE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W8:JJRSTN_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W8:JJSHIFT_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W8:JJTDI_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W8:JMBISTRRMATCH_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "W2:JRXFIFOE_I2CFIFO_CORE",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "W2:JRXFIFOAF_I2CFIFO_CORE",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "W2:JRXFIFOF_I2CFIFO_CORE",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "W2:JTXFIFOE_I2CFIFO_CORE",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "W2:JTXFIFOAE_I2CFIFO_CORE",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "W2:JTXFIFOF_I2CFIFO_CORE",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "W2:JMRDCMPL_I2CFIFO_CORE",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "W2:JSRDWR_I2CFIFO_CORE",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

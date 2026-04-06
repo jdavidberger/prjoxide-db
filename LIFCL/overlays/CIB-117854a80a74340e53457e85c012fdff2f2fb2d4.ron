@@ -1,0 +1,98 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "JSRXD8_SGMIICDR_CORE",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "JSRXD9_SGMIICDR_CORE",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JLMMIRDATAVALID_SGMIICDR_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JLMMIREADY_SGMIICDR_CORE",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "W1:JSRXD0_SGMIICDR_CORE",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "W1:JSRXD1_SGMIICDR_CORE",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "W1:JLMMIRDATAVALID_SGMIICDR_CORE",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "W1:JLMMIREADY_SGMIICDR_CORE",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "W1:JCDRLOL_SGMIICDR_CORE",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "JCDRLOL_SGMIICDR_CORE",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JLMMICLK_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCLK0",
+      ),
+    ],
+    "JLMMIRESETN_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JLSR0",
+      ),
+    ],
+    "JSCANCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JSCANRST_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JLSR1",
+      ),
+    ],
+    "JSGMIIIN_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E11:JPADDI_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JSREFCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "W4:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+  },
+)

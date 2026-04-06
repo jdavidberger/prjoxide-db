@@ -1,0 +1,367 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "W2:JDOA16_EBR_CORE",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "W2:JDOA17_EBR_CORE",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JONEERR_EBR_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JTWOERR_EBR_CORE",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JDOA0_EBR_CORE",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JDOA1_EBR_CORE",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "W2:JDOB16_EBR_CORE",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "W2:JDOB17_EBR_CORE",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "JEMPTYF_EBR_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "JFULLF_EBR_CORE",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "JAEMPTY_EBR_CORE",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "JAFULL_EBR_CORE",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "JDOB0_EBR_CORE",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "JDOB1_EBR_CORE",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JADA4_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD2",
+      ),
+    ],
+    "JADA5_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB2",
+      ),
+    ],
+    "JADB10_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JADB11_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA7",
+      ),
+    ],
+    "JADB12_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTD6",
+      ),
+    ],
+    "JADB13_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTB3",
+      ),
+    ],
+    "JADB5_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JADB6_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCEA_EBR_CORE": [
+      (
+        from_wire: "E1:JCE0",
+      ),
+    ],
+    "JCEB_EBR_CORE": [
+      (
+        from_wire: "E2:JCE0",
+      ),
+    ],
+    "JCSA0_EBR_CORE": [
+      (
+        from_wire: "E1:JCE1",
+      ),
+    ],
+    "JCSA1_EBR_CORE": [
+      (
+        from_wire: "E1:JCLK0",
+      ),
+    ],
+    "JCSA2_EBR_CORE": [
+      (
+        from_wire: "JCE0",
+      ),
+    ],
+    "JCSB0_EBR_CORE": [
+      (
+        from_wire: "E2:JCE1",
+      ),
+    ],
+    "JCSB2_EBR_CORE": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JDIA0_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA6",
+      ),
+    ],
+    "JDIA10_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTB0",
+      ),
+    ],
+    "JDIA11_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTA0",
+      ),
+    ],
+    "JDIA12_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTB2",
+      ),
+    ],
+    "JDIA13_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTA2",
+      ),
+    ],
+    "JDIA14_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTA4",
+      ),
+    ],
+    "JDIA15_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTB4",
+      ),
+    ],
+    "JDIA16_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTA6",
+      ),
+    ],
+    "JDIA17_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTB6",
+      ),
+    ],
+    "JDIA1_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JDIA2_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JDIA3_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JDIA4_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JDIA5_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JDIA6_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JDIA7_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JDIA8_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JDIA9_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JDIB0_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC3",
+      ),
+    ],
+    "JDIB10_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTC4",
+      ),
+    ],
+    "JDIB11_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTD4",
+      ),
+    ],
+    "JDIB12_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTD5",
+      ),
+    ],
+    "JDIB13_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTC5",
+      ),
+    ],
+    "JDIB14_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTD2",
+      ),
+    ],
+    "JDIB15_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTC2",
+      ),
+    ],
+    "JDIB16_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTC3",
+      ),
+    ],
+    "JDIB17_EBR_CORE": [
+      (
+        from_wire: "E2:JCIBMUXOUTD3",
+      ),
+    ],
+    "JDIB1_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JDIB2_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JDIB3_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JDIB4_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD5",
+      ),
+    ],
+    "JDIB5_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JDIB6_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JDIB7_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JDIB8_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JDIB9_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB6",
+      ),
+    ],
+    "JRSTA_EBR_CORE": [
+      (
+        from_wire: "E1:JLSR0",
+      ),
+    ],
+    "JRSTB_EBR_CORE": [
+      (
+        from_wire: "E2:JLSR0",
+      ),
+    ],
+    "JWEA_EBR_CORE": [
+      (
+        from_wire: "E1:JLSR1",
+      ),
+    ],
+    "JWEB_EBR_CORE": [
+      (
+        from_wire: "E2:JLSR1",
+      ),
+    ],
+  },
+)

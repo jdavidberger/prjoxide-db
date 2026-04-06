@@ -1,0 +1,42 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JIVREFI0_IVREF_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTC0",
+      ),
+    ],
+    "JIVREFI1_IVREF_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTC1",
+      ),
+    ],
+    "JIVREFI2_IVREF_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTC2",
+      ),
+    ],
+    "JIVREFI3_IVREF_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTC3",
+      ),
+    ],
+    "JIVREFI4_IVREF_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTC4",
+      ),
+    ],
+    "JIVREFI5_IVREF_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTC5",
+      ),
+    ],
+    "JIVREFI6_IVREF_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTC6",
+      ),
+    ],
+  },
+)

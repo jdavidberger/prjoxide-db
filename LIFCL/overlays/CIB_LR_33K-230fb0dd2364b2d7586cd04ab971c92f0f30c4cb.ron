@@ -1,0 +1,61 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N5:JDOA25_LRAM_CORE",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N5:JDOA26_LRAM_CORE",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N5:JDOA27_LRAM_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N5:JDOA28_LRAM_CORE",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N5:JDOA29_LRAM_CORE",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N5:JDOA30_LRAM_CORE",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N5:JDOA24_LRAM_CORE",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N5:JDOA23_LRAM_CORE",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N5:JDOA22_LRAM_CORE",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

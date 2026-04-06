@@ -1,0 +1,67 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "W1:JOSCCLK_AON_CORE_AON0",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "W1:JPREAONOUT_AON_CORE_AON0",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "W1:JREGRSTDEL_AON_CORE_AON0",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "W1:JCNT1SEC_AON_CORE_AON0",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "W1:JPWRDN_AON_CORE_AON0",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "W1:JSIGISOEN_AON_CORE_AON0",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "W1:JCLKISOEN_AON_CORE_AON0",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "W1:JPRESLEEPREG_AON_CORE_AON0",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "W1:JSETTLEREG1P8_AON_CORE_AON0",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "W1:JTIEHIGH_AON_CORE_AON0",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

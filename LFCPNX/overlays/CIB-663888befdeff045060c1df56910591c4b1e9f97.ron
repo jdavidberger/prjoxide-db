@@ -1,0 +1,13 @@
+(
+  pips: {
+    "JQ7": [
+      (
+        from_wire: "W5:JREADCOUT_DQSBUFA_CORE_I_DQS_TOP",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

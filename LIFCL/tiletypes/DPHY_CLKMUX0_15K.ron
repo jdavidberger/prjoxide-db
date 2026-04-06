@@ -1,0 +1,29 @@
+(
+  pips: {
+    "W12:JCLKOUT_DPHY_REFCLOCK_MUX_CORE_DPHY_REFCLOCK_MUX0": [
+      (
+        from_wire: "W12:JCLKIN0_DPHY_REFCLOCK_MUX_CORE_DPHY_REFCLOCK_MUX0",
+        bits: [(frame:5,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "W12:JCLKIN1_DPHY_REFCLOCK_MUX_CORE_DPHY_REFCLOCK_MUX0",
+        bits: [(frame:7,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "W12:JCLKIN2_DPHY_REFCLOCK_MUX_CORE_DPHY_REFCLOCK_MUX0",
+        bits: [(frame:4,bit:0,invert:false,),(frame:7,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "W12:JCLKIN3_DPHY_REFCLOCK_MUX_CORE_DPHY_REFCLOCK_MUX0",
+        bits: [(frame:5,bit:0,invert:false,),(frame:7,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "W12:JCLKIN4_DPHY_REFCLOCK_MUX_CORE_DPHY_REFCLOCK_MUX0",
+        bits: [(frame:4,bit:0,invert:false,),(frame:5,bit:0,invert:false,),(frame:7,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

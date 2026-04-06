@@ -1,0 +1,31 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "N1E11:JSEDCERR1CIB_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1E11:JSEDCERRMCIB_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1E11:JSEDCFRMERRLOCCIB2_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1E11:JSEDCFRMERRLOCCIB3_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

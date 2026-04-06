@@ -1,0 +1,49 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "W16:JPVTCODE0_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "W16:JPVTCODE1_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "W16:JPVTCODE2_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "W16:JPVTCODE3_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "W16:JPVTCODE4_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "W16:JPVTCODE5_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "W16:JPVTCODE6_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

@@ -1,0 +1,105 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "G:JD0_I4_0": [
+      (
+        from_wire: "N5W70:JCODE0_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_1": [
+      (
+        from_wire: "N5W70:JCODE1_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_2": [
+      (
+        from_wire: "N5W70:JCODE2_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_3": [
+      (
+        from_wire: "N5W70:JCODE3_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_4": [
+      (
+        from_wire: "N5W70:JCODE4_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_5": [
+      (
+        from_wire: "N5W70:JCODE5_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_6": [
+      (
+        from_wire: "N5W70:JCODE6_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_7": [
+      (
+        from_wire: "N5W70:JCODE7_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_8": [
+      (
+        from_wire: "N5W70:JCODE8_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_0": [
+      (
+        from_wire: "N1E88:JCODE0_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_1": [
+      (
+        from_wire: "N1E88:JCODE1_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_2": [
+      (
+        from_wire: "N1E88:JCODE2_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_3": [
+      (
+        from_wire: "N1E88:JCODE3_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_4": [
+      (
+        from_wire: "N1E88:JCODE4_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_5": [
+      (
+        from_wire: "N1E88:JCODE5_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_6": [
+      (
+        from_wire: "N1E88:JCODE6_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_7": [
+      (
+        from_wire: "N1E88:JCODE7_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_8": [
+      (
+        from_wire: "N1E88:JCODE8_DDRDLL_CORE_I1",
+      ),
+    ],
+    "JCLKIN_DLLDEL_CORE_I0": [
+      (
+        from_wire: "S1W18:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S1W18:JPADDI_DIFFIO18A_CORE_IOA",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,237 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JA0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCE0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCE1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCLK0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCLK1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JLSR0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JLSR1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+  },
+)

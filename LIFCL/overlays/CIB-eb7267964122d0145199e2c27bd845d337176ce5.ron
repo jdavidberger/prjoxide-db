@@ -1,0 +1,19 @@
+(
+  pips: {
+    "JQ6": [
+      (
+        from_wire: "W12:JPVTCODE2_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "W12:JPVTCODE3_BNKREF18_CORE_BNKREF180",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

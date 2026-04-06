@@ -1,0 +1,67 @@
+(
+  pips: {
+    "E1:JCLKOUT_DLLDEL_CORE_I0": [
+      (
+        from_wire: "E1:JCLKIN_DLLDEL_CORE_I0",
+        bits: [(frame:4,bit:11,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_0": [
+      (
+        from_wire: "G:JD1_I4_0",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_1": [
+      (
+        from_wire: "G:JD1_I4_1",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_2": [
+      (
+        from_wire: "G:JD1_I4_2",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_3": [
+      (
+        from_wire: "G:JD1_I4_3",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_4": [
+      (
+        from_wire: "G:JD1_I4_4",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_5": [
+      (
+        from_wire: "G:JD1_I4_5",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_6": [
+      (
+        from_wire: "G:JD1_I4_6",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_7": [
+      (
+        from_wire: "G:JD1_I4_7",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+    "E1:JZ_I4_8": [
+      (
+        from_wire: "G:JD1_I4_8",
+        bits: [(frame:0,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

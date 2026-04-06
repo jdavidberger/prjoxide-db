@@ -1,0 +1,55 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W12:JMBISTRRMATCH_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W12:JCFGDONECIB_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W12:JJSHIFT_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W12:JJRSTN_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W12:JJRTI1_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W12:JJRTI2_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W12:JJUPDATE_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W12:JJTDI_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

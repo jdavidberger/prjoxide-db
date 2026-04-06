@@ -1,0 +1,13 @@
+(
+  pips: {
+    "JF5": [
+      (
+        from_wire: "E1:JPADDI_SEIO33_CORE_IOA",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

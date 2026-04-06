@@ -1,0 +1,204 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB4_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB5_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB6_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB7_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB8_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB9_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB10_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W4:JSEDCDSRERRLOCCIB11_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W4:JLMMIRDATA0_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W4:JLMMIRDATA1_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1W4:JLMMIRDATA2_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1W4:JLMMIRDATA3_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N1W4:JLMMIRDATA4_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N1W4:JLMMIRDATA5_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N1W4:JLMMIRDATA6_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1W4:JLMMIRDATA7_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JHFOUTEN_OSC_CORE": [
+      (
+        from_wire: "W3:JCIBMUXOUTD3",
+      ),
+    ],
+    "JHFSDSCEN_OSC_CORE": [
+      (
+        from_wire: "W3:JCIBMUXOUTC5",
+      ),
+    ],
+    "JHFTRMFAB0_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB0",
+      ),
+    ],
+    "JHFTRMFAB1_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB1",
+      ),
+    ],
+    "JHFTRMFAB2_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB2",
+      ),
+    ],
+    "JHFTRMFAB3_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB3",
+      ),
+    ],
+    "JHFTRMFAB4_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB4",
+      ),
+    ],
+    "JHFTRMFAB5_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB5",
+      ),
+    ],
+    "JHFTRMFAB6_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB6",
+      ),
+    ],
+    "JHFTRMFAB7_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTB7",
+      ),
+    ],
+    "JHFTRMFAB8_OSC_CORE": [
+      (
+        from_wire: "W3:JCIBMUXOUTB7",
+      ),
+    ],
+    "JLFTRMFAB0_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA0",
+      ),
+    ],
+    "JLFTRMFAB1_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA1",
+      ),
+    ],
+    "JLFTRMFAB2_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA2",
+      ),
+    ],
+    "JLFTRMFAB3_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLFTRMFAB4_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLFTRMFAB5_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA5",
+      ),
+    ],
+    "JLFTRMFAB6_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLFTRMFAB7_OSC_CORE": [
+      (
+        from_wire: "W2:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLFTRMFAB8_OSC_CORE": [
+      (
+        from_wire: "W3:JCIBMUXOUTB6",
+      ),
+    ],
+  },
+)

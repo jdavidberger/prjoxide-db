@@ -1,0 +1,267 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JPAD_APIO_REFCLK0N": [
+      (
+        from_wire: "JREFCLK0N_DIFFCLKIO_CORE_DIFFCLKIO0",
+      ),
+    ],
+    "JPAD_APIO_REFCLK0P": [
+      (
+        from_wire: "JREFCLK0P_DIFFCLKIO_CORE_DIFFCLKIO0",
+      ),
+    ],
+    "JPAD_APIO_REFCLK1N": [
+      (
+        from_wire: "JREFCLK1N_DIFFCLKIO_CORE_DIFFCLKIO0",
+      ),
+    ],
+    "JPAD_APIO_REFCLK1P": [
+      (
+        from_wire: "JREFCLK1P_DIFFCLKIO_CORE_DIFFCLKIO0",
+      ),
+    ],
+    "JREFCLK0N_DIFFCLKIO_CORE_DIFFCLKIO0": [
+      (
+        from_wire: "JPAD_APIO_REFCLK0N",
+      ),
+    ],
+    "JREFCLK0P_DIFFCLKIO_CORE_DIFFCLKIO0": [
+      (
+        from_wire: "JPAD_APIO_REFCLK0P",
+      ),
+    ],
+    "JREFCLK1N_DIFFCLKIO_CORE_DIFFCLKIO0": [
+      (
+        from_wire: "JPAD_APIO_REFCLK1N",
+      ),
+    ],
+    "JREFCLK1P_DIFFCLKIO_CORE_DIFFCLKIO0": [
+      (
+        from_wire: "JPAD_APIO_REFCLK1P",
+      ),
+    ],
+    "N1:V06S0003": [
+      (
+        from_wire: "S2:V06N0003",
+      ),
+    ],
+    "N1:V06S0103": [
+      (
+        from_wire: "S2:V06N0103",
+      ),
+    ],
+    "N1:V06S0203": [
+      (
+        from_wire: "S2:V06N0203",
+      ),
+    ],
+    "N1:V06S0303": [
+      (
+        from_wire: "S2:V06N0303",
+      ),
+    ],
+    "N2:V06S0003": [
+      (
+        from_wire: "S3:V06N0003",
+      ),
+    ],
+    "N2:V06S0103": [
+      (
+        from_wire: "S3:V06N0103",
+      ),
+    ],
+    "N2:V06S0203": [
+      (
+        from_wire: "S3:V06N0203",
+      ),
+    ],
+    "N2:V06S0303": [
+      (
+        from_wire: "S3:V06N0303",
+      ),
+    ],
+    "S1:V02S0001": [
+      (
+        from_wire: "S1:V02N0000",
+      ),
+    ],
+    "S1:V02S0101": [
+      (
+        from_wire: "S1:V02N0100",
+      ),
+    ],
+    "S1:V02S0201": [
+      (
+        from_wire: "S1:V02N0200",
+      ),
+    ],
+    "S1:V02S0301": [
+      (
+        from_wire: "S1:V02N0300",
+      ),
+    ],
+    "S1:V02S0401": [
+      (
+        from_wire: "S1:V02N0400",
+      ),
+    ],
+    "S1:V02S0501": [
+      (
+        from_wire: "S1:V02N0500",
+      ),
+    ],
+    "S1:V02S0601": [
+      (
+        from_wire: "S1:V02N0600",
+      ),
+    ],
+    "S1:V02S0701": [
+      (
+        from_wire: "S1:V02N0700",
+      ),
+    ],
+    "S1:V06S0003": [
+      (
+        from_wire: "V06N0003",
+      ),
+    ],
+    "S1:V06S0103": [
+      (
+        from_wire: "V06N0103",
+      ),
+    ],
+    "S1:V06S0203": [
+      (
+        from_wire: "V06N0203",
+      ),
+    ],
+    "S1:V06S0303": [
+      (
+        from_wire: "V06N0303",
+      ),
+    ],
+    "S2:V06S0003": [
+      (
+        from_wire: "N1:V06N0003",
+      ),
+    ],
+    "S2:V06S0103": [
+      (
+        from_wire: "N1:V06N0103",
+      ),
+    ],
+    "S2:V06S0203": [
+      (
+        from_wire: "N1:V06N0203",
+      ),
+    ],
+    "S2:V06S0303": [
+      (
+        from_wire: "N1:V06N0303",
+      ),
+    ],
+    "S3:V06S0003": [
+      (
+        from_wire: "N2:V06N0003",
+      ),
+    ],
+    "S3:V06S0103": [
+      (
+        from_wire: "N2:V06N0103",
+      ),
+    ],
+    "S3:V06S0203": [
+      (
+        from_wire: "N2:V06N0203",
+      ),
+    ],
+    "S3:V06S0303": [
+      (
+        from_wire: "N2:V06N0303",
+      ),
+    ],
+    "V01S0000": [
+      (
+        from_wire: "S1:V01S0100",
+      ),
+    ],
+    "V01S0100": [
+      (
+        from_wire: "S1:V01S0000",
+      ),
+    ],
+    "V01S0200": [
+      (
+        from_wire: "S1:V01S0300",
+      ),
+    ],
+    "V01S0300": [
+      (
+        from_wire: "S1:V01S0200",
+      ),
+    ],
+    "V02S0001": [
+      (
+        from_wire: "S1:V02N0001",
+      ),
+    ],
+    "V02S0101": [
+      (
+        from_wire: "S1:V02N0101",
+      ),
+    ],
+    "V02S0201": [
+      (
+        from_wire: "S1:V02N0201",
+      ),
+    ],
+    "V02S0301": [
+      (
+        from_wire: "S1:V02N0301",
+      ),
+    ],
+    "V02S0401": [
+      (
+        from_wire: "S1:V02N0401",
+      ),
+    ],
+    "V02S0501": [
+      (
+        from_wire: "S1:V02N0501",
+      ),
+    ],
+    "V02S0601": [
+      (
+        from_wire: "S1:V02N0601",
+      ),
+    ],
+    "V02S0701": [
+      (
+        from_wire: "S1:V02N0701",
+      ),
+    ],
+    "V06S0003": [
+      (
+        from_wire: "S1:V06N0003",
+      ),
+    ],
+    "V06S0103": [
+      (
+        from_wire: "S1:V06N0103",
+      ),
+    ],
+    "V06S0203": [
+      (
+        from_wire: "S1:V06N0203",
+      ),
+    ],
+    "V06S0303": [
+      (
+        from_wire: "S1:V06N0303",
+      ),
+    ],
+  },
+)

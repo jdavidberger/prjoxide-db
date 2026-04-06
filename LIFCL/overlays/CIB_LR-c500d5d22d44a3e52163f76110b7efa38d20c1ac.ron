@@ -1,0 +1,49 @@
+(
+  pips: {
+    "JQ0": [
+      (
+        from_wire: "S1:JPVTCODE0_BNKREF33_CORE",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "S1:JPVTCODE1_BNKREF33_CORE",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "S1:JPVTCODE2_BNKREF33_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "S1:JPVTCODE3_BNKREF33_CORE",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "S1:JPVTCODE4_BNKREF33_CORE",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "S1:JPVTCODE5_BNKREF33_CORE",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "S1:JPVTCODE6_BNKREF33_CORE",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

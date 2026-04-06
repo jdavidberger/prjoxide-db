@@ -1,0 +1,33 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JPADDO_SEIO33_CORE_IOB": [
+      (
+        from_wire: "N10W14:JTDO_CONFIG_JTAG_CORE_CONFIG_JTAG",
+      ),
+      (
+        from_wire: "W1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JPADDT_SEIO33_CORE_IOB": [
+      (
+        from_wire: "N10W14:JTDO_OEN_CONFIG_JTAG_CORE_CONFIG_JTAG",
+      ),
+      (
+        from_wire: "W1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JTSDATA0_SIOLOGIC_CORE_IBASE_PIC_B": [
+      (
+        from_wire: "W1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JTXDATA0_SIOLOGIC_CORE_IBASE_PIC_B": [
+      (
+        from_wire: "W1:JCIBMUXOUTC0",
+      ),
+    ],
+  },
+)

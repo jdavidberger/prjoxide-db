@@ -1,0 +1,97 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JDQSR90_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JDQSR90_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JDQSR90_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JDQSR90_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JDQSW270_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JDQSW270_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JDQSW270_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JDQSW270_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JDQSW_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JDQSW_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JDQSW_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JDQSW_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JRDPNTR0_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JRDPNTR0_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JRDPNTR0_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JRDPNTR0_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JRDPNTR1_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JRDPNTR1_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JRDPNTR1_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JRDPNTR1_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JRDPNTR2_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JRDPNTR2_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JRDPNTR2_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JRDPNTR2_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JWRPNTR0_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JWRPNTR0_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JWRPNTR0_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JWRPNTR0_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JWRPNTR1_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JWRPNTR1_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JWRPNTR1_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JWRPNTR1_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JWRPNTR2_IOLOGIC_CORE_I_GEARING_PIC_TOP_A": [
+      (
+        from_wire: "DQSG:JWRPNTR2_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+    "JWRPNTR2_IOLOGIC_CORE_I_GEARING_PIC_TOP_B": [
+      (
+        from_wire: "DQSG:JWRPNTR2_DQSBUF_CORE_I_DQS_TOP",
+      ),
+    ],
+  },
+)

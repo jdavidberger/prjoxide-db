@@ -1,0 +1,49 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W12:JLASTADDRCIB10_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W12:JLASTADDRCIB11_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W12:JLASTADDRCIB12_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W12:JLASTADDRCIB13_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W12:JLASTADDRCIB14_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W12:JLASTADDRCIB15_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W12:JSEDCBUSYCIB_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

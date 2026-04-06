@@ -1,0 +1,31 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W23:JVC_RX_DATA112_PCIELL_CORE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W23:JLMMIRDATA28_PCIELL_CORE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W23:JVC_RX_DATA113_PCIELL_CORE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W23:JLMMIRDATA29_PCIELL_CORE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

@@ -1,0 +1,202 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "G:JCODEI00_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE0_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI01_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE1_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI02_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE2_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI03_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE3_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI04_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE4_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI05_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE5_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI06_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE6_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI07_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE7_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI08_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "W26:JCODE8_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI10_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE0_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI11_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE1_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI12_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE2_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI13_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE3_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI14_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE4_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI15_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE5_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI16_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE6_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI17_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE7_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JCODEI18_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "E33:JCODE8_DDRDLL_CORE_I1",
+      ),
+    ],
+    "JECLK0_I_DQS_TOP_ECLK_ROUTING_MUX": [
+      (
+        from_wire: "G:JECLKOUT0_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JECLK1_I_DQS_TOP_ECLK_ROUTING_MUX": [
+      (
+        from_wire: "G:JECLKOUT1_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JECLK2_I_DQS_TOP_ECLK_ROUTING_MUX": [
+      (
+        from_wire: "G:JECLKOUT2_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JECLK3_I_DQS_TOP_ECLK_ROUTING_MUX": [
+      (
+        from_wire: "G:JECLKOUT3_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JPVTSEL_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E15:JCIBMUXOUTD7",
+      ),
+    ],
+    "JPVTSNKI0_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E11:JCIBMUXOUTB4",
+      ),
+    ],
+    "JPVTSNKI1_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E11:JCIBMUXOUTC7",
+      ),
+    ],
+    "JPVTSNKI2_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E11:JCIBMUXOUTD1",
+      ),
+    ],
+    "JPVTSNKI3_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E11:JCIBMUXOUTD2",
+      ),
+    ],
+    "JPVTSNKI4_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E11:JCIBMUXOUTD7",
+      ),
+    ],
+    "JPVTSNKI5_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E12:JCIBMUXOUTD1",
+      ),
+    ],
+    "JPVTSNKI6_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E12:JCIBMUXOUTD2",
+      ),
+    ],
+    "JPVTSRCI0_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E13:JCIBMUXOUTB4",
+      ),
+    ],
+    "JPVTSRCI1_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E13:JCIBMUXOUTC7",
+      ),
+    ],
+    "JPVTSRCI2_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E13:JCIBMUXOUTD1",
+      ),
+    ],
+    "JPVTSRCI3_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E13:JCIBMUXOUTD2",
+      ),
+    ],
+    "JPVTSRCI4_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E13:JCIBMUXOUTD7",
+      ),
+    ],
+    "JPVTSRCI5_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E14:JCIBMUXOUTD1",
+      ),
+    ],
+    "JPVTSRCI6_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E14:JCIBMUXOUTD2",
+      ),
+    ],
+    "JSTDBYDIF_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E15:JCIBMUXOUTD1",
+      ),
+    ],
+    "JSTDBYINR_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E15:JCIBMUXOUTD4",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,79 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W2:JLMMIRDATAVALID_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W2:JLMMIREADY_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W2:JLMMIRDATA14_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W2:JLMMIRDATA15_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W2:JLMMIRDATA16_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W2:JLMMIRDATA17_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W2:JLMMIRDATA18_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W2:JLMMIRDATA19_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W27:JU3RXUPSE_DPHY_CORE_DPHY0",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W27:JU3RXVDE_DPHY_CORE_DPHY0",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1W27:JU3SSTT_DPHY_CORE_DPHY0",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1W27:JU3USAN_DPHY_CORE_DPHY0",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

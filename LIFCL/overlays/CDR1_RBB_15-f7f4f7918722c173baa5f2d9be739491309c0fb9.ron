@@ -1,0 +1,362 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "E1:H02E0001": [
+      (
+        from_wire: "E1:H02W0000",
+      ),
+    ],
+    "E1:H02E0101": [
+      (
+        from_wire: "E1:H02W0100",
+      ),
+    ],
+    "E1:H02E0201": [
+      (
+        from_wire: "E1:H02W0200",
+      ),
+    ],
+    "E1:H02E0301": [
+      (
+        from_wire: "E1:H02W0300",
+      ),
+    ],
+    "E1:H02E0401": [
+      (
+        from_wire: "E1:H02W0400",
+      ),
+    ],
+    "E1:H02E0501": [
+      (
+        from_wire: "E1:H02W0500",
+      ),
+    ],
+    "E1:H02E0601": [
+      (
+        from_wire: "E1:H02W0600",
+      ),
+    ],
+    "E1:H02E0701": [
+      (
+        from_wire: "E1:H02W0700",
+      ),
+    ],
+    "E1:H06E0003": [
+      (
+        from_wire: "H06W0003",
+      ),
+    ],
+    "E1:H06E0103": [
+      (
+        from_wire: "H06W0103",
+      ),
+    ],
+    "E1:H06E0203": [
+      (
+        from_wire: "H06W0203",
+      ),
+    ],
+    "E1:H06E0303": [
+      (
+        from_wire: "H06W0303",
+      ),
+    ],
+    "E2:H06E0003": [
+      (
+        from_wire: "W1:H06W0003",
+      ),
+    ],
+    "E2:H06E0103": [
+      (
+        from_wire: "W1:H06W0103",
+      ),
+    ],
+    "E2:H06E0203": [
+      (
+        from_wire: "W1:H06W0203",
+      ),
+    ],
+    "E2:H06E0303": [
+      (
+        from_wire: "W1:H06W0303",
+      ),
+    ],
+    "E3:H06E0003": [
+      (
+        from_wire: "W2:H06W0003",
+      ),
+    ],
+    "E3:H06E0103": [
+      (
+        from_wire: "W2:H06W0103",
+      ),
+    ],
+    "E3:H06E0203": [
+      (
+        from_wire: "W2:H06W0203",
+      ),
+    ],
+    "E3:H06E0303": [
+      (
+        from_wire: "W2:H06W0303",
+      ),
+    ],
+    "H01E0000": [
+      (
+        from_wire: "E1:H01W0100",
+      ),
+    ],
+    "H01E0100": [
+      (
+        from_wire: "E1:H01W0000",
+      ),
+    ],
+    "H01E0200": [
+      (
+        from_wire: "E1:H01W0300",
+      ),
+    ],
+    "H01E0300": [
+      (
+        from_wire: "E1:H01W0200",
+      ),
+    ],
+    "H02E0001": [
+      (
+        from_wire: "E1:H02W0001",
+      ),
+    ],
+    "H02E0101": [
+      (
+        from_wire: "E1:H02W0101",
+      ),
+    ],
+    "H02E0201": [
+      (
+        from_wire: "E1:H02W0201",
+      ),
+    ],
+    "H02E0301": [
+      (
+        from_wire: "E1:H02W0301",
+      ),
+    ],
+    "H02E0401": [
+      (
+        from_wire: "E1:H02W0401",
+      ),
+    ],
+    "H02E0501": [
+      (
+        from_wire: "E1:H02W0501",
+      ),
+    ],
+    "H02E0601": [
+      (
+        from_wire: "E1:H02W0601",
+      ),
+    ],
+    "H02E0701": [
+      (
+        from_wire: "E1:H02W0701",
+      ),
+    ],
+    "H06E0003": [
+      (
+        from_wire: "E1:H06W0003",
+      ),
+    ],
+    "H06E0103": [
+      (
+        from_wire: "E1:H06W0103",
+      ),
+    ],
+    "H06E0203": [
+      (
+        from_wire: "E1:H06W0203",
+      ),
+    ],
+    "H06E0303": [
+      (
+        from_wire: "E1:H06W0303",
+      ),
+    ],
+    "JDCALIRST_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDFACQRST_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JLMMICLK_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCLK0",
+      ),
+    ],
+    "JLMMIOFFSET0_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JLMMIOFFSET1_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JLMMIOFFSET2_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JLMMIOFFSET3_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JLMMIREQUEST_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JLMMIRESETN_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JLSR0",
+      ),
+    ],
+    "JLMMIWDATA0_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JLMMIWDATA1_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JLMMIWDATA2_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JLMMIWDATA3_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JLMMIWDATA4_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JLMMIWDATA5_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JLMMIWDATA6_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JLMMIWDATA7_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC7",
+      ),
+    ],
+    "JLMMIWRRDN_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JOPCGLOADCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCLK1",
+      ),
+    ],
+    "JRRST_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JLSR0",
+      ),
+    ],
+    "JRSTBFBW_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JRSTBRXF_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JSCANCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JSCANRST_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E1:JLSR1",
+      ),
+    ],
+    "JSGMIIIN_SGMIICDR_CORE": [
+      (
+        from_wire: "S4E6:JPADDI_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JSPCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCLK0",
+      ),
+    ],
+    "JSREFCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "S3E1:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "W1:H06E0003": [
+      (
+        from_wire: "E2:H06W0003",
+      ),
+    ],
+    "W1:H06E0103": [
+      (
+        from_wire: "E2:H06W0103",
+      ),
+    ],
+    "W1:H06E0203": [
+      (
+        from_wire: "E2:H06W0203",
+      ),
+    ],
+    "W1:H06E0303": [
+      (
+        from_wire: "E2:H06W0303",
+      ),
+    ],
+    "W2:H06E0003": [
+      (
+        from_wire: "E3:H06W0003",
+      ),
+    ],
+    "W2:H06E0103": [
+      (
+        from_wire: "E3:H06W0103",
+      ),
+    ],
+    "W2:H06E0203": [
+      (
+        from_wire: "E3:H06W0203",
+      ),
+    ],
+    "W2:H06E0303": [
+      (
+        from_wire: "E3:H06W0303",
+      ),
+    ],
+  },
+)

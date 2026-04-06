@@ -1,0 +1,79 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N4:JDOB31_LRAM_CORE",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N4:JLRAMREADY_LRAM_CORE",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N4:JDOB23_LRAM_CORE",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N4:JDOB22_LRAM_CORE",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N4:JDOB30_LRAM_CORE",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N4:JDOB29_LRAM_CORE",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N4:JDOB28_LRAM_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N4:JDOB27_LRAM_CORE",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N4:JDOB26_LRAM_CORE",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N4:JDOB25_LRAM_CORE",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N4:JDOB24_LRAM_CORE",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N4:JDOB21_LRAM_CORE",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

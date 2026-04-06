@@ -1,0 +1,67 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W14:JLOCK_DPHY_CORE_DPHY0",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W14:JD1ACTIVE1_DPHY_CORE_DPHY0",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W14:JU1ERSTHS_DPHY_CORE_DPHY0",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W14:JURXVDHS2_DPHY_CORE_DPHY0",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W14:JURXVDHS3_DPHY_CORE_DPHY0",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1W14:JCLKLBACT_DPHY_CORE_DPHY0",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N1W14:JDCTSTOUT4_DPHY_CORE_DPHY0",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N1W14:JDCTSTOUT5_DPHY_CORE_DPHY0",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N1W14:JDCTSTOUT6_DPHY_CORE_DPHY0",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1W14:JDCTSTOUT7_DPHY_CORE_DPHY0",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

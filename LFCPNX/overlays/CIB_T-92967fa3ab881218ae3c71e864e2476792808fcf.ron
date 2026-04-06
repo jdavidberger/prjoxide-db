@@ -1,0 +1,103 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1E6:JLMMIRDATA12_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1E6:JLMMIRDATA13_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1E6:JLMMIRDATA14_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1E6:JLMMIRDATA15_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1E6:JLMMIRDATA16_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1E6:JLMMIRDATA17_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1E6:JLMMIRDATA18_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1E6:JLMMIRDATA19_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1E6:JLMMIRDATA20_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1E6:JLMMIRDATA21_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1E6:JLMMIRDATA22_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1E6:JLMMIRDATA23_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N1E6:JLMMIRDATA24_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N1E6:JLMMIRDATA25_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N1E6:JLMMIRDATA26_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1E6:JLMMIRDATA27_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

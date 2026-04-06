@@ -1,0 +1,814 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "JRESULT29_ALUREG_CORE",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "JRESULT30_ALUREG_CORE",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JRESULT31_ALUREG_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JRESULT18_ALUREG_CORE",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "JRESULT17_ALUREG_CORE",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "JRESULT25_ALUREG_CORE",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JRESULT24_ALUREG_CORE",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JRESULT23_ALUREG_CORE",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "JRESULT22_ALUREG_CORE",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "JRESULT21_ALUREG_CORE",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "JRESULT20_ALUREG_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "JRESULT19_ALUREG_CORE",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "JRESULT16_ALUREG_CORE",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "JRESULT15_ALUREG_CORE",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "JRESULT14_ALUREG_CORE",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "JRESULT13_ALUREG_CORE",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JALUCLK_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCLK1",
+      ),
+    ],
+    "JALUFORWARDA_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD1",
+      ),
+    ],
+    "JALUFORWARDB_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JALUIREGEN_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD2",
+      ),
+    ],
+    "JALUOREGEN_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA5",
+      ),
+    ],
+    "JALURST_ALUREG_CORE": [
+      (
+        from_wire: "S2:JLSR0",
+      ),
+    ],
+    "JDATAA0_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD0",
+      ),
+    ],
+    "JDATAA10_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDATAA11_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB5",
+      ),
+    ],
+    "JDATAA12_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB7",
+      ),
+    ],
+    "JDATAA13_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD3",
+      ),
+    ],
+    "JDATAA14_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB1",
+      ),
+    ],
+    "JDATAA15_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA3",
+      ),
+    ],
+    "JDATAA16_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA7",
+      ),
+    ],
+    "JDATAA17_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB4",
+      ),
+    ],
+    "JDATAA18_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTC0",
+      ),
+    ],
+    "JDATAA19_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTC1",
+      ),
+    ],
+    "JDATAA1_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTC7",
+      ),
+    ],
+    "JDATAA20_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTC2",
+      ),
+    ],
+    "JDATAA21_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTC3",
+      ),
+    ],
+    "JDATAA22_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTC4",
+      ),
+    ],
+    "JDATAA23_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTD5",
+      ),
+    ],
+    "JDATAA24_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JDATAA25_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JDATAA26_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JDATAA27_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JDATAA28_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JDATAA29_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JDATAA2_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTC6",
+      ),
+    ],
+    "JDATAA30_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDATAA31_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JDATAA3_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA6",
+      ),
+    ],
+    "JDATAA4_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA2",
+      ),
+    ],
+    "JDATAA5_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA0",
+      ),
+    ],
+    "JDATAA6_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB2",
+      ),
+    ],
+    "JDATAA7_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTA4",
+      ),
+    ],
+    "JDATAA8_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB0",
+      ),
+    ],
+    "JDATAA9_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB3",
+      ),
+    ],
+    "JDATAB0_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JDATAB10_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD0",
+      ),
+    ],
+    "JDATAB11_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC5",
+      ),
+    ],
+    "JDATAB12_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA6",
+      ),
+    ],
+    "JDATAB13_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA2",
+      ),
+    ],
+    "JDATAB14_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA0",
+      ),
+    ],
+    "JDATAB15_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB2",
+      ),
+    ],
+    "JDATAB16_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA4",
+      ),
+    ],
+    "JDATAB17_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB0",
+      ),
+    ],
+    "JDATAB18_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB3",
+      ),
+    ],
+    "JDATAB19_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA1",
+      ),
+    ],
+    "JDATAB1_ALUREG_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JDATAB20_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+    "JDATAB21_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JDATAB22_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JDATAB23_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB1",
+      ),
+    ],
+    "JDATAB24_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA3",
+      ),
+    ],
+    "JDATAB25_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA7",
+      ),
+    ],
+    "JDATAB26_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JDATAB27_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC0",
+      ),
+    ],
+    "JDATAB28_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC1",
+      ),
+    ],
+    "JDATAB29_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC2",
+      ),
+    ],
+    "JDATAB2_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JDATAB30_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC3",
+      ),
+    ],
+    "JDATAB31_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC4",
+      ),
+    ],
+    "JDATAB3_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD7",
+      ),
+    ],
+    "JDATAB4_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD6",
+      ),
+    ],
+    "JDATAB5_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD5",
+      ),
+    ],
+    "JDATAB6_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD4",
+      ),
+    ],
+    "JDATAB7_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA5",
+      ),
+    ],
+    "JDATAB8_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD2",
+      ),
+    ],
+    "JDATAB9_ALUREG_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD1",
+      ),
+    ],
+    "JDATAC0_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTD7",
+      ),
+    ],
+    "JDATAC1_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTD5",
+      ),
+    ],
+    "JDATAC2_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTD4",
+      ),
+    ],
+    "JDATAC3_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTD2",
+      ),
+    ],
+    "JDATAC4_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTD1",
+      ),
+    ],
+    "JOPC0_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTC7",
+      ),
+    ],
+    "JOPC1_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTD3",
+      ),
+    ],
+    "JOPC2_ALUREG_CORE": [
+      (
+        from_wire: "S3:JCIBMUXOUTC3",
+      ),
+    ],
+    "JOPC3_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTB6",
+      ),
+    ],
+    "JOPC4_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD7",
+      ),
+    ],
+    "JOPC5_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD6",
+      ),
+    ],
+    "JOPC6_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD5",
+      ),
+    ],
+    "JOPCCUSTOM_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCIBMUXOUTD4",
+      ),
+    ],
+    "JOPCGLOADCLK_ALUREG_CORE": [
+      (
+        from_wire: "S2:JCLK0",
+      ),
+    ],
+    "JRADDRA0_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB7",
+      ),
+    ],
+    "JRADDRA1_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD3",
+      ),
+    ],
+    "JRADDRA2_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB1",
+      ),
+    ],
+    "JRADDRA3_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA3",
+      ),
+    ],
+    "JRADDRA4_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA7",
+      ),
+    ],
+    "JRADDRB0_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB4",
+      ),
+    ],
+    "JRADDRB1_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC0",
+      ),
+    ],
+    "JRADDRB2_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC1",
+      ),
+    ],
+    "JRADDRB3_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC2",
+      ),
+    ],
+    "JRADDRB4_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC3",
+      ),
+    ],
+    "JREGCLKEN_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCE0",
+      ),
+    ],
+    "JREGCLK_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCLK1",
+      ),
+    ],
+    "JREGRST_ALUREG_CORE": [
+      (
+        from_wire: "S6:JLSR0",
+      ),
+    ],
+    "JSCANCLK_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCLK1",
+      ),
+    ],
+    "JSCANRST_ALUREG_CORE": [
+      (
+        from_wire: "S4:JLSR0",
+      ),
+    ],
+    "JWADDR0_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB6",
+      ),
+    ],
+    "JWADDR1_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA5",
+      ),
+    ],
+    "JWADDR2_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA6",
+      ),
+    ],
+    "JWADDR3_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA2",
+      ),
+    ],
+    "JWADDR4_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA0",
+      ),
+    ],
+    "JWDATA0_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB2",
+      ),
+    ],
+    "JWDATA10_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB4",
+      ),
+    ],
+    "JWDATA11_ALUREG_CORE": [
+      (
+        from_wire: "S5:JCIBMUXOUTB6",
+      ),
+    ],
+    "JWDATA12_ALUREG_CORE": [
+      (
+        from_wire: "S5:JCIBMUXOUTD5",
+      ),
+    ],
+    "JWDATA13_ALUREG_CORE": [
+      (
+        from_wire: "S5:JCIBMUXOUTD4",
+      ),
+    ],
+    "JWDATA14_ALUREG_CORE": [
+      (
+        from_wire: "S5:JCIBMUXOUTD2",
+      ),
+    ],
+    "JWDATA15_ALUREG_CORE": [
+      (
+        from_wire: "S5:JCIBMUXOUTD3",
+      ),
+    ],
+    "JWDATA16_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB6",
+      ),
+    ],
+    "JWDATA17_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD7",
+      ),
+    ],
+    "JWDATA18_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD6",
+      ),
+    ],
+    "JWDATA19_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD5",
+      ),
+    ],
+    "JWDATA1_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA4",
+      ),
+    ],
+    "JWDATA20_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD4",
+      ),
+    ],
+    "JWDATA21_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA5",
+      ),
+    ],
+    "JWDATA22_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD2",
+      ),
+    ],
+    "JWDATA23_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD1",
+      ),
+    ],
+    "JWDATA24_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTD0",
+      ),
+    ],
+    "JWDATA25_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC7",
+      ),
+    ],
+    "JWDATA26_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC6",
+      ),
+    ],
+    "JWDATA27_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC5",
+      ),
+    ],
+    "JWDATA28_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA6",
+      ),
+    ],
+    "JWDATA29_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA2",
+      ),
+    ],
+    "JWDATA2_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB0",
+      ),
+    ],
+    "JWDATA30_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA0",
+      ),
+    ],
+    "JWDATA31_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB2",
+      ),
+    ],
+    "JWDATA3_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB3",
+      ),
+    ],
+    "JWDATA4_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA1",
+      ),
+    ],
+    "JWDATA5_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB5",
+      ),
+    ],
+    "JWDATA6_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB7",
+      ),
+    ],
+    "JWDATA7_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTB1",
+      ),
+    ],
+    "JWDATA8_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA3",
+      ),
+    ],
+    "JWDATA9_ALUREG_CORE": [
+      (
+        from_wire: "S6:JCIBMUXOUTA7",
+      ),
+    ],
+    "JWDROTATE0_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA4",
+      ),
+    ],
+    "JWDROTATE1_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB0",
+      ),
+    ],
+    "JWDSIGNEXT_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB3",
+      ),
+    ],
+    "JWDSIZE0_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTA1",
+      ),
+    ],
+    "JWDSIZE1_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTB5",
+      ),
+    ],
+    "JWREN_ALUREG_CORE": [
+      (
+        from_wire: "S4:JCIBMUXOUTC4",
+      ),
+    ],
+  },
+)

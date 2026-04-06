@@ -1,0 +1,85 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W2:JVRXD18_PCIE_CORE_PCIE0",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W2:JVRXD19_PCIE_CORE_PCIE0",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W2:JVRXD22_PCIE_CORE_PCIE0",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W2:JVRXD23_PCIE_CORE_PCIE0",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W2:JVRXD27_PCIE_CORE_PCIE0",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W2:JVRXD28_PCIE_CORE_PCIE0",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W2:JVRXD17_PCIE_CORE_PCIE0",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W2:JVRXD20_PCIE_CORE_PCIE0",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1W2:JVRXD21_PCIE_CORE_PCIE0",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1W2:JVRXD24_PCIE_CORE_PCIE0",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N1W2:JVRXD25_PCIE_CORE_PCIE0",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N1W2:JVRXD26_PCIE_CORE_PCIE0",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1W2:JVRXD29_PCIE_CORE_PCIE0",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

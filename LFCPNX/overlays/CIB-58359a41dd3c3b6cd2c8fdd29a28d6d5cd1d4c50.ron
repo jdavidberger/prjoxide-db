@@ -1,0 +1,312 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JAS10_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR0_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS11_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR1_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS12_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR2_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS13_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR3_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS14_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR4_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS15_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR5_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS16_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR6_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS17_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR7_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS18_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR8_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS20_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR0_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS20_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR0_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS21_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR1_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS21_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR1_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS22_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR2_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS22_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR2_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS23_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR3_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS23_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR3_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS24_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR4_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS24_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR4_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS25_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR5_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS25_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR5_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS26_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR6_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS26_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR6_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS27_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR7_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS27_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR7_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JAS28_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JAR8_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JAS28_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JAR8_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JASSIGNED1_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JARSIGNED_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JASSIGNED2_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W7:JARSIGNED_MULT9_CORE_MULT9_H3",
+      ),
+    ],
+    "JASSIGNED2_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W7:JARSIGNED_MULT9_CORE_MULT9_L3",
+      ),
+    ],
+    "JBRS10_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO0_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS11_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO1_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS12_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO2_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS13_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO3_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS14_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO4_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS15_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO5_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS16_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO6_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS17_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO7_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS18_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO8_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS20_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO0_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS20_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO0_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS21_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO1_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS21_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO1_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS22_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO2_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS22_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO2_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS23_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO3_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS23_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO3_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS24_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO4_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS24_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO4_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS25_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO5_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS25_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO5_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS26_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO6_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS26_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO6_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS27_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO7_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS27_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO7_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRS28_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSO8_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRS28_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSO8_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JBRSS1_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSOSGND_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRSS2_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W7:JBRSOSGND_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+    "JBRSS2_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JBRSOSGND_PREADD9_CORE_PREADD9_L3",
+      ),
+    ],
+    "JPRCASIN_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W7:JPRCASOUT_PREADD9_CORE_PREADD9_H3",
+      ),
+    ],
+  },
+)

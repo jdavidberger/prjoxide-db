@@ -1,0 +1,55 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W3:JDOA9_LRAM_CORE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W3:JDOA8_LRAM_CORE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W3:JLRAMREADY_LRAM_CORE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W3:JERRDET_LRAM_CORE",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W3:JDOB17_LRAM_CORE",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W3:JDOA27_LRAM_CORE",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1W3:JERRDECA0_LRAM_CORE",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1W3:JOEA_LRAM_CORE",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

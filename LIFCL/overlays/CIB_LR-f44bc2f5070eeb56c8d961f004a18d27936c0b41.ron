@@ -1,0 +1,12 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JOCEA_LRAM_CORE": [
+      (
+        from_wire: "S3:JCE1",
+      ),
+    ],
+  },
+)

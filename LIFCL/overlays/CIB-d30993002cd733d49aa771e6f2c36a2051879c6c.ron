@@ -1,0 +1,62 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JCEA_EBR_CORE": [
+      (
+        from_wire: "JCE0",
+      ),
+    ],
+    "JCEB_EBR_CORE": [
+      (
+        from_wire: "E1:JCE0",
+      ),
+    ],
+    "JCSA0_EBR_CORE": [
+      (
+        from_wire: "JCE1",
+      ),
+    ],
+    "JCSA1_EBR_CORE": [
+      (
+        from_wire: "JCLK1",
+      ),
+    ],
+    "JCSA2_EBR_CORE": [
+      (
+        from_wire: "E2:JCE1",
+      ),
+    ],
+    "JCSB0_EBR_CORE": [
+      (
+        from_wire: "E1:JCE1",
+      ),
+    ],
+    "JCSB2_EBR_CORE": [
+      (
+        from_wire: "E2:JLSR1",
+      ),
+    ],
+    "JRSTA_EBR_CORE": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JRSTB_EBR_CORE": [
+      (
+        from_wire: "E1:JLSR0",
+      ),
+    ],
+    "JWEA_EBR_CORE": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JWEB_EBR_CORE": [
+      (
+        from_wire: "E1:JLSR1",
+      ),
+    ],
+  },
+)

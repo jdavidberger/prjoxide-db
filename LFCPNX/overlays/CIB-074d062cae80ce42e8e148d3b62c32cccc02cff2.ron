@@ -1,0 +1,157 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JBLS10_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO0_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS11_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO1_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS12_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO2_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS13_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO3_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS14_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO4_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS15_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO5_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS16_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO6_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS17_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO7_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS18_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO8_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS20_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO0_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS20_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO0_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS21_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO1_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS21_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO1_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS22_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO2_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS22_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO2_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS23_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO3_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS23_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO3_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS24_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO4_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS24_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO4_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS25_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO5_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS25_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO5_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS26_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO6_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS26_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO6_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS27_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO7_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS27_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO7_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLS28_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSO8_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS28_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSO8_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLSS1_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSOSGND_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBLSS2_PREADD9_CORE_PREADD9_H3": [
+      (
+        from_wire: "E7:JBLSOSGND_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLSS2_PREADD9_CORE_PREADD9_L3": [
+      (
+        from_wire: "E7:JBLSOSGND_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+  },
+)

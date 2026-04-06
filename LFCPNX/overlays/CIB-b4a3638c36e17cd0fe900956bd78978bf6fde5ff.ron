@@ -1,0 +1,22 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JADA4_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD0",
+      ),
+    ],
+    "JADA5_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB1",
+      ),
+    ],
+    "JADB12_EBR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC7",
+      ),
+    ],
+  },
+)

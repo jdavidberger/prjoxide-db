@@ -1,0 +1,6102 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JACTMD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JALTCLKIN_PCS_CORE_PCS0": [
+      (
+        from_wire: "E7:JQ0CLKOUT_PCSREFMUX8_CORE",
+      ),
+    ],
+    "JALTCLK_SEL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH0_ACTACMD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH0_ACTDR11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH0_ACTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH0_ACTHIGHZ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH0_AUXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCLK0",
+      ),
+    ],
+    "JCH0_CCCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCLK1",
+      ),
+    ],
+    "JCH0_CLKREQI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH0_LINK0_CSR_PIPE_RESET_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JLINK0_CSR_PIPE_RESET0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_LMMICLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCLK1",
+      ),
+    ],
+    "JCH0_LMMIOFFSET0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH0_LMMIOFFSET1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH0_LMMIOFFSET2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH0_LMMIOFFSET3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH0_LMMIOFFSET4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH0_LMMIOFFSET5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH0_LMMIOFFSET6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH0_LMMIOFFSET7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH0_LMMIOFFSET8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH0_LMMIREQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH0_LMMIRESETN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JLSR0",
+      ),
+    ],
+    "JCH0_LMMIWDATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH0_LMMIWDATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH0_LMMIWDATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH0_LMMIWDATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH0_LMMIWDATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH0_LMMIWDATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH0_LMMIWDATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH0_LMMIWDATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH0_LMMIWR_RDN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH0_MPCS_RX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JLSR1",
+      ),
+    ],
+    "JCH0_MPCS_TX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JLSR0",
+      ),
+    ],
+    "JCH0_PERSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JLSR1",
+      ),
+    ],
+    "JCH0_PIPE_BLKALGNCTRL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH0_PIPE_BLOCK_ALIGN_CONTROL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_BLOCK_ALIGN_CONTROL0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_INVALID_REQUEST_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_INVALID_REQUEST0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_INVALID_REQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH0_PIPE_L1PMSSEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH0_PIPE_L1X_ENTRY_REQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH0_PIPE_LOCAL_GET_PRESET_COEF_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_COEF0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_LOCAL_GET_PRESET_COEF_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH0_PIPE_LOCAL_GET_PRESET_INDEX_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_LOCAL_GET_PRESET_INDEX_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_LOCAL_GET_PRESET_INDEX_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_LOCAL_GET_PRESET_INDEX_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_POWER_DOWN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH0_PIPE_POWER_DOWN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH0_PIPE_POWER_DOWN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_POWER_DOWN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_PRESET_INDX_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH0_PIPE_PRESET_INDX_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH0_PIPE_PRESET_INDX_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH0_PIPE_PRESET_INDX_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH0_PIPE_RATE0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH0_PIPE_RATE1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH0_PIPE_RATE_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RATE_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH10_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH11_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH12_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH13_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH14_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH15_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH16_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH17_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH4_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH5_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH6_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH7_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH8_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH9_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_PRESET_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_PRESET_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_PRESET_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_EQ_RX_PRESET_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS4_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS5_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_FS_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF4_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF5_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH0_PIPE_REMOTE_LF_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH0_PIPE_RXEI_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH0_PIPE_RX_DEEMPH_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH0_PIPE_RX_EI_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EI_DISABLE0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RX_EQEVAL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH0_PIPE_RX_EQ_EVAL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EQ_EVAL0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RX_POLARITY_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_POLARITY0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RX_POL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINT0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINT1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINT2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINT_ENABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT_ENABLE0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINT_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINT_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_HINT_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH0_PIPE_RX_PRESET_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH0_PIPE_TXCOMM_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH0_PIPE_TXDETECTRX_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH0_PIPE_TX_CLKREQ_N_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CLKREQ_N0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_CLKREQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH0_PIPE_TX_CM_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CM_DISABLE0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_COMPLIANCE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_COMPLIANCE0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_COMP_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATAK_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA10_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA11_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA12_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA13_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA14_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA15_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA16_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA17_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL18_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA18_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL19_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA19_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL20_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA20_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL21_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA21_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL22_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA22_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL23_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA23_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL24_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA24_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL25_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA25_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL26_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA26_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL27_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA27_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL28_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA28_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL29_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA29_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL30_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA30_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL31_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA31_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA4_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA5_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA6_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA7_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA8_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA9_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA18_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA19_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA20_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA21_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA22_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA23_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA24_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA25_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA26_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA27_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA28_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA29_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA30_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA31_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_VALID_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA_VALID0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DATA_VLD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH10_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH11_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH12_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH13_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH14_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH15_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH16_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH17_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH3_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH4_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH5_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH6_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH7_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH8_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH9_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH0_PIPE_TX_DEEMPH_WINDOW_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH_WINDOW0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_DETECT_RX_LOOPBACK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DETECT_RX_LOOPBACK0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_EI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH0_PIPE_TX_ELEC_IDLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_ELEC_IDLE0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_MARGIN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH0_PIPE_TX_MARGIN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH0_PIPE_TX_MARGIN2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH0_PIPE_TX_MARGIN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_MARGIN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_MARGIN_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN2_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_START_BLK_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH0_PIPE_TX_START_BLOCK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_START_BLOCK0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_SWING_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SWING0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_SWING_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH0_PIPE_TX_SYNC_HDR_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH0_PIPE_TX_SYNC_HDR_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH0_PIPE_TX_SYNC_HEADER_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER0_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PIPE_TX_SYNC_HEADER_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER1_PCIELL_CORE",
+      ),
+    ],
+    "JCH0_PMACLKIN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E4:JCLK0",
+      ),
+    ],
+    "JCH0_RXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCLK1",
+      ),
+    ],
+    "JCH0_SDREFRET_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD0_REFRET",
+      ),
+    ],
+    "JCH0_SDREXT_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD0_REXT",
+      ),
+    ],
+    "JCH0_SDRXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD0_RXN",
+      ),
+    ],
+    "JCH0_SDRXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD0_RXP",
+      ),
+    ],
+    "JCH0_SDTXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD0_TXN",
+      ),
+    ],
+    "JCH0_SDTXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD0_TXP",
+      ),
+    ],
+    "JCH0_TXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E3:JCLK0",
+      ),
+    ],
+    "JCH1_ACTACMD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH1_ACTDR11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH1_ACTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH1_ACTHIGHZ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH1_AUXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCLK0",
+      ),
+    ],
+    "JCH1_CCCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCLK1",
+      ),
+    ],
+    "JCH1_CLKREQI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH1_LINK0_CSR_PIPE_RESET_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JLINK0_CSR_PIPE_RESET1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_LMMICLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCLK1",
+      ),
+    ],
+    "JCH1_LMMIOFFSET0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH1_LMMIOFFSET1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH1_LMMIOFFSET2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH1_LMMIOFFSET3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH1_LMMIOFFSET4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH1_LMMIOFFSET5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH1_LMMIOFFSET6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH1_LMMIOFFSET7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH1_LMMIOFFSET8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH1_LMMIREQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH1_LMMIRESETN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JLSR0",
+      ),
+    ],
+    "JCH1_LMMIWDATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH1_LMMIWDATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH1_LMMIWDATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH1_LMMIWDATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH1_LMMIWDATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH1_LMMIWDATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH1_LMMIWDATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH1_LMMIWDATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH1_LMMIWR_RDN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH1_MPCS_RX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JLSR1",
+      ),
+    ],
+    "JCH1_MPCS_TX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JLSR0",
+      ),
+    ],
+    "JCH1_PERSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JLSR1",
+      ),
+    ],
+    "JCH1_PIPE_BLKALGNCTRL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH1_PIPE_BLOCK_ALIGN_CONTROL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_BLOCK_ALIGN_CONTROL1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_INVALID_REQUEST_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_INVALID_REQUEST1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_INVALID_REQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH1_PIPE_L1PMSSEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH1_PIPE_L1X_ENTRY_REQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH1_PIPE_LOCAL_GET_PRESET_COEF_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_COEF1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_LOCAL_GET_PRESET_COEF_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH1_PIPE_LOCAL_GET_PRESET_INDEX_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX4_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_LOCAL_GET_PRESET_INDEX_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX5_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_LOCAL_GET_PRESET_INDEX_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX6_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_LOCAL_GET_PRESET_INDEX_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX7_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_POWER_DOWN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH1_PIPE_POWER_DOWN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH1_PIPE_POWER_DOWN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN2_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_POWER_DOWN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN3_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_PRESET_INDX_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH1_PIPE_PRESET_INDX_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH1_PIPE_PRESET_INDX_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH1_PIPE_PRESET_INDX_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH1_PIPE_RATE0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH1_PIPE_RATE1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH1_PIPE_RATE_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE2_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RATE_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE3_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH18_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH28_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH29_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH30_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH31_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH32_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH33_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH34_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH35_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH19_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH20_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH21_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH22_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH23_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH24_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH25_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH26_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH27_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_PRESET_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET4_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_PRESET_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET5_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_PRESET_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET6_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_EQ_RX_PRESET_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET7_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS6_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS7_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS8_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS9_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS10_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS11_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_FS_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF6_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF7_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF8_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF9_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF10_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF11_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH1_PIPE_REMOTE_LF_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH1_PIPE_RXEI_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH1_PIPE_RX_DEEMPH_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH1_PIPE_RX_EI_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EI_DISABLE1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RX_EQEVAL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH1_PIPE_RX_EQ_EVAL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EQ_EVAL1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RX_POLARITY_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_POLARITY1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RX_POL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINT0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINT1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINT2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINT_ENABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT_ENABLE1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINT_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT3_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINT_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT4_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_HINT_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT5_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH1_PIPE_RX_PRESET_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH1_PIPE_TXCOMM_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH1_PIPE_TXDETECTRX_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH1_PIPE_TX_CLKREQ_N_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CLKREQ_N1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_CLKREQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH1_PIPE_TX_CM_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CM_DISABLE1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_COMPLIANCE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_COMPLIANCE1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_COMP_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK4_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK5_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK6_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK7_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATAK_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA32_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA42_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA43_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA44_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA45_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA46_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA47_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA48_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA49_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL18_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA50_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL19_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA51_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA33_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL20_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA52_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL21_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA53_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL22_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA54_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL23_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA55_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL24_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA56_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL25_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA57_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL26_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA58_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL27_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA59_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL28_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA60_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL29_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA61_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA34_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL30_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA62_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL31_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA63_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA35_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA36_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA37_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA38_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA39_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA40_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA41_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA18_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA19_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA20_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA21_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA22_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA23_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA24_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA25_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA26_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA27_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA28_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA29_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA30_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA31_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_VALID_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA_VALID1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DATA_VLD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH18_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH28_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH29_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH30_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH31_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH32_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH33_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH34_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH35_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH19_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH20_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH21_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH22_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH23_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH24_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH25_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH26_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH27_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH1_PIPE_TX_DEEMPH_WINDOW_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH_WINDOW1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_DETECT_RX_LOOPBACK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DETECT_RX_LOOPBACK1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_EI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH1_PIPE_TX_ELEC_IDLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_ELEC_IDLE1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_MARGIN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH1_PIPE_TX_MARGIN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH1_PIPE_TX_MARGIN2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH1_PIPE_TX_MARGIN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN3_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_MARGIN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN4_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_MARGIN_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN5_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_START_BLK_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH1_PIPE_TX_START_BLOCK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_START_BLOCK1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_SWING_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SWING1_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_SWING_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH1_PIPE_TX_SYNC_HDR_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH1_PIPE_TX_SYNC_HDR_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH1_PIPE_TX_SYNC_HEADER_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER2_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PIPE_TX_SYNC_HEADER_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER3_PCIELL_CORE",
+      ),
+    ],
+    "JCH1_PMACLKIN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E13:JCLK0",
+      ),
+    ],
+    "JCH1_RXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCLK1",
+      ),
+    ],
+    "JCH1_SDREFRET_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD1_REFRET",
+      ),
+    ],
+    "JCH1_SDREXT_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD1_REXT",
+      ),
+    ],
+    "JCH1_SDRXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD1_RXN",
+      ),
+    ],
+    "JCH1_SDRXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD1_RXP",
+      ),
+    ],
+    "JCH1_SDTXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD1_TXN",
+      ),
+    ],
+    "JCH1_SDTXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD1_TXP",
+      ),
+    ],
+    "JCH1_TXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E12:JCLK0",
+      ),
+    ],
+    "JCH2_ACTACMD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH2_ACTDR11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH2_ACTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH2_ACTHIGHZ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH2_AUXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCLK0",
+      ),
+    ],
+    "JCH2_CCCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCLK1",
+      ),
+    ],
+    "JCH2_CLKREQI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH2_LINK0_CSR_PIPE_RESET_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JLINK0_CSR_PIPE_RESET2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_LMMICLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCLK1",
+      ),
+    ],
+    "JCH2_LMMIOFFSET0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH2_LMMIOFFSET1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH2_LMMIOFFSET2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH2_LMMIOFFSET3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH2_LMMIOFFSET4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH2_LMMIOFFSET5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH2_LMMIOFFSET6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH2_LMMIOFFSET7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH2_LMMIOFFSET8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH2_LMMIREQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH2_LMMIRESETN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JLSR0",
+      ),
+    ],
+    "JCH2_LMMIWDATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH2_LMMIWDATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH2_LMMIWDATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH2_LMMIWDATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH2_LMMIWDATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH2_LMMIWDATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH2_LMMIWDATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH2_LMMIWDATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH2_LMMIWR_RDN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH2_MPCS_RX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JLSR1",
+      ),
+    ],
+    "JCH2_MPCS_TX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JLSR0",
+      ),
+    ],
+    "JCH2_PERSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JLSR1",
+      ),
+    ],
+    "JCH2_PIPE_BLKALGNCTRL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH2_PIPE_BLOCK_ALIGN_CONTROL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_BLOCK_ALIGN_CONTROL2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_INVALID_REQUEST_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_INVALID_REQUEST2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_INVALID_REQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH2_PIPE_L1PMSSEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH2_PIPE_L1X_ENTRY_REQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH2_PIPE_LOCAL_GET_PRESET_COEF_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_COEF2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_LOCAL_GET_PRESET_COEF_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH2_PIPE_LOCAL_GET_PRESET_INDEX_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX8_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_LOCAL_GET_PRESET_INDEX_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX9_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_LOCAL_GET_PRESET_INDEX_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX10_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_LOCAL_GET_PRESET_INDEX_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX11_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_POWER_DOWN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH2_PIPE_POWER_DOWN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH2_PIPE_POWER_DOWN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN4_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_POWER_DOWN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN5_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_PRESET_INDX_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH2_PIPE_PRESET_INDX_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH2_PIPE_PRESET_INDX_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH2_PIPE_PRESET_INDX_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH2_PIPE_RATE0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH2_PIPE_RATE1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH2_PIPE_RATE_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE4_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RATE_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE5_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH36_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH46_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH47_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH48_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH49_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH50_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH51_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH52_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH53_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH37_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH38_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH39_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH40_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH41_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH42_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH43_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH44_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH45_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_PRESET_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET8_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_PRESET_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET9_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_PRESET_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET10_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_EQ_RX_PRESET_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET11_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS12_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS13_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS14_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS15_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS16_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS17_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_FS_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF12_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF13_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF14_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF15_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF16_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF17_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH2_PIPE_REMOTE_LF_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH2_PIPE_RXEI_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH2_PIPE_RX_DEEMPH_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH2_PIPE_RX_EI_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EI_DISABLE2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RX_EQEVAL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH2_PIPE_RX_EQ_EVAL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EQ_EVAL2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RX_POLARITY_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_POLARITY2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RX_POL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINT0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINT1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINT2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINT_ENABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT_ENABLE2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINT_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT6_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINT_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT7_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_HINT_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT8_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH2_PIPE_RX_PRESET_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH2_PIPE_TXCOMM_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH2_PIPE_TXDETECTRX_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH2_PIPE_TX_CLKREQ_N_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CLKREQ_N2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_CLKREQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH2_PIPE_TX_CM_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CM_DISABLE2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_COMPLIANCE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_COMPLIANCE2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_COMP_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK8_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK9_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK10_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK11_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATAK_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA64_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA74_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA75_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA76_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA77_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA78_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA79_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA80_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA81_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL18_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA82_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL19_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA83_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA65_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL20_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA84_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL21_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA85_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL22_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA86_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL23_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA87_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL24_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA88_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL25_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA89_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL26_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA90_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL27_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA91_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL28_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA92_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL29_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA93_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA66_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL30_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA94_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL31_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA95_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA67_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA68_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA69_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA70_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA71_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA72_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA73_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA18_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA19_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E40:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA20_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA21_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA22_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA23_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA24_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA25_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA26_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA27_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA28_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA29_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA30_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA31_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E39:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_VALID_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA_VALID2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DATA_VLD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH36_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH46_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH47_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH48_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH49_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH50_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH51_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH52_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH53_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH37_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH38_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH39_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH40_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH41_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH42_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH43_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH44_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH45_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E38:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH2_PIPE_TX_DEEMPH_WINDOW_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH_WINDOW2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_DETECT_RX_LOOPBACK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DETECT_RX_LOOPBACK2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_EI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E43:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH2_PIPE_TX_ELEC_IDLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_ELEC_IDLE2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_MARGIN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH2_PIPE_TX_MARGIN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH2_PIPE_TX_MARGIN2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH2_PIPE_TX_MARGIN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN6_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_MARGIN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN7_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_MARGIN_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN8_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_START_BLK_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH2_PIPE_TX_START_BLOCK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_START_BLOCK2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_SWING_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SWING2_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_SWING_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH2_PIPE_TX_SYNC_HDR_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH2_PIPE_TX_SYNC_HDR_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH2_PIPE_TX_SYNC_HEADER_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER4_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PIPE_TX_SYNC_HEADER_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER5_PCIELL_CORE",
+      ),
+    ],
+    "JCH2_PMACLKIN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E42:JCLK0",
+      ),
+    ],
+    "JCH2_RXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCLK1",
+      ),
+    ],
+    "JCH2_SDREFRET_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD2_REFRET",
+      ),
+    ],
+    "JCH2_SDREXT_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD2_REXT",
+      ),
+    ],
+    "JCH2_SDRXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD2_RXN",
+      ),
+    ],
+    "JCH2_SDRXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD2_RXP",
+      ),
+    ],
+    "JCH2_SDTXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD2_TXN",
+      ),
+    ],
+    "JCH2_SDTXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD2_TXP",
+      ),
+    ],
+    "JCH2_TXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E41:JCLK0",
+      ),
+    ],
+    "JCH3_ACTACMD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH3_ACTDR11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH3_ACTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH3_ACTHIGHZ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH3_AUXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCLK0",
+      ),
+    ],
+    "JCH3_CCCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCLK1",
+      ),
+    ],
+    "JCH3_CLKREQI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH3_LINK0_CSR_PIPE_RESET_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JLINK0_CSR_PIPE_RESET3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_LMMICLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCLK1",
+      ),
+    ],
+    "JCH3_LMMIOFFSET0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH3_LMMIOFFSET1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH3_LMMIOFFSET2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH3_LMMIOFFSET3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH3_LMMIOFFSET4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH3_LMMIOFFSET5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH3_LMMIOFFSET6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH3_LMMIOFFSET7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH3_LMMIOFFSET8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH3_LMMIREQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH3_LMMIRESETN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JLSR0",
+      ),
+    ],
+    "JCH3_LMMIWDATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH3_LMMIWDATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH3_LMMIWDATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH3_LMMIWDATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH3_LMMIWDATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH3_LMMIWDATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH3_LMMIWDATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH3_LMMIWDATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH3_LMMIWR_RDN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH3_MPCS_RX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JLSR1",
+      ),
+    ],
+    "JCH3_MPCS_TX_URSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JLSR0",
+      ),
+    ],
+    "JCH3_PERSTN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JLSR1",
+      ),
+    ],
+    "JCH3_PIPE_BLKALGNCTRL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH3_PIPE_BLOCK_ALIGN_CONTROL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_BLOCK_ALIGN_CONTROL3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_INVALID_REQUEST_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_INVALID_REQUEST3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_INVALID_REQUEST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH3_PIPE_L1PMSSEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH3_PIPE_L1X_ENTRY_REQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH3_PIPE_LOCAL_GET_PRESET_COEF_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_COEF3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_LOCAL_GET_PRESET_COEF_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH3_PIPE_LOCAL_GET_PRESET_INDEX_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX12_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_LOCAL_GET_PRESET_INDEX_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX13_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_LOCAL_GET_PRESET_INDEX_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX14_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_LOCAL_GET_PRESET_INDEX_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_LOCAL_GET_PRESET_INDEX15_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_POWER_DOWN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH3_PIPE_POWER_DOWN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH3_PIPE_POWER_DOWN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN6_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_POWER_DOWN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_POWER_DOWN7_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_PRESET_INDX_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH3_PIPE_PRESET_INDX_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH3_PIPE_PRESET_INDX_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH3_PIPE_PRESET_INDX_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH3_PIPE_RATE0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH3_PIPE_RATE1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH3_PIPE_RATE_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE6_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RATE_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RATE7_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH54_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH64_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH65_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH66_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH67_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH68_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH69_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH70_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH71_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH55_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH56_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH57_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH58_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH59_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH60_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH61_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH62_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_DEEMPH63_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_PRESET_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET12_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_PRESET_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET13_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_PRESET_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET14_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_EQ_RX_PRESET_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_EQ_RX_PRESET15_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS18_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS19_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS20_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS21_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS22_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_FS23_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_FS_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF18_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF19_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF20_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF21_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF22_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_REMOTE_LF23_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH3_PIPE_REMOTE_LF_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH3_PIPE_RXEI_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH3_PIPE_RX_DEEMPH_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH3_PIPE_RX_EI_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EI_DISABLE3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RX_EQEVAL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH3_PIPE_RX_EQ_EVAL_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_EQ_EVAL3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RX_POLARITY_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_POLARITY3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RX_POL_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINT0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINT1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINT2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINTEN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINT_ENABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT_ENABLE3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINT_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT9_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINT_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT10_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_HINT_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_RX_PRESET_HINT11_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH3_PIPE_RX_PRESET_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH3_PIPE_TXCOMM_DIS_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH3_PIPE_TXDETECTRX_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH3_PIPE_TX_CLKREQ_N_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CLKREQ_N3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_CLKREQ_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH3_PIPE_TX_CM_DISABLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_CM_DISABLE3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_COMPLIANCE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_COMPLIANCE3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_COMP_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK12_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK13_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK14_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATAK15_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD4",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD6",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATAK_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA96_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA106_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA107_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA108_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA109_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA110_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA111_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA112_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA113_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL18_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA114_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL19_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA115_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA97_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL20_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA116_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL21_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA117_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL22_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA118_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL23_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA119_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL24_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA120_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL25_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA121_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL26_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA122_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL27_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA123_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL28_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA124_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL29_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA125_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA98_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL30_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA126_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL31_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA127_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA99_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA100_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA101_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA102_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA103_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA104_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA105_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA18_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA19_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E51:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA20_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA21_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA22_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA23_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA24_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA25_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA26_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA27_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA28_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA29_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC6",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA30_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD0",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA31_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_PCS_TX_DATA9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E50:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_VALID_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DATA_VALID3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DATA_VLD_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTD2",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH10_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH11_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH12_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH13_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH14_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH15_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH16_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH17_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH3_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH4_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH5_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH6_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH7_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD5",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH8_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTD7",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH9_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH54_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL10_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH64_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL11_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH65_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL12_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH66_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL13_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH67_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL14_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH68_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL15_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH69_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL16_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH70_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL17_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH71_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH55_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH56_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH57_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH58_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH59_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH60_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH61_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL8_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH62_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_LL9_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH63_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E49:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCH3_PIPE_TX_DEEMPH_WINDOW_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DEEMPH_WINDOW3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_DETECT_RX_LOOPBACK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_DETECT_RX_LOOPBACK3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_EI_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCH3_PIPE_TX_ELEC_IDLE_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_ELEC_IDLE3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_MARGIN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCH3_PIPE_TX_MARGIN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCH3_PIPE_TX_MARGIN2_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCH3_PIPE_TX_MARGIN_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN9_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_MARGIN_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN10_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_MARGIN_LL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_MARGIN11_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_START_BLK_PCS_TX_DATA_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCH3_PIPE_TX_START_BLOCK_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_START_BLOCK3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_SWING_LL_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SWING3_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_SWING_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCH3_PIPE_TX_SYNC_HDR_PCS_TX_DATA0_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCH3_PIPE_TX_SYNC_HDR_PCS_TX_DATA1_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCIBMUXOUTB2",
+      ),
+    ],
+    "JCH3_PIPE_TX_SYNC_HEADER_LL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER6_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PIPE_TX_SYNC_HEADER_LL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JPIPE_TX_SYNC_HEADER7_PCIELL_CORE",
+      ),
+    ],
+    "JCH3_PMACLKIN_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E53:JCLK0",
+      ),
+    ],
+    "JCH3_RXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCLK1",
+      ),
+    ],
+    "JCH3_SDREFRET_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD3_REFRET",
+      ),
+    ],
+    "JCH3_SDREXT_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD3_REXT",
+      ),
+    ],
+    "JCH3_SDRXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD3_RXN",
+      ),
+    ],
+    "JCH3_SDRXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD3_RXP",
+      ),
+    ],
+    "JCH3_SDTXN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD3_TXN",
+      ),
+    ],
+    "JCH3_SDTXP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SD3_TXP",
+      ),
+    ],
+    "JCH3_TXCLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E52:JCLK0",
+      ),
+    ],
+    "JLINK1_CSR_PIPE_RESET_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JLINK1_CSR_PIPE_RESET_PCIELL_CORE",
+      ),
+    ],
+    "JPAD_APIO_SD0_REFRET": [
+      (
+        from_wire: "JCH0_SDREFRET_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD0_REXT": [
+      (
+        from_wire: "JCH0_SDREXT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD0_RXN": [
+      (
+        from_wire: "JCH0_SDRXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD0_RXP": [
+      (
+        from_wire: "JCH0_SDRXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD0_TXN": [
+      (
+        from_wire: "JCH0_SDTXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD0_TXP": [
+      (
+        from_wire: "JCH0_SDTXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD1_REFRET": [
+      (
+        from_wire: "JCH1_SDREFRET_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD1_REXT": [
+      (
+        from_wire: "JCH1_SDREXT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD1_RXN": [
+      (
+        from_wire: "JCH1_SDRXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD1_RXP": [
+      (
+        from_wire: "JCH1_SDRXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD1_TXN": [
+      (
+        from_wire: "JCH1_SDTXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD1_TXP": [
+      (
+        from_wire: "JCH1_SDTXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD2_REFRET": [
+      (
+        from_wire: "JCH2_SDREFRET_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD2_REXT": [
+      (
+        from_wire: "JCH2_SDREXT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD2_RXN": [
+      (
+        from_wire: "JCH2_SDRXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD2_RXP": [
+      (
+        from_wire: "JCH2_SDRXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD2_TXN": [
+      (
+        from_wire: "JCH2_SDTXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD2_TXP": [
+      (
+        from_wire: "JCH2_SDTXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD3_REFRET": [
+      (
+        from_wire: "JCH3_SDREFRET_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD3_REXT": [
+      (
+        from_wire: "JCH3_SDREXT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD3_RXN": [
+      (
+        from_wire: "JCH3_SDRXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD3_RXP": [
+      (
+        from_wire: "JCH3_SDRXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD3_TXN": [
+      (
+        from_wire: "JCH3_SDTXN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SD3_TXP": [
+      (
+        from_wire: "JCH3_SDTXP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SDQ_REFCLKN": [
+      (
+        from_wire: "JSDQ_REFCLKN_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPAD_APIO_SDQ_REFCLKP": [
+      (
+        from_wire: "JSDQ_REFCLKP_PCS_CORE_PCS0",
+      ),
+    ],
+    "JPCIELL_MODESEL0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JBIFUR_SEL0_PCIELL_CORE",
+      ),
+    ],
+    "JPCIELL_MODESEL1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JBIFUR_SEL1_PCIELL_CORE",
+      ),
+    ],
+    "JPCIELL_MODESEL2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E9:JBIFUR_SEL2_PCIELL_CORE",
+      ),
+    ],
+    "JRX_ALIGN_CLKIN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JRX_ALIGN_CLKOUT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JSCAN_CLK_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA4",
+      ),
+    ],
+    "JSCAN_RST_PCS_CORE_PCS0": [
+      (
+        from_wire: "S1E54:JCIBMUXOUTA6",
+      ),
+    ],
+    "JSDQ_REFCLKN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SDQ_REFCLKN",
+      ),
+    ],
+    "JSDQ_REFCLKP_PCS_CORE_PCS0": [
+      (
+        from_wire: "JPAD_APIO_SDQ_REFCLKP",
+      ),
+    ],
+    "JTX_ALIGN_CLKIN_PCS_CORE_PCS0": [
+      (
+        from_wire: "JTX_ALIGN_CLKOUT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN0_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP0_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN1_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP1_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN2_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP2_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN3_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP3_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN4_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP4_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN5_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP5_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN6_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP6_PCS_CORE_PCS0",
+      ),
+    ],
+    "JTX_LALIGN_IN_DOWN7_PCS_CORE_PCS0": [
+      (
+        from_wire: "E66:JTX_LALIGN_OUT_UP7_PCS_CORE_PCS0",
+      ),
+    ],
+    "N1:V06S0003": [
+      (
+        from_wire: "S2:V06N0003",
+      ),
+    ],
+    "N1:V06S0103": [
+      (
+        from_wire: "S2:V06N0103",
+      ),
+    ],
+    "N1:V06S0203": [
+      (
+        from_wire: "S2:V06N0203",
+      ),
+    ],
+    "N1:V06S0303": [
+      (
+        from_wire: "S2:V06N0303",
+      ),
+    ],
+    "N2:V06S0003": [
+      (
+        from_wire: "S3:V06N0003",
+      ),
+    ],
+    "N2:V06S0103": [
+      (
+        from_wire: "S3:V06N0103",
+      ),
+    ],
+    "N2:V06S0203": [
+      (
+        from_wire: "S3:V06N0203",
+      ),
+    ],
+    "N2:V06S0303": [
+      (
+        from_wire: "S3:V06N0303",
+      ),
+    ],
+    "S1:V02S0001": [
+      (
+        from_wire: "S1:V02N0000",
+      ),
+    ],
+    "S1:V02S0101": [
+      (
+        from_wire: "S1:V02N0100",
+      ),
+    ],
+    "S1:V02S0201": [
+      (
+        from_wire: "S1:V02N0200",
+      ),
+    ],
+    "S1:V02S0301": [
+      (
+        from_wire: "S1:V02N0300",
+      ),
+    ],
+    "S1:V02S0401": [
+      (
+        from_wire: "S1:V02N0400",
+      ),
+    ],
+    "S1:V02S0501": [
+      (
+        from_wire: "S1:V02N0500",
+      ),
+    ],
+    "S1:V02S0601": [
+      (
+        from_wire: "S1:V02N0600",
+      ),
+    ],
+    "S1:V02S0701": [
+      (
+        from_wire: "S1:V02N0700",
+      ),
+    ],
+    "S1:V06S0003": [
+      (
+        from_wire: "V06N0003",
+      ),
+    ],
+    "S1:V06S0103": [
+      (
+        from_wire: "V06N0103",
+      ),
+    ],
+    "S1:V06S0203": [
+      (
+        from_wire: "V06N0203",
+      ),
+    ],
+    "S1:V06S0303": [
+      (
+        from_wire: "V06N0303",
+      ),
+    ],
+    "S2:V06S0003": [
+      (
+        from_wire: "N1:V06N0003",
+      ),
+    ],
+    "S2:V06S0103": [
+      (
+        from_wire: "N1:V06N0103",
+      ),
+    ],
+    "S2:V06S0203": [
+      (
+        from_wire: "N1:V06N0203",
+      ),
+    ],
+    "S2:V06S0303": [
+      (
+        from_wire: "N1:V06N0303",
+      ),
+    ],
+    "S3:V06S0003": [
+      (
+        from_wire: "N2:V06N0003",
+      ),
+    ],
+    "S3:V06S0103": [
+      (
+        from_wire: "N2:V06N0103",
+      ),
+    ],
+    "S3:V06S0203": [
+      (
+        from_wire: "N2:V06N0203",
+      ),
+    ],
+    "S3:V06S0303": [
+      (
+        from_wire: "N2:V06N0303",
+      ),
+    ],
+    "V01S0000": [
+      (
+        from_wire: "S1:V01S0100",
+      ),
+    ],
+    "V01S0100": [
+      (
+        from_wire: "S1:V01S0000",
+      ),
+    ],
+    "V01S0200": [
+      (
+        from_wire: "S1:V01S0300",
+      ),
+    ],
+    "V01S0300": [
+      (
+        from_wire: "S1:V01S0200",
+      ),
+    ],
+    "V02S0001": [
+      (
+        from_wire: "S1:V02N0001",
+      ),
+    ],
+    "V02S0101": [
+      (
+        from_wire: "S1:V02N0101",
+      ),
+    ],
+    "V02S0201": [
+      (
+        from_wire: "S1:V02N0201",
+      ),
+    ],
+    "V02S0301": [
+      (
+        from_wire: "S1:V02N0301",
+      ),
+    ],
+    "V02S0401": [
+      (
+        from_wire: "S1:V02N0401",
+      ),
+    ],
+    "V02S0501": [
+      (
+        from_wire: "S1:V02N0501",
+      ),
+    ],
+    "V02S0601": [
+      (
+        from_wire: "S1:V02N0601",
+      ),
+    ],
+    "V02S0701": [
+      (
+        from_wire: "S1:V02N0701",
+      ),
+    ],
+    "V06S0003": [
+      (
+        from_wire: "S1:V06N0003",
+      ),
+    ],
+    "V06S0103": [
+      (
+        from_wire: "S1:V06N0103",
+      ),
+    ],
+    "V06S0203": [
+      (
+        from_wire: "S1:V06N0203",
+      ),
+    ],
+    "V06S0303": [
+      (
+        from_wire: "S1:V06N0303",
+      ),
+    ],
+  },
+)

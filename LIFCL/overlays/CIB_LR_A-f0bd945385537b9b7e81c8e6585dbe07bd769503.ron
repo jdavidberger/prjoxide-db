@@ -1,0 +1,918 @@
+(
+  pips: {
+    "E1:H01W0001": [
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:26,bit:9,invert:false,),(frame:31,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:27,bit:9,invert:false,),(frame:31,bit:9,invert:false,),],
+      ),
+    ],
+    "E1:H01W0201": [
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:42,bit:9,invert:false,),(frame:47,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:42,bit:9,invert:false,),(frame:46,bit:9,invert:false,),],
+      ),
+    ],
+    "E1:H01W0301": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:50,bit:9,invert:false,),(frame:55,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:51,bit:9,invert:false,),(frame:55,bit:9,invert:false,),],
+      ),
+    ],
+    "E1:H02E0001": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:23,bit:7,invert:false,),(frame:28,bit:7,invert:false,),],
+      ),
+    ],
+    "E1:H02E0101": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:23,bit:5,invert:false,),(frame:28,bit:5,invert:false,),],
+      ),
+    ],
+    "E1:H02E0201": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:73,bit:7,invert:false,),(frame:78,bit:7,invert:false,),],
+      ),
+    ],
+    "E1:H02E0301": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:73,bit:5,invert:false,),(frame:78,bit:5,invert:false,),],
+      ),
+    ],
+    "E1:H02E0401": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:23,bit:3,invert:false,),(frame:28,bit:3,invert:false,),],
+      ),
+    ],
+    "E1:H02E0501": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:23,bit:1,invert:false,),(frame:28,bit:1,invert:false,),],
+      ),
+    ],
+    "E1:H02E0601": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:73,bit:3,invert:false,),(frame:78,bit:3,invert:false,),],
+      ),
+    ],
+    "E1:H02E0701": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:73,bit:1,invert:false,),(frame:78,bit:1,invert:false,),],
+      ),
+    ],
+    "E3:H06E0003": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:101,bit:6,invert:false,),(frame:104,bit:7,invert:false,),],
+      ),
+    ],
+    "E3:H06E0103": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:101,bit:4,invert:false,),(frame:104,bit:5,invert:false,),],
+      ),
+    ],
+    "E3:H06E0203": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:101,bit:2,invert:false,),(frame:104,bit:3,invert:false,),],
+      ),
+    ],
+    "E3:H06E0303": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:101,bit:0,invert:false,),(frame:104,bit:1,invert:false,),],
+      ),
+    ],
+    "JA4": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:51,bit:0,invert:false,),(frame:55,bit:1,invert:false,),],
+      ),
+    ],
+    "JA5": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:55,bit:0,invert:false,),(frame:60,bit:0,invert:false,),],
+      ),
+    ],
+    "JA6": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:77,bit:0,invert:false,),(frame:82,bit:0,invert:false,),],
+      ),
+    ],
+    "JA7": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:82,bit:1,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
+    ],
+    "JB0": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:2,bit:4,invert:false,),(frame:3,bit:5,invert:false,),],
+      ),
+    ],
+    "JB1": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:4,bit:5,invert:false,),(frame:7,bit:4,invert:false,),],
+      ),
+    ],
+    "JB2": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:30,bit:4,invert:false,),(frame:33,bit:5,invert:false,),],
+      ),
+    ],
+    "JB3": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:34,bit:5,invert:false,),(frame:35,bit:4,invert:false,),],
+      ),
+    ],
+    "JC1": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:4,bit:7,invert:false,),(frame:7,bit:6,invert:false,),],
+      ),
+    ],
+    "JC3": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:34,bit:7,invert:false,),(frame:35,bit:6,invert:false,),],
+      ),
+    ],
+    "JC4": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:51,bit:2,invert:false,),(frame:55,bit:3,invert:false,),],
+      ),
+    ],
+    "JC6": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:77,bit:2,invert:false,),(frame:82,bit:2,invert:false,),],
+      ),
+    ],
+    "JCE0": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:83,bit:8,invert:false,),(frame:87,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:83,bit:8,invert:false,),(frame:84,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:83,bit:8,invert:false,),(frame:86,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:83,bit:8,invert:false,),(frame:86,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:82,bit:9,invert:false,),(frame:87,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:82,bit:9,invert:false,),(frame:84,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:82,bit:9,invert:false,),(frame:86,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:82,bit:9,invert:false,),(frame:86,bit:9,invert:false,),],
+      ),
+    ],
+    "JCE1": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:88,bit:8,invert:false,),(frame:89,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:85,bit:9,invert:false,),(frame:89,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:85,bit:8,invert:false,),(frame:89,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:87,bit:9,invert:false,),(frame:89,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:88,bit:8,invert:false,),(frame:90,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:85,bit:9,invert:false,),(frame:90,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:85,bit:8,invert:false,),(frame:90,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:87,bit:9,invert:false,),(frame:90,bit:9,invert:false,),],
+      ),
+    ],
+    "JCLK0": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:63,bit:8,invert:false,),(frame:67,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:63,bit:8,invert:false,),(frame:67,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:63,bit:9,invert:false,),(frame:66,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:63,bit:9,invert:false,),(frame:67,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:63,bit:9,invert:false,),(frame:67,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:63,bit:9,invert:false,),(frame:70,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:63,bit:9,invert:false,),(frame:69,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:64,bit:9,invert:false,),(frame:67,bit:8,invert:false,),],
+      ),
+    ],
+    "JCLK1": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:65,bit:9,invert:false,),(frame:72,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:68,bit:8,invert:false,),(frame:72,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:66,bit:9,invert:false,),(frame:72,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:65,bit:9,invert:false,),(frame:72,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:68,bit:8,invert:false,),(frame:72,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:68,bit:9,invert:false,),(frame:72,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:69,bit:8,invert:false,),(frame:72,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:68,bit:8,invert:false,),(frame:71,bit:9,invert:false,),],
+      ),
+    ],
+    "JD0": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:2,bit:6,invert:false,),(frame:3,bit:7,invert:false,),],
+      ),
+    ],
+    "JD2": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:30,bit:6,invert:false,),(frame:33,bit:7,invert:false,),],
+      ),
+    ],
+    "JD5": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:55,bit:2,invert:false,),(frame:60,bit:2,invert:false,),],
+      ),
+    ],
+    "JD7": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:82,bit:3,invert:false,),(frame:86,bit:2,invert:false,),],
+      ),
+    ],
+    "JLSR0": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:74,bit:8,invert:false,),(frame:75,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:74,bit:8,invert:false,),(frame:78,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:74,bit:8,invert:false,),(frame:78,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:74,bit:8,invert:false,),(frame:76,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:73,bit:9,invert:false,),(frame:75,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:73,bit:9,invert:false,),(frame:78,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:73,bit:9,invert:false,),(frame:78,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:73,bit:9,invert:false,),(frame:76,bit:9,invert:false,),],
+      ),
+    ],
+    "JLSR1": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:76,bit:8,invert:false,),(frame:80,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:79,bit:8,invert:false,),(frame:80,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:77,bit:8,invert:false,),(frame:80,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:77,bit:9,invert:false,),(frame:80,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:76,bit:8,invert:false,),(frame:81,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:79,bit:8,invert:false,),(frame:81,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:77,bit:8,invert:false,),(frame:81,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:77,bit:9,invert:false,),(frame:81,bit:9,invert:false,),],
+      ),
+    ],
+    "JM0": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:94,bit:8,invert:false,),(frame:95,bit:8,invert:false,),],
+      ),
+    ],
+    "N1:V02N0001": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:13,bit:7,invert:false,),(frame:17,bit:7,invert:false,),],
+      ),
+    ],
+    "N1:V02N0101": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:13,bit:5,invert:false,),(frame:17,bit:5,invert:false,),],
+      ),
+    ],
+    "N1:V02N0201": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:63,bit:7,invert:false,),(frame:67,bit:7,invert:false,),],
+      ),
+    ],
+    "N1:V02N0301": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:63,bit:5,invert:false,),(frame:67,bit:5,invert:false,),],
+      ),
+    ],
+    "N1:V02N0401": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:13,bit:3,invert:false,),(frame:17,bit:3,invert:false,),],
+      ),
+    ],
+    "N1:V02N0501": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:13,bit:1,invert:false,),(frame:17,bit:1,invert:false,),],
+      ),
+    ],
+    "N1:V02N0601": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:63,bit:3,invert:false,),(frame:67,bit:3,invert:false,),],
+      ),
+    ],
+    "N1:V02N0701": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:63,bit:1,invert:false,),(frame:67,bit:1,invert:false,),],
+      ),
+    ],
+    "N3:V06N0003": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:91,bit:7,invert:false,),(frame:93,bit:7,invert:false,),],
+      ),
+    ],
+    "N3:V06N0103": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:91,bit:5,invert:false,),(frame:93,bit:5,invert:false,),],
+      ),
+    ],
+    "N3:V06N0203": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:91,bit:3,invert:false,),(frame:93,bit:3,invert:false,),],
+      ),
+    ],
+    "N3:V06N0303": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:91,bit:1,invert:false,),(frame:93,bit:1,invert:false,),],
+      ),
+    ],
+    "S1:V02S0001": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:9,bit:7,invert:false,),(frame:14,bit:7,invert:false,),],
+      ),
+    ],
+    "S1:V02S0101": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:9,bit:5,invert:false,),(frame:14,bit:5,invert:false,),],
+      ),
+    ],
+    "S1:V02S0201": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:59,bit:7,invert:false,),(frame:64,bit:7,invert:false,),],
+      ),
+    ],
+    "S1:V02S0301": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:59,bit:5,invert:false,),(frame:64,bit:5,invert:false,),],
+      ),
+    ],
+    "S1:V02S0401": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:9,bit:3,invert:false,),(frame:14,bit:3,invert:false,),],
+      ),
+    ],
+    "S1:V02S0501": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:9,bit:1,invert:false,),(frame:14,bit:1,invert:false,),],
+      ),
+    ],
+    "S1:V02S0601": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:59,bit:3,invert:false,),(frame:64,bit:3,invert:false,),],
+      ),
+    ],
+    "S1:V02S0701": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:59,bit:1,invert:false,),(frame:64,bit:1,invert:false,),],
+      ),
+    ],
+    "S3:V06S0003": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:88,bit:7,invert:false,),(frame:90,bit:7,invert:false,),],
+      ),
+    ],
+    "S3:V06S0103": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:88,bit:5,invert:false,),(frame:90,bit:5,invert:false,),],
+      ),
+    ],
+    "S3:V06S0203": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:88,bit:3,invert:false,),(frame:90,bit:3,invert:false,),],
+      ),
+    ],
+    "S3:V06S0303": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:88,bit:1,invert:false,),(frame:90,bit:1,invert:false,),],
+      ),
+    ],
+    "V01S0000": [
+      (
+        from_wire: "BRANCH:HPBX0100",
+        bits: [(frame:38,bit:9,invert:false,),(frame:42,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0500",
+        bits: [(frame:39,bit:9,invert:false,),(frame:42,bit:8,invert:false,),],
+      ),
+    ],
+    "V01S0100": [
+      (
+        from_wire: "BRANCH:HPBX0000",
+        bits: [(frame:55,bit:8,invert:false,),(frame:59,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0400",
+        bits: [(frame:55,bit:8,invert:false,),(frame:58,bit:9,invert:false,),],
+      ),
+    ],
+    "V01S0200": [
+      (
+        from_wire: "BRANCH:HPBX0300",
+        bits: [(frame:31,bit:8,invert:false,),(frame:35,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0700",
+        bits: [(frame:31,bit:8,invert:false,),(frame:34,bit:9,invert:false,),],
+      ),
+    ],
+    "V01S0300": [
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:14,bit:9,invert:false,),(frame:18,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:15,bit:9,invert:false,),(frame:18,bit:8,invert:false,),],
+      ),
+    ],
+    "W1:H02W0001": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:20,bit:7,invert:false,),(frame:24,bit:7,invert:false,),],
+      ),
+    ],
+    "W1:H02W0101": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:20,bit:5,invert:false,),(frame:24,bit:5,invert:false,),],
+      ),
+    ],
+    "W1:H02W0201": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:70,bit:7,invert:false,),(frame:74,bit:7,invert:false,),],
+      ),
+    ],
+    "W1:H02W0301": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:70,bit:5,invert:false,),(frame:74,bit:5,invert:false,),],
+      ),
+    ],
+    "W1:H02W0401": [
+      (
+        from_wire: "H01W0001",
+        bits: [(frame:20,bit:3,invert:false,),(frame:24,bit:3,invert:false,),],
+      ),
+    ],
+    "W1:H02W0501": [
+      (
+        from_wire: "H01W0101",
+        bits: [(frame:20,bit:1,invert:false,),(frame:24,bit:1,invert:false,),],
+      ),
+    ],
+    "W1:H02W0601": [
+      (
+        from_wire: "H01W0201",
+        bits: [(frame:70,bit:3,invert:false,),(frame:74,bit:3,invert:false,),],
+      ),
+    ],
+    "W1:H02W0701": [
+      (
+        from_wire: "H01W0301",
+        bits: [(frame:70,bit:1,invert:false,),(frame:74,bit:1,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "E1:H02E0001": [
+      (
+        from_wire: "H02W0001",
+      ),
+    ],
+    "E1:H02E0101": [
+      (
+        from_wire: "H02W0101",
+      ),
+    ],
+    "E1:H02E0201": [
+      (
+        from_wire: "H02W0201",
+      ),
+    ],
+    "E1:H02E0301": [
+      (
+        from_wire: "H02W0301",
+      ),
+    ],
+    "E1:H02E0401": [
+      (
+        from_wire: "H02W0401",
+      ),
+    ],
+    "E1:H02E0501": [
+      (
+        from_wire: "H02W0501",
+      ),
+    ],
+    "E1:H02E0601": [
+      (
+        from_wire: "H02W0601",
+      ),
+    ],
+    "E1:H02E0701": [
+      (
+        from_wire: "H02W0701",
+      ),
+    ],
+    "JA0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JA7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JB7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JC7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCE0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCE1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCLK0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JCLK1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JD7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JLSR0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JLSR1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM0": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM1": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM2": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM3": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM4": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM5": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM6": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "JM7": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,25 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "N1E9:JCFG_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1E9:JCFGDONECIB_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1E9:JSEDCDSRERRLOCCIB3_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

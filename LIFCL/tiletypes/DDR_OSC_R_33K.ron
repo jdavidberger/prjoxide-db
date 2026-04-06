@@ -1,0 +1,29 @@
+(
+  pips: {
+    "W1:JCLKOUT_I0": [
+      (
+        from_wire: "W1:JECLK0_I0",
+        bits: [(frame:14,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "W1:JECLK1_I0",
+        bits: [(frame:12,bit:8,invert:false,),(frame:14,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "W1:JECLK2_I0",
+        bits: [(frame:13,bit:8,invert:false,),(frame:14,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "W1:JECLK3_I0",
+        bits: [(frame:12,bit:8,invert:false,),(frame:13,bit:8,invert:false,),(frame:14,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "W1:JPCLK_I0",
+        bits: [(frame:12,bit:8,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

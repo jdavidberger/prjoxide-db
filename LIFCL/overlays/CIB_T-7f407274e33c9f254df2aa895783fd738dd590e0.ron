@@ -1,0 +1,55 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W17:JSEDCFRMERRLOCCIB11_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W17:JSEDCFRMERRLOCCIB12_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W17:JSEDCFRMERRLOCCIB13_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W17:JSEDCFRMERRLOCCIB14_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W17:JSEDCFRMERRLOCCIB15_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W17:JCFG_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W17:JASFFULLO_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W17:JASFEMPTYO_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

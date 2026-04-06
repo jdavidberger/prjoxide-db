@@ -1,0 +1,12 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JADB9_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA3",
+      ),
+    ],
+  },
+)

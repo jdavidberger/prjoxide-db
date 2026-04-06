@@ -1,0 +1,224 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "JLMMIRDATA0_PMU_CORE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "JLMMIRDATA1_PMU_CORE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JLMMIRDATA2_PMU_CORE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JLMMIRDATA3_PMU_CORE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "JLMMIRDATA4_PMU_CORE",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "JLMMIRDATA5_PMU_CORE",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JLMMIRDATA6_PMU_CORE",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JLMMIRDATA7_PMU_CORE",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "JLMMIRDATAVALID_PMU_CORE",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "JLMMIREADY_PMU_CORE",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1:JLASTADDRCIB4_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1:JLASTADDRCIB5_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N1:JLASTADDRCIB6_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N1:JLASTADDRCIB7_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N1:JLASTADDRCIB8_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1:JLASTADDRCIB9_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JCIBINTSEL0_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA0",
+      ),
+    ],
+    "JCIBINTSEL1_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA1",
+      ),
+    ],
+    "JCIBINT_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA2",
+      ),
+    ],
+    "JEXTCLK_PMU_CORE": [
+      (
+        from_wire: "S12E14:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JEXTPINTN_PMU_CORE": [
+      (
+        from_wire: "S12E14:JPADDI_SEIO33_CORE_IOB",
+      ),
+    ],
+    "JLMMICLK_PMU_CORE": [
+      (
+        from_wire: "JCLK1",
+      ),
+    ],
+    "JLMMIOFFSET0_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIOFFSET1_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB0",
+      ),
+    ],
+    "JLMMIOFFSET2_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB1",
+      ),
+    ],
+    "JLMMIOFFSET3_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC2",
+      ),
+    ],
+    "JLMMIREQUEST_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIRESETN_PMU_CORE": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JLMMIWDATA0_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB2",
+      ),
+    ],
+    "JLMMIWDATA1_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB3",
+      ),
+    ],
+    "JLMMIWDATA2_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JLMMIWDATA3_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+    "JLMMIWDATA4_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JLMMIWDATA5_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIWDATA6_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC0",
+      ),
+    ],
+    "JLMMIWDATA7_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTC1",
+      ),
+    ],
+    "JLMMIWRRDN_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA6",
+      ),
+    ],
+    "JOPCGLOADCLK_PMU_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD7",
+      ),
+    ],
+    "JSCANCLK_PMU_CORE": [
+      (
+        from_wire: "JCLK0",
+      ),
+    ],
+    "JSCANRST_PMU_CORE": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+  },
+)

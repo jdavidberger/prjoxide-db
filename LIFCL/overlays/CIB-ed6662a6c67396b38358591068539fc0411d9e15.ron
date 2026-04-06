@@ -1,0 +1,287 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JCASIN0_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JCASCOUT0_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JCASIN1_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JCASCOUT1_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN0_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT0_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN10_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT10_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN11_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT11_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN12_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT12_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN13_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT13_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN14_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT14_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN15_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT15_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN16_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT16_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN17_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT17_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN18_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT18_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN19_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT19_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN1_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT1_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN20_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT20_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN21_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT21_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN22_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT22_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN23_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT23_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN24_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT24_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN25_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT25_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN26_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT26_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN27_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT27_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN28_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT28_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN29_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT29_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN2_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT2_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN30_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT30_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN31_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT31_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN32_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT32_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN33_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT33_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN34_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT34_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN35_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT35_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN36_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT36_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN37_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT37_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN38_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT38_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN39_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT39_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN3_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT3_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN40_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT40_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN41_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT41_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN42_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT42_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN43_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT43_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN44_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT44_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN45_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT45_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN46_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT46_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN47_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT47_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN48_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT48_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN49_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT49_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN4_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT4_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN50_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT50_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN51_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT51_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN52_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT52_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN53_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT53_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN5_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT5_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN6_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT6_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN7_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT7_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN8_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT8_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JDSPIN9_ACC54_CORE_ACC54_0": [
+      (
+        from_wire: "W8:JDSPOUT9_ACC54_CORE_ACC54_1",
+      ),
+    ],
+  },
+)

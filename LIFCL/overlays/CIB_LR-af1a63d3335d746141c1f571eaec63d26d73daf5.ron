@@ -1,0 +1,25 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "N1:JRESULT14_ALUREG_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1:JRESULT15_ALUREG_CORE",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1:JRESULT13_ALUREG_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

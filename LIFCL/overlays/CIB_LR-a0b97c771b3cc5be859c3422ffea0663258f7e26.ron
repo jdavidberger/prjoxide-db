@@ -1,0 +1,13 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "N4:JDOA27_LRAM_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

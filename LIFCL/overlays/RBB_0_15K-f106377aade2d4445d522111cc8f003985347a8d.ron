@@ -1,0 +1,822 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "E1:H02E0001": [
+      (
+        from_wire: "E1:H02W0000",
+      ),
+    ],
+    "E1:H02E0101": [
+      (
+        from_wire: "E1:H02W0100",
+      ),
+    ],
+    "E1:H02E0201": [
+      (
+        from_wire: "E1:H02W0200",
+      ),
+    ],
+    "E1:H02E0301": [
+      (
+        from_wire: "E1:H02W0300",
+      ),
+    ],
+    "E1:H02E0401": [
+      (
+        from_wire: "E1:H02W0400",
+      ),
+    ],
+    "E1:H02E0501": [
+      (
+        from_wire: "E1:H02W0500",
+      ),
+    ],
+    "E1:H02E0601": [
+      (
+        from_wire: "E1:H02W0600",
+      ),
+    ],
+    "E1:H02E0701": [
+      (
+        from_wire: "E1:H02W0700",
+      ),
+    ],
+    "E1:H06E0003": [
+      (
+        from_wire: "H06W0003",
+      ),
+    ],
+    "E1:H06E0103": [
+      (
+        from_wire: "H06W0103",
+      ),
+    ],
+    "E1:H06E0203": [
+      (
+        from_wire: "H06W0203",
+      ),
+    ],
+    "E1:H06E0303": [
+      (
+        from_wire: "H06W0303",
+      ),
+    ],
+    "E2:H06E0003": [
+      (
+        from_wire: "W1:H06W0003",
+      ),
+    ],
+    "E2:H06E0103": [
+      (
+        from_wire: "W1:H06W0103",
+      ),
+    ],
+    "E2:H06E0203": [
+      (
+        from_wire: "W1:H06W0203",
+      ),
+    ],
+    "E2:H06E0303": [
+      (
+        from_wire: "W1:H06W0303",
+      ),
+    ],
+    "E3:H06E0003": [
+      (
+        from_wire: "W2:H06W0003",
+      ),
+    ],
+    "E3:H06E0103": [
+      (
+        from_wire: "W2:H06W0103",
+      ),
+    ],
+    "E3:H06E0203": [
+      (
+        from_wire: "W2:H06W0203",
+      ),
+    ],
+    "E3:H06E0303": [
+      (
+        from_wire: "W2:H06W0303",
+      ),
+    ],
+    "H01E0000": [
+      (
+        from_wire: "E1:H01W0100",
+      ),
+    ],
+    "H01E0100": [
+      (
+        from_wire: "E1:H01W0000",
+      ),
+    ],
+    "H01E0200": [
+      (
+        from_wire: "E1:H01W0300",
+      ),
+    ],
+    "H01E0300": [
+      (
+        from_wire: "E1:H01W0200",
+      ),
+    ],
+    "H02E0001": [
+      (
+        from_wire: "E1:H02W0001",
+      ),
+    ],
+    "H02E0101": [
+      (
+        from_wire: "E1:H02W0101",
+      ),
+    ],
+    "H02E0201": [
+      (
+        from_wire: "E1:H02W0201",
+      ),
+    ],
+    "H02E0301": [
+      (
+        from_wire: "E1:H02W0301",
+      ),
+    ],
+    "H02E0401": [
+      (
+        from_wire: "E1:H02W0401",
+      ),
+    ],
+    "H02E0501": [
+      (
+        from_wire: "E1:H02W0501",
+      ),
+    ],
+    "H02E0601": [
+      (
+        from_wire: "E1:H02W0601",
+      ),
+    ],
+    "H02E0701": [
+      (
+        from_wire: "E1:H02W0701",
+      ),
+    ],
+    "H06E0003": [
+      (
+        from_wire: "E1:H06W0003",
+      ),
+    ],
+    "H06E0103": [
+      (
+        from_wire: "E1:H06W0103",
+      ),
+    ],
+    "H06E0203": [
+      (
+        from_wire: "E1:H06W0203",
+      ),
+    ],
+    "H06E0303": [
+      (
+        from_wire: "E1:H06W0303",
+      ),
+    ],
+    "JADA0_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JADA10_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JADA11_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JADA12_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JADA13_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JADA1_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JADA2_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JADA3_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JADA4_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JADA5_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JADA6_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JADA7_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JADA8_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JADA9_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JADB0_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JADB10_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JADB11_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JADB12_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JADB13_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JADB1_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JADB2_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JADB3_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JADB4_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JADB5_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JADB6_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JADB7_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JADB8_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JADB9_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JBENA_N0_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JBENA_N1_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JBENA_N2_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JBENA_N3_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JBENB_N0_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JBENB_N1_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JBENB_N2_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JBENB_N3_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCEA_LRAM_CORE": [
+      (
+        from_wire: "S5E1:JCE0",
+      ),
+    ],
+    "JCEB_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCE0",
+      ),
+    ],
+    "JCLK_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCLK0",
+      ),
+    ],
+    "JCSA_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCSB_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JDIA0_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JDIA10_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JDIA11_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JDIA12_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JDIA13_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JDIA14_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JDIA15_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JDIA16_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JDIA17_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JDIA18_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JDIA19_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JDIA1_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JDIA20_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDIA21_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JDIA22_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JDIA23_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JDIA24_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JDIA25_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JDIA26_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JDIA27_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JDIA28_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JDIA29_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JDIA2_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDIA30_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JDIA31_LRAM_CORE": [
+      (
+        from_wire: "S3E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JDIA3_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JDIA4_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JDIA5_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JDIA6_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JDIA7_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JDIA8_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JDIA9_LRAM_CORE": [
+      (
+        from_wire: "S4E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JDIB0_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JDIB10_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JDIB11_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JDIB12_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JDIB13_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JDIB14_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JDIB15_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JDIB16_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JDIB17_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JDIB18_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JDIB19_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JDIB1_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JDIB20_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JDIB21_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JDIB22_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JDIB23_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JDIB24_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDIB25_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JDIB26_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JDIB27_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JDIB28_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JDIB29_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JDIB2_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JDIB30_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JDIB31_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JDIB3_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JDIB4_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JDIB5_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JDIB6_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JDIB7_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JDIB8_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JDIB9_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JDPS_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JIGN_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JINITN_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JOCEA_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JCE1",
+      ),
+    ],
+    "JOCEB_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCE1",
+      ),
+    ],
+    "JOPCGLOADCLK_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCLK1",
+      ),
+    ],
+    "JRSTA_LRAM_CORE": [
+      (
+        from_wire: "S2E1:JLSR0",
+      ),
+    ],
+    "JRSTB_LRAM_CORE": [
+      (
+        from_wire: "E1:JLSR0",
+      ),
+    ],
+    "JSCANCLK_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCLK0",
+      ),
+    ],
+    "JSCANRST_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JLSR0",
+      ),
+    ],
+    "JSTDBYN_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JTBISTN_LRAM_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JWEA_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JWEB_LRAM_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "W1:H06E0003": [
+      (
+        from_wire: "E2:H06W0003",
+      ),
+    ],
+    "W1:H06E0103": [
+      (
+        from_wire: "E2:H06W0103",
+      ),
+    ],
+    "W1:H06E0203": [
+      (
+        from_wire: "E2:H06W0203",
+      ),
+    ],
+    "W1:H06E0303": [
+      (
+        from_wire: "E2:H06W0303",
+      ),
+    ],
+    "W2:H06E0003": [
+      (
+        from_wire: "E3:H06W0003",
+      ),
+    ],
+    "W2:H06E0103": [
+      (
+        from_wire: "E3:H06W0103",
+      ),
+    ],
+    "W2:H06E0203": [
+      (
+        from_wire: "E3:H06W0203",
+      ),
+    ],
+    "W2:H06E0303": [
+      (
+        from_wire: "E3:H06W0303",
+      ),
+    ],
+  },
+)

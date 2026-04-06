@@ -1,0 +1,105 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "S1:JRXDATA0_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "S1:JRXDATA1_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "S1:JRXDATA2_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "S1:JRXDATA3_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "S1:JRXDATA4_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "S1:JRXDATA5_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "S1:JRXDATA6_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "S1:JRXDATA7_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "S1:JINFF_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "S1:JINDD_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "S1:JINLP_DIFFIO18A_CORE_IOA",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "S1:JPADDI_DIFFIO18A_CORE_IOA",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "S1:JEDETERR_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "S1:JCOUT_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "S1:JRXDATA8_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "S1:JRXDATA9_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "S1:JCOUT_LPDDR4_WT_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

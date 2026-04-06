@@ -1,0 +1,134 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "JLMMIRDATA0_SGMIICDR_CORE",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "JLMMIRDATA1_SGMIICDR_CORE",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JLMMIRDATA2_SGMIICDR_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JLMMIRDATA3_SGMIICDR_CORE",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "JLMMIRDATA4_SGMIICDR_CORE",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "JLMMIRDATA5_SGMIICDR_CORE",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JLMMIRDATA6_SGMIICDR_CORE",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JLMMIRDATA7_SGMIICDR_CORE",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "JSRXD9_SGMIICDR_CORE",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "JSRXD8_SGMIICDR_CORE",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "JSRXD7_SGMIICDR_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "JSRXD6_SGMIICDR_CORE",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "JSRXD5_SGMIICDR_CORE",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "JSRXD4_SGMIICDR_CORE",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "JSRXD3_SGMIICDR_CORE",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "JSRXD2_SGMIICDR_CORE",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JLMMICLK_SGMIICDR_CORE": [
+      (
+        from_wire: "JCLK1",
+      ),
+    ],
+    "JLMMIRESETN_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JLSR1",
+      ),
+    ],
+    "JSCANCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JSCANRST_SGMIICDR_CORE": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JSGMIIIN_SGMIICDR_CORE": [
+      (
+        from_wire: "S1E14:JPADDI_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JSREFCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "W3:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+  },
+)

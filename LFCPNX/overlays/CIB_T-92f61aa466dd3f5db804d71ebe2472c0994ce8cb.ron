@@ -1,0 +1,110 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "E1:H01W0101": [
+      (
+        from_wire: "E2:H01W0001",
+      ),
+      (
+        from_wire: "S1E2:H01W0001",
+      ),
+    ],
+    "E1:H02E0001": [
+      (
+        from_wire: "H02W0001",
+      ),
+    ],
+    "E1:H02E0101": [
+      (
+        from_wire: "H02W0101",
+      ),
+    ],
+    "E1:H02E0201": [
+      (
+        from_wire: "H02W0201",
+      ),
+    ],
+    "E1:H02E0301": [
+      (
+        from_wire: "H02W0301",
+      ),
+    ],
+    "E1:H02E0401": [
+      (
+        from_wire: "H02W0401",
+      ),
+    ],
+    "E1:H02E0501": [
+      (
+        from_wire: "H02W0501",
+      ),
+    ],
+    "E1:H02E0601": [
+      (
+        from_wire: "H02W0601",
+      ),
+    ],
+    "E1:H02E0701": [
+      (
+        from_wire: "H02W0701",
+      ),
+    ],
+    "JOPCGLDCK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "W1:JCLK0",
+      ),
+    ],
+    "JREFCLK13_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S30E1:JINCK_SIOLOGIC_CORE_IBASE_PIC_A",
+      ),
+      (
+        from_wire: "S30E1:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JREFCLK14_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S3E1:JINCK_SIOLOGIC_CORE_IBASE_PIC_A",
+      ),
+      (
+        from_wire: "S3E1:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JREFCLK15_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "N1W90:JCH3_PIPE_PCS_TXCLKOUT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JREFCLK16_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "N1W22:JINCK_SIOLOGIC_CORE_IBASE_PIC_A",
+      ),
+      (
+        from_wire: "N1W22:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JREFCLK17_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "N1W90:JCH2_PIPE_PCS_TXCLKOUT_PCS_CORE_PCS0",
+      ),
+    ],
+    "JREFCLK23_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S28E1:JINCK_SIOLOGIC_CORE_IBASE_PIC_A",
+      ),
+      (
+        from_wire: "S28E1:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JREFCLK26_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "N1W20:JINCK_SIOLOGIC_CORE_IBASE_PIC_A",
+      ),
+      (
+        from_wire: "N1W20:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+  },
+)

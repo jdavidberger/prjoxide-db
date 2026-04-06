@@ -1,0 +1,476 @@
+(
+  pips: {
+    "E1:H01E0101": [
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:18,bit:9,invert:false,),(frame:23,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:18,bit:9,invert:false,),(frame:22,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "E3:H06W0103",
+        bits: [(frame:21,bit:9,invert:false,),(frame:23,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF0",
+        bits: [(frame:14,bit:10,invert:false,),(frame:20,bit:9,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF1",
+        bits: [(frame:18,bit:9,invert:false,),(frame:20,bit:10,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF2",
+        bits: [(frame:19,bit:9,invert:false,),(frame:23,bit:8,invert:false,),(frame:40,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF3",
+        bits: [(frame:20,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:46,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF4",
+        bits: [(frame:18,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:66,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF5",
+        bits: [(frame:19,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:72,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF6",
+        bits: [(frame:19,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:92,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF7",
+        bits: [(frame:21,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:98,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ0",
+        bits: [(frame:12,bit:10,invert:false,),(frame:19,bit:9,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JQ1",
+        bits: [(frame:20,bit:9,invert:false,),(frame:21,bit:10,invert:false,),(frame:23,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JQ2",
+        bits: [(frame:18,bit:9,invert:false,),(frame:23,bit:8,invert:false,),(frame:38,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ3",
+        bits: [(frame:19,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:47,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ4",
+        bits: [(frame:20,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:64,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ5",
+        bits: [(frame:20,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:73,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ6",
+        bits: [(frame:21,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:90,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ7",
+        bits: [(frame:21,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:99,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "W3:H06E0103",
+        bits: [(frame:21,bit:9,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+    ],
+    "G:JLRCLKOP_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S34:JCLKOP_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JLRCLKOS2_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S34:JCLKOS2_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JLRCLKOS3_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S34:JCLKOS3_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JLRCLKOS4_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S34:JCLKOS4_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JLRCLKOS5_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S34:JCLKOS5_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JLRCLKOS_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S34:JCLKOS_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JOSCHF_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36W21:JHFCLKOUT_OSC_CORE",
+        bits: [],
+      ),
+    ],
+    "G:JOSCLF_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36W21:JLFCLKOUT_OSC_CORE",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR0_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N2:JCIBMUXOUTD7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR1_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N1:JCIBMUXOUTC7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR2_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S1:JCIBMUXOUTC7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR3_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S2:JCIBMUXOUTC7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR4_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N18W12:JCIBMUXOUTD7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR5_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N9W12:JCIBMUXOUTD7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR6_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S9W12:JCIBMUXOUTD7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR7_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S18W12:JCIBMUXOUTD7",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKCIBR8_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N9W12:JCIBMUXOUTD6",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKT10_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N1:JCLKOUT_DLLDEL_CORE_I0",
+        bits: [],
+      ),
+    ],
+    "G:JPCLKT20_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "S2:JCLKOUT_DLLDEL_CORE_I0",
+        bits: [],
+      ),
+    ],
+    "G:JTESTINP0_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "JCIBMUXOUTA0",
+        bits: [],
+      ),
+    ],
+    "G:JTESTINP1_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "JCIBMUXOUTA1",
+        bits: [],
+      ),
+    ],
+    "G:JTESTINP2_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "JCIBMUXOUTA2",
+        bits: [],
+      ),
+    ],
+    "G:JTESTINP3_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "JCIBMUXOUTA3",
+        bits: [],
+      ),
+    ],
+    "G:JURCLKOP_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36:JCLKOP_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JURCLKOS2_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36:JCLKOS2_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JURCLKOS3_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36:JCLKOS3_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JURCLKOS4_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36:JCLKOS4_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JURCLKOS5_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36:JCLKOS5_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "G:JURCLKOS_RMID_CORE_RMIDMUX": [
+      (
+        from_wire: "N36:JCLKOS_PLL_CORE_PLL_LMMI",
+        bits: [],
+      ),
+    ],
+    "JB4": [
+      (
+        from_wire: "E1:H01E0101",
+        bits: [(frame:51,bit:4,invert:false,),(frame:55,bit:5,invert:false,),],
+      ),
+    ],
+    "JB5": [
+      (
+        from_wire: "E1:H01E0101",
+        bits: [(frame:55,bit:4,invert:false,),(frame:60,bit:4,invert:false,),],
+      ),
+    ],
+    "JB6": [
+      (
+        from_wire: "E1:H01E0101",
+        bits: [(frame:77,bit:4,invert:false,),(frame:82,bit:4,invert:false,),],
+      ),
+    ],
+    "JB7": [
+      (
+        from_wire: "E1:H01E0101",
+        bits: [(frame:82,bit:5,invert:false,),(frame:86,bit:4,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "E1:H01E0101": [
+      (
+        from_wire: "E2:H01W0001",
+      ),
+      (
+        from_wire: "S1E2:H01W0001",
+      ),
+    ],
+    "JCE_DCC_DCC0": [
+      (
+        from_wire: "JCIBMUXOUTB0",
+      ),
+    ],
+    "JCE_DCC_DCC1": [
+      (
+        from_wire: "JCIBMUXOUTB1",
+      ),
+    ],
+    "JCE_DCC_DCC10": [
+      (
+        from_wire: "JCIBMUXOUTD5",
+      ),
+    ],
+    "JCE_DCC_DCC11": [
+      (
+        from_wire: "JCIBMUXOUTD6",
+      ),
+    ],
+    "JCE_DCC_DCC2": [
+      (
+        from_wire: "JCIBMUXOUTB2",
+      ),
+    ],
+    "JCE_DCC_DCC3": [
+      (
+        from_wire: "JCIBMUXOUTB3",
+      ),
+    ],
+    "JCE_DCC_DCC4": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JCE_DCC_DCC5": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+    "JCE_DCC_DCC6": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JCE_DCC_DCC7": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JCE_DCC_DCC8": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JCE_DCC_DCC9": [
+      (
+        from_wire: "JCIBMUXOUTD4",
+      ),
+    ],
+    "JCLKI_DCC_DCC0": [
+      (
+        from_wire: "G:JHPFW0_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC1": [
+      (
+        from_wire: "G:JHPFW1_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC10": [
+      (
+        from_wire: "G:JHPFW10_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC11": [
+      (
+        from_wire: "G:JHPFW11_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC2": [
+      (
+        from_wire: "G:JHPFW2_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC3": [
+      (
+        from_wire: "G:JHPFW3_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC4": [
+      (
+        from_wire: "G:JHPFW4_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC5": [
+      (
+        from_wire: "G:JHPFW5_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC6": [
+      (
+        from_wire: "G:JHPFW6_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC7": [
+      (
+        from_wire: "G:JHPFW7_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC8": [
+      (
+        from_wire: "G:JHPFW8_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKI_DCC_DCC9": [
+      (
+        from_wire: "G:JHPFW9_RMID_CORE_RMIDMUX",
+      ),
+    ],
+    "JCLKO_DCC_DCC0": [
+      (
+        from_wire: "JCLKI_DCC_DCC0",
+      ),
+    ],
+    "JCLKO_DCC_DCC1": [
+      (
+        from_wire: "JCLKI_DCC_DCC1",
+      ),
+    ],
+    "JCLKO_DCC_DCC10": [
+      (
+        from_wire: "JCLKI_DCC_DCC10",
+      ),
+    ],
+    "JCLKO_DCC_DCC11": [
+      (
+        from_wire: "JCLKI_DCC_DCC11",
+      ),
+    ],
+    "JCLKO_DCC_DCC2": [
+      (
+        from_wire: "JCLKI_DCC_DCC2",
+      ),
+    ],
+    "JCLKO_DCC_DCC3": [
+      (
+        from_wire: "JCLKI_DCC_DCC3",
+      ),
+    ],
+    "JCLKO_DCC_DCC4": [
+      (
+        from_wire: "JCLKI_DCC_DCC4",
+      ),
+    ],
+    "JCLKO_DCC_DCC5": [
+      (
+        from_wire: "JCLKI_DCC_DCC5",
+      ),
+    ],
+    "JCLKO_DCC_DCC6": [
+      (
+        from_wire: "JCLKI_DCC_DCC6",
+      ),
+    ],
+    "JCLKO_DCC_DCC7": [
+      (
+        from_wire: "JCLKI_DCC_DCC7",
+      ),
+    ],
+    "JCLKO_DCC_DCC8": [
+      (
+        from_wire: "JCLKI_DCC_DCC8",
+      ),
+    ],
+    "JCLKO_DCC_DCC9": [
+      (
+        from_wire: "JCLKI_DCC_DCC9",
+      ),
+    ],
+  },
+)

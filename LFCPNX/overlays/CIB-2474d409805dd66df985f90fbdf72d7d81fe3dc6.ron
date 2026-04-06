@@ -1,0 +1,87 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "G:JLLCLKOP_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N1W74:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N1W74:JCLKOS2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N1W74:JCLKOS3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS4_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N1W74:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS5_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N1W74:JCLKOS5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N1W74:JCLKOS_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOP_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N2E83:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N2E83:JCLKOS2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N2E83:JCLKOS3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS4_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N2E83:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS5_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N2E83:JCLKOS5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "N2E83:JCLKOS_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JTESTINP0_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JTESTINP1_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JTESTINP2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JTESTINP3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBR": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+  },
+)

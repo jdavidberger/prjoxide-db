@@ -1,0 +1,1062 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JARH0_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO0_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH1_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO1_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH2_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO2_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH3_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO3_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH4_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO4_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH5_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO5_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH6_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO6_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH7_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO7_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARH8_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO8_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARHSIGN_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAOSIGNED_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JARL0_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO0_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL1_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO1_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL2_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO2_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL3_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO3_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL4_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO4_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL5_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO5_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL6_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO6_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL7_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO7_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JARL8_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JAO8_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS10_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR0_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS11_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR1_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS12_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR2_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS13_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR3_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS14_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR4_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS15_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR5_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS16_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR6_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS17_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR7_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JAS18_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JAR8_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JASSIGNED1_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JARSIGNED_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBLS10_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO0_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS10_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO0_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS11_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO1_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS11_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO1_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS12_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO2_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS12_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO2_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS13_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO3_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS13_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO3_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS14_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO4_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS14_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO4_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS15_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO5_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS15_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO5_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS16_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO6_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS16_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO6_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS17_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO7_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS17_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO7_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS18_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO8_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS18_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSO8_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLS20_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO0_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS20_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO0_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS21_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO1_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS21_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO1_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS22_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO2_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS22_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO2_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS23_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO3_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS23_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO3_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS24_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO4_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS24_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO4_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS25_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO5_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS25_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO5_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS26_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO6_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS26_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO6_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS27_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO7_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS27_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO7_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLS28_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSO8_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLS28_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSO8_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLSS1_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSOSGND_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBLSS1_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JBLSOSGND_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBLSS2_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "E1:JBLSOSGND_PREADD9_CORE_PREADD9_H1",
+      ),
+    ],
+    "JBLSS2_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "E1:JBLSOSGND_PREADD9_CORE_PREADD9_L1",
+      ),
+    ],
+    "JBR0_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR0_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR0_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR0_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR1_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR1_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR1_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR1_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR2_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR2_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR2_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR2_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR3_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR3_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR3_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR3_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR4_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR4_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR4_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR4_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR5_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR5_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR5_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR5_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR6_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR6_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR6_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR6_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR7_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR7_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR7_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR7_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBR8_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBR8_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBR8_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBR8_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRH0_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO0_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH1_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO1_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH2_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO2_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH3_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO3_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH4_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO4_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH5_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO5_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH6_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO6_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH7_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO7_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRH8_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO8_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRHSIGN_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBOSIGNED_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JBRL0_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO0_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL1_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO1_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL2_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO2_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL3_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO3_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL4_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO4_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL5_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO5_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL6_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO6_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL7_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO7_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRL8_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JBO8_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JBRS10_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO0_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS11_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO1_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS12_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO2_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS13_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO3_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS14_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO4_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS15_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO5_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS16_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO6_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS17_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO7_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRS18_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSO8_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRSIGNED_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "JBRSIGNED_PREADD9_CORE_PREADD9_H0",
+      ),
+    ],
+    "JBRSIGNED_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "JBRSIGNED_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JBRSS1_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JBRSOSGND_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JCEA_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W1:JCE0",
+      ),
+    ],
+    "JCEA_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W1:JCE0",
+      ),
+    ],
+    "JCEB_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W1:JCE1",
+      ),
+    ],
+    "JCEB_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W1:JCE1",
+      ),
+    ],
+    "JCECL_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JCE0",
+      ),
+    ],
+    "JCECL_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JCE0",
+      ),
+    ],
+    "JCEP_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "E5:JCE0",
+      ),
+    ],
+    "JCEP_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "E5:JCE0",
+      ),
+    ],
+    "JP360_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL180_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3610_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1810_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3611_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1811_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3612_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1812_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3613_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1813_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3614_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1814_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3615_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1815_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3616_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1816_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3617_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL1817_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3618_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH180_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3619_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH181_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP361_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL181_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3620_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH182_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3621_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH183_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3622_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH184_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3623_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH185_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3624_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH186_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3625_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH187_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3626_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH188_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3627_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH189_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3628_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1810_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3629_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1811_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP362_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL182_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3630_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1812_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3631_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1813_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3632_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1814_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3633_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1815_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3634_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1816_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP3635_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPH1817_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP363_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL183_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP364_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL184_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP365_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL185_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP366_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL186_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP367_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL187_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP368_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL188_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JP369_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JPL189_MULT18_CORE_MULT18_0",
+      ),
+    ],
+    "JPH180_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP180_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1810_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1810_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1811_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1811_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1812_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1812_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1813_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1813_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1814_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1814_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1815_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1815_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1816_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1816_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1817_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1817_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1818_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1818_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH1819_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1819_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH181_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP181_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH182_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP182_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH183_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP183_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH184_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP184_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH185_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP185_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH186_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP186_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH187_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP187_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH188_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP188_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPH189_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP189_MULT9_CORE_MULT9_H0",
+      ),
+    ],
+    "JPL180_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP180_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1810_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1810_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1811_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1811_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1812_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1812_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1813_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1813_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1814_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1814_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1815_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1815_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1816_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1816_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1817_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1817_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1818_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1818_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL1819_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP1819_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL181_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP181_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL182_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP182_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL183_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP183_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL184_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP184_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL185_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP185_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL186_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP186_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL187_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP187_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL188_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP188_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPL189_MULT18_CORE_MULT18_0": [
+      (
+        from_wire: "JP189_MULT9_CORE_MULT9_L0",
+      ),
+    ],
+    "JPRCASIN_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JPRCASOUT_PREADD9_CORE_PREADD9_L0",
+      ),
+    ],
+    "JRSTA_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "W1:JLSR0",
+      ),
+    ],
+    "JRSTA_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "W1:JLSR0",
+      ),
+    ],
+    "JRSTB_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "W1:JLSR1",
+      ),
+    ],
+    "JRSTB_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "W1:JLSR1",
+      ),
+    ],
+    "JRSTCL_PREADD9_CORE_PREADD9_H0": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JRSTCL_PREADD9_CORE_PREADD9_L0": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JRSTP_MULT9_CORE_MULT9_H0": [
+      (
+        from_wire: "E5:JLSR0",
+      ),
+    ],
+    "JRSTP_MULT9_CORE_MULT9_L0": [
+      (
+        from_wire: "E5:JLSR0",
+      ),
+    ],
+  },
+)

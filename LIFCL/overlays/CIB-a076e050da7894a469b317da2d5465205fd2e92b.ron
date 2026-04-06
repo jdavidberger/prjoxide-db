@@ -1,0 +1,77 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JECLKOUT_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "JLRCLKOP_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL",
+      ),
+      (
+        from_wire: "JLRCLKOS2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL",
+      ),
+      (
+        from_wire: "JLRCLKOS3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL",
+      ),
+      (
+        from_wire: "JLRCLKOS4_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL",
+      ),
+      (
+        from_wire: "JLRCLKOS5_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL",
+      ),
+      (
+        from_wire: "JLRCLKOS_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL",
+      ),
+    ],
+    "JLLCLKOP_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N1W22:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N1W22:JCLKOS2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N1W22:JCLKOS3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS4_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N1W22:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS5_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N1W22:JCLKOS5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N1W22:JCLKOS_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JTESTINP0_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E4:JCIBMUXOUTB7",
+      ),
+    ],
+    "JTESTINP1_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E4:JCIBMUXOUTB6",
+      ),
+    ],
+    "JTESTINP2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E4:JCIBMUXOUTB4",
+      ),
+    ],
+    "JTESTINP3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E4:JCIBMUXOUTB5",
+      ),
+    ],
+  },
+)

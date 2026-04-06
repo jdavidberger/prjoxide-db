@@ -1,0 +1,82 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JENEXT_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JENEXT_FBMUX_CORE_FBKMUX",
+      ),
+    ],
+    "JFBKCK_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JFBKCLK0_FBMUX_CORE_FBKMUX",
+      ),
+    ],
+    "JFBKCK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JFBKCK_FBMUX_CORE_FBKMUX",
+      ),
+    ],
+    "JFBKCLK0_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK0_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK1_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK1_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK2_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK3_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK4_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK5_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK6_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JCLKOUTDL_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JINTLOCK_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTLOCK_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLGYRDYN_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JLEGRDYN_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JREFCK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JREFCK_REFMUX_CORE_REFMUX",
+      ),
+    ],
+    "JREFCK_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "JREFCLK10_REFMUX_CORE_REFMUX",
+      ),
+    ],
+    "JZRSEL3_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JZRSEL3_REFMUX_CORE_REFMUX",
+      ),
+    ],
+  },
+)

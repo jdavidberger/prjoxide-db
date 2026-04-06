@@ -1,0 +1,463 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "G:JCLKOUT_ECLKDDRL_0": [
+      (
+        from_wire: "JECLKTREE0_ECLKDDRL_0",
+      ),
+    ],
+    "G:JCLKOUT_ECLKDDRL_1": [
+      (
+        from_wire: "JECLKTREE0_ECLKDDRL_1",
+      ),
+    ],
+    "G:JCLKOUT_ECLKDDRL_2": [
+      (
+        from_wire: "JECLKTREE0_ECLKDDRL_2",
+      ),
+    ],
+    "G:JCLKOUT_ECLKDDRL_3": [
+      (
+        from_wire: "JECLKTREE0_ECLKDDRL_3",
+      ),
+    ],
+    "G:JLLCLKOP_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N1W71:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS2_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N1W71:JCLKOS2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS3_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N1W71:JCLKOS3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS4_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N1W71:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS5_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N1W71:JCLKOS5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLLCLKOS_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N1W71:JCLKOS_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOP_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N2E86:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS2_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N2E86:JCLKOS2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS3_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N2E86:JCLKOS3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS4_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N2E86:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS5_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N2E86:JCLKOS5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JLRCLKOS_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "N2E86:JCLKOS_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "G:JPCLKT0_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "W4:JCLKOUT_DLLDEL_CORE_I0",
+      ),
+    ],
+    "G:JPCLKT1_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "S1W62:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S1W62:JPADDI_DIFFIO18A_CORE_IOA",
+      ),
+    ],
+    "G:JPCLKT2_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "W3:JCLKOUT_DLLDEL_CORE_I0",
+      ),
+    ],
+    "G:JPCLKT3_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "S1W26:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S1W26:JPADDI_DIFFIO18A_CORE_IOA",
+      ),
+    ],
+    "JDIVRST_ECLKDIV_CORE_ECLKDIVB5_0": [
+      (
+        from_wire: "E1:JLSR0",
+      ),
+    ],
+    "JDIVRST_ECLKDIV_CORE_ECLKDIVB5_1": [
+      (
+        from_wire: "E1:JLSR1",
+      ),
+    ],
+    "JDIVRST_ECLKDIV_CORE_ECLKDIVB5_2": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JDIVRST_ECLKDIV_CORE_ECLKDIVB5_3": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JECLKCAS0M0_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E1:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC4_0",
+      ),
+    ],
+    "JECLKCAS0M1_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E1:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC4_1",
+      ),
+    ],
+    "JECLKCAS0M2_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E1:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC4_2",
+      ),
+    ],
+    "JECLKCAS0M3_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E1:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC4_3",
+      ),
+    ],
+    "JECLKCAS1M0_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E2:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC3_0",
+      ),
+    ],
+    "JECLKCAS1M1_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E2:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC3_1",
+      ),
+    ],
+    "JECLKCAS1M2_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E2:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC3_2",
+      ),
+    ],
+    "JECLKCAS1M3_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "E2:JECLKOUT_ECLKSYNC_CORE_ECLKSYNC3_3",
+      ),
+    ],
+    "JECLKCIB0_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "E1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JECLKCIB1_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "E1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JECLKCIB2_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "E1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JECLKCIB3_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JECLKIN_ECLKDIV_CORE_ECLKDIVB5_0": [
+      (
+        from_wire: "G:JECLKOUT0_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKIN_ECLKDIV_CORE_ECLKDIVB5_1": [
+      (
+        from_wire: "G:JECLKOUT1_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKIN_ECLKDIV_CORE_ECLKDIVB5_2": [
+      (
+        from_wire: "G:JECLKOUT2_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKIN_ECLKDIV_CORE_ECLKDIVB5_3": [
+      (
+        from_wire: "G:JECLKOUT3_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_0": [
+      (
+        from_wire: "G:JMUXIN0_ECLKBANK_CORE_ECLKBANK5",
+      ),
+    ],
+    "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_1": [
+      (
+        from_wire: "G:JMUXIN1_ECLKBANK_CORE_ECLKBANK5",
+      ),
+    ],
+    "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_2": [
+      (
+        from_wire: "G:JMUXIN2_ECLKBANK_CORE_ECLKBANK5",
+      ),
+    ],
+    "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_3": [
+      (
+        from_wire: "G:JMUXIN3_ECLKBANK_CORE_ECLKBANK5",
+      ),
+    ],
+    "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_0": [
+      (
+        from_wire: "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_0",
+      ),
+    ],
+    "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_1": [
+      (
+        from_wire: "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_1",
+      ),
+    ],
+    "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_2": [
+      (
+        from_wire: "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_2",
+      ),
+    ],
+    "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_3": [
+      (
+        from_wire: "JECLKIN_ECLKSYNC_CORE_ECLKSYNC5_3",
+      ),
+    ],
+    "JECLKSYNCM0_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_0",
+      ),
+    ],
+    "JECLKSYNCM1_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_1",
+      ),
+    ],
+    "JECLKSYNCM2_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_2",
+      ),
+    ],
+    "JECLKSYNCM3_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "JECLKOUT_ECLKSYNC_CORE_ECLKSYNC5_3",
+      ),
+    ],
+    "JECLKTREE0_ECLKDDRL_0": [
+      (
+        from_wire: "G:JECLKOUT0_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKTREE0_ECLKDDRL_1": [
+      (
+        from_wire: "G:JECLKOUT1_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKTREE0_ECLKDDRL_2": [
+      (
+        from_wire: "G:JECLKOUT2_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKTREE0_ECLKDDRL_3": [
+      (
+        from_wire: "G:JECLKOUT3_ECLKCASMUX_CORE_ECLKCASMUX5",
+      ),
+    ],
+    "JECLKTREE1_ECLKDDRL_0": [
+      (
+        from_wire: "G:JECLKOUT0_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JECLKTREE1_ECLKDDRL_1": [
+      (
+        from_wire: "G:JECLKOUT1_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JECLKTREE1_ECLKDDRL_2": [
+      (
+        from_wire: "G:JECLKOUT2_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JECLKTREE1_ECLKDDRL_3": [
+      (
+        from_wire: "G:JECLKOUT3_ECLKCASMUX_CORE_ECLKCASMUX4",
+      ),
+    ],
+    "JSLIP_ECLKDIV_CORE_ECLKDIVB5_0": [
+      (
+        from_wire: "E3:JCIBMUXOUTD2",
+      ),
+    ],
+    "JSLIP_ECLKDIV_CORE_ECLKDIVB5_1": [
+      (
+        from_wire: "E3:JCIBMUXOUTD3",
+      ),
+    ],
+    "JSLIP_ECLKDIV_CORE_ECLKDIVB5_2": [
+      (
+        from_wire: "E3:JCIBMUXOUTD4",
+      ),
+    ],
+    "JSLIP_ECLKDIV_CORE_ECLKDIVB5_3": [
+      (
+        from_wire: "E3:JCIBMUXOUTD5",
+      ),
+    ],
+    "JSTOP_ECLKSYNC_CORE_ECLKSYNC5_0": [
+      (
+        from_wire: "E2:JCIBMUXOUTD1",
+      ),
+    ],
+    "JSTOP_ECLKSYNC_CORE_ECLKSYNC5_1": [
+      (
+        from_wire: "E2:JCIBMUXOUTB3",
+      ),
+    ],
+    "JSTOP_ECLKSYNC_CORE_ECLKSYNC5_2": [
+      (
+        from_wire: "E2:JCIBMUXOUTD0",
+      ),
+    ],
+    "JSTOP_ECLKSYNC_CORE_ECLKSYNC5_3": [
+      (
+        from_wire: "E2:JCIBMUXOUTB0",
+      ),
+    ],
+    "JTESTINP0_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JTESTINP0_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "JCIBMUXOUTC0",
+      ),
+    ],
+    "JTESTINP0_ECLKDIV_CORE_ECLKDIVB5_0": [
+      (
+        from_wire: "JCIBMUXOUTD2",
+      ),
+    ],
+    "JTESTINP0_ECLKDIV_CORE_ECLKDIVB5_1": [
+      (
+        from_wire: "JCIBMUXOUTD2",
+      ),
+    ],
+    "JTESTINP0_ECLKDIV_CORE_ECLKDIVB5_2": [
+      (
+        from_wire: "JCIBMUXOUTD2",
+      ),
+    ],
+    "JTESTINP0_ECLKDIV_CORE_ECLKDIVB5_3": [
+      (
+        from_wire: "JCIBMUXOUTD2",
+      ),
+    ],
+    "JTESTINP1_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+    "JTESTINP1_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "JCIBMUXOUTC1",
+      ),
+    ],
+    "JTESTINP1_ECLKDIV_CORE_ECLKDIVB5_0": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JTESTINP1_ECLKDIV_CORE_ECLKDIVB5_1": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JTESTINP1_ECLKDIV_CORE_ECLKDIVB5_2": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JTESTINP1_ECLKDIV_CORE_ECLKDIVB5_3": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JTESTINP2_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JTESTINP2_ECLKDIV_CORE_ECLKDIVB5_0": [
+      (
+        from_wire: "JCIBMUXOUTD4",
+      ),
+    ],
+    "JTESTINP2_ECLKDIV_CORE_ECLKDIVB5_1": [
+      (
+        from_wire: "JCIBMUXOUTD4",
+      ),
+    ],
+    "JTESTINP2_ECLKDIV_CORE_ECLKDIVB5_2": [
+      (
+        from_wire: "JCIBMUXOUTD4",
+      ),
+    ],
+    "JTESTINP2_ECLKDIV_CORE_ECLKDIVB5_3": [
+      (
+        from_wire: "JCIBMUXOUTD4",
+      ),
+    ],
+    "JTESTINP3_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JTESTINP3_ECLKDIV_CORE_ECLKDIVB5_0": [
+      (
+        from_wire: "JCIBMUXOUTD5",
+      ),
+    ],
+    "JTESTINP3_ECLKDIV_CORE_ECLKDIVB5_1": [
+      (
+        from_wire: "JCIBMUXOUTD5",
+      ),
+    ],
+    "JTESTINP3_ECLKDIV_CORE_ECLKDIVB5_2": [
+      (
+        from_wire: "JCIBMUXOUTD5",
+      ),
+    ],
+    "JTESTINP3_ECLKDIV_CORE_ECLKDIVB5_3": [
+      (
+        from_wire: "JCIBMUXOUTD5",
+      ),
+    ],
+  },
+)

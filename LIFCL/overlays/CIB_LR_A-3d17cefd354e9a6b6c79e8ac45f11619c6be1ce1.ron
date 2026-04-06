@@ -1,0 +1,26 @@
+(
+  pips: {
+    "E1:H01W0101": [
+      (
+        from_wire: "BRANCH:HPBX0200",
+        bits: [(frame:18,bit:9,invert:false,),(frame:23,bit:9,invert:false,),],
+      ),
+      (
+        from_wire: "BRANCH:HPBX0600",
+        bits: [(frame:18,bit:9,invert:false,),(frame:22,bit:9,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "E1:H01W0101": [
+      (
+        from_wire: "E2:H01W0001",
+      ),
+      (
+        from_wire: "S1E2:H01W0001",
+      ),
+    ],
+  },
+)

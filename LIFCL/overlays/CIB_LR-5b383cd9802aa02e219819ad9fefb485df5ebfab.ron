@@ -1,0 +1,19 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "W1:JOEB_LRAM_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "W1:JOEA_LRAM_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

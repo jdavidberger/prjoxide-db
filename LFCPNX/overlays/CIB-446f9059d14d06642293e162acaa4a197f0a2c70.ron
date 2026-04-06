@@ -1,0 +1,49 @@
+(
+  pips: {
+    "JQ7": [
+      (
+        from_wire: "W19:JDATAVALID_DQSBUFA_CORE_I_DQS_TOP",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JIVREFI0_IVREF_CORE": [
+      (
+        from_wire: "W4:JCIBMUXOUTC0",
+      ),
+    ],
+    "JIVREFI1_IVREF_CORE": [
+      (
+        from_wire: "W4:JCIBMUXOUTC1",
+      ),
+    ],
+    "JIVREFI2_IVREF_CORE": [
+      (
+        from_wire: "W4:JCIBMUXOUTC2",
+      ),
+    ],
+    "JIVREFI3_IVREF_CORE": [
+      (
+        from_wire: "W4:JCIBMUXOUTC3",
+      ),
+    ],
+    "JIVREFI4_IVREF_CORE": [
+      (
+        from_wire: "W4:JCIBMUXOUTC4",
+      ),
+    ],
+    "JIVREFI5_IVREF_CORE": [
+      (
+        from_wire: "W4:JCIBMUXOUTC5",
+      ),
+    ],
+    "JIVREFI6_IVREF_CORE": [
+      (
+        from_wire: "W4:JCIBMUXOUTC6",
+      ),
+    ],
+  },
+)

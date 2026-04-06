@@ -1,0 +1,4007 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JCASIN0_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JCASCOUT0_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JCASIN1_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JCASCOUT1_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JCECIN_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E4:JCE0",
+      ),
+    ],
+    "JCECTRL_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E4:JCE1",
+      ),
+    ],
+    "JCEC_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E2:JCE0",
+      ),
+    ],
+    "JCEO_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E2:JCE1",
+      ),
+    ],
+    "JCEP_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JCE0",
+      ),
+    ],
+    "JCEP_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JCE0",
+      ),
+    ],
+    "JCEP_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JCE1",
+      ),
+    ],
+    "JCEP_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JCE1",
+      ),
+    ],
+    "JDSPIN0_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT0_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN10_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT10_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN11_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT11_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN12_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT12_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN13_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT13_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN14_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT14_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN15_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT15_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN16_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT16_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN17_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT17_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN18_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT18_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN19_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT19_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN1_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT1_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN20_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT20_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN21_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT21_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN22_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT22_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN23_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT23_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN24_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT24_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN25_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT25_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN26_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT26_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN27_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT27_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN28_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT28_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN29_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT29_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN2_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT2_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN30_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT30_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN31_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT31_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN32_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT32_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN33_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT33_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN34_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT34_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN35_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT35_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN36_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT36_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN37_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT37_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN38_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT38_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN39_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT39_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN3_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT3_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN40_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT40_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN41_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT41_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN42_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT42_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN43_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT43_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN44_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT44_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN45_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT45_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN46_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT46_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN47_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT47_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN48_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT48_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN49_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT49_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN4_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT4_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN50_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT50_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN51_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT51_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN52_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT52_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN53_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT53_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN5_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT5_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN6_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT6_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN7_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT7_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN8_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT8_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JDSPIN9_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "W4:JDSPOUT9_ACC54_CORE_ACC54_0",
+      ),
+    ],
+    "JP720_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL360_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7210_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3610_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7211_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3611_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7212_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3612_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7213_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3613_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7214_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3614_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7215_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3615_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7216_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3616_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7217_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3617_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7218_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3618_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7219_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3619_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP721_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL361_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7220_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3620_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7221_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3621_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7222_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3622_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7223_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3623_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7224_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3624_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7225_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3625_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7226_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3626_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7227_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3627_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7228_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3628_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7229_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3629_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP722_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL362_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7230_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3630_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7231_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3631_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7232_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3632_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7233_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3633_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7234_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3634_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7235_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL3635_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7236_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH360_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7237_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH361_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7238_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH362_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7239_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH363_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP723_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL363_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7240_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH364_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7241_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH365_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7242_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH366_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7243_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH367_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7244_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH368_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7245_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH369_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7246_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3610_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7247_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3611_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7248_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3612_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7249_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3613_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP724_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL364_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7250_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3614_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7251_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3615_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7252_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3616_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7253_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3617_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7254_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3618_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7255_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3619_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7256_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3620_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7257_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3621_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7258_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3622_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7259_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3623_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP725_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL365_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7260_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3624_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7261_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3625_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7262_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3626_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7263_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3627_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7264_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3628_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7265_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3629_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7266_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3630_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7267_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3631_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7268_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3632_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7269_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3633_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP726_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL366_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7270_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3634_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP7271_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPH3635_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP727_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL367_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP728_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL368_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JP729_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "JPL369_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH360_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP360_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3610_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3610_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3611_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3611_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3612_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3612_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3613_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3613_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3614_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3614_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3615_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3615_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3616_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3616_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3617_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3617_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3618_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3618_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3619_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3619_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH361_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP361_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3620_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3620_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3621_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3621_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3622_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3622_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3623_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3623_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3624_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3624_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3625_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3625_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3626_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3626_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3627_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3627_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3628_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3628_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3629_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3629_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH362_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP362_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3630_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3630_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3631_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3631_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3632_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3632_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3633_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3633_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3634_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3634_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3635_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3635_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3636_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3636_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH3637_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP3637_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH363_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP363_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH364_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP364_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH365_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP365_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH366_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP366_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH367_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP367_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH368_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP368_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH369_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JP369_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JPH720_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP720_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7210_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7210_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7211_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7211_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7212_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7212_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7213_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7213_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7214_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7214_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7215_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7215_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7216_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7216_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7217_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7217_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7218_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7218_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7219_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7219_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH721_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP721_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7220_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7220_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7221_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7221_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7222_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7222_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7223_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7223_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7224_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7224_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7225_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7225_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7226_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7226_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7227_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7227_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7228_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7228_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7229_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7229_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH722_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP722_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7230_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7230_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7231_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7231_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7232_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7232_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7233_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7233_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7234_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7234_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7235_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7235_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7236_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7236_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7237_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7237_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7238_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7238_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7239_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7239_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH723_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP723_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7240_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7240_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7241_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7241_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7242_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7242_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7243_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7243_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7244_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7244_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7245_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7245_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7246_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7246_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7247_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7247_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7248_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7248_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7249_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7249_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH724_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP724_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7250_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7250_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7251_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7251_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7252_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7252_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7253_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7253_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7254_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7254_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7255_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7255_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7256_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7256_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7257_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7257_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7258_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7258_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7259_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7259_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH725_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP725_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7260_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7260_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7261_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7261_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7262_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7262_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7263_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7263_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7264_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7264_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7265_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7265_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7266_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7266_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7267_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7267_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7268_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7268_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7269_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7269_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH726_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP726_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7270_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7270_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7271_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7271_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH7272_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP7272_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH727_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP727_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH728_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP728_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPH729_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JP729_MULT18X36_CORE_MULT18X36_1",
+      ),
+    ],
+    "JPL360_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP360_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3610_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3610_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3611_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3611_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3612_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3612_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3613_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3613_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3614_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3614_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3615_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3615_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3616_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3616_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3617_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3617_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3618_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3618_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3619_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3619_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL361_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP361_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3620_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3620_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3621_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3621_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3622_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3622_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3623_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3623_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3624_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3624_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3625_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3625_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3626_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3626_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3627_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3627_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3628_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3628_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3629_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3629_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL362_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP362_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3630_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3630_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3631_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3631_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3632_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3632_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3633_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3633_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3634_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3634_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3635_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3635_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3636_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3636_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL3637_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP3637_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL363_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP363_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL364_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP364_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL365_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP365_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL366_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP366_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL367_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP367_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL368_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP368_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL369_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JP369_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JPL720_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP720_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7210_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7210_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7211_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7211_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7212_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7212_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7213_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7213_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7214_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7214_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7215_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7215_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7216_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7216_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7217_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7217_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7218_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7218_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7219_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7219_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL721_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP721_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7220_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7220_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7221_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7221_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7222_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7222_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7223_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7223_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7224_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7224_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7225_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7225_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7226_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7226_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7227_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7227_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7228_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7228_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7229_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7229_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL722_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP722_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7230_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7230_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7231_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7231_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7232_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7232_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7233_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7233_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7234_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7234_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7235_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7235_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7236_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7236_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7237_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7237_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7238_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7238_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7239_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7239_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL723_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP723_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7240_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7240_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7241_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7241_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7242_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7242_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7243_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7243_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7244_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7244_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7245_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7245_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7246_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7246_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7247_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7247_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7248_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7248_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7249_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7249_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL724_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP724_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7250_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7250_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7251_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7251_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7252_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7252_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7253_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7253_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7254_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7254_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7255_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7255_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7256_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7256_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7257_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7257_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7258_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7258_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7259_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7259_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL725_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP725_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7260_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7260_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7261_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7261_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7262_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7262_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7263_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7263_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7264_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7264_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7265_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7265_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7266_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7266_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7267_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7267_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7268_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7268_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7269_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7269_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL726_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP726_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7270_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7270_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7271_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7271_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL7272_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP7272_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL727_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP727_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL728_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP728_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPL729_MULT36_CORE_MULT36": [
+      (
+        from_wire: "W4:JP729_MULT18X36_CORE_MULT18X36_0",
+      ),
+    ],
+    "JPM0_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH720_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM0_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7218_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM0_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7236_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM0_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7254_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM10_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7210_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM10_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7228_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM10_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7246_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM10_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7264_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM11_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7211_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM11_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7229_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM11_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7247_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM11_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7265_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM12_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7212_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM12_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7230_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM12_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7248_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM12_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7266_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM13_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7213_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM13_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7231_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM13_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7249_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM13_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7267_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM14_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7214_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM14_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7232_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM14_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7250_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM14_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7268_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM15_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7215_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM15_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7233_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM15_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7251_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM15_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7269_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM16_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7216_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM16_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7234_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM16_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7252_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM16_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7270_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM17_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH7217_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM17_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7235_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM17_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7253_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM17_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7271_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM1_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH721_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM1_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7219_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM1_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7237_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM1_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7255_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM2_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH722_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM2_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7220_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM2_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7238_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM2_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7256_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM3_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH723_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM3_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7221_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM3_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7239_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM3_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7257_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM4_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH724_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM4_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7222_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM4_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7240_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM4_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7258_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM5_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH725_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM5_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7223_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM5_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7241_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM5_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7259_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM6_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH726_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM6_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7224_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM6_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7242_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM6_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7260_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM7_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH727_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM7_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7225_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM7_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7243_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM7_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7261_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM8_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH728_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM8_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7226_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM8_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7244_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM8_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7262_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM9_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPMH729_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM9_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPMH7227_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM9_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPMH7245_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPM9_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPMH7263_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH720_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH720_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7210_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7210_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7211_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7211_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7212_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7212_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7213_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7213_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7214_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7214_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7215_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7215_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7216_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7216_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7217_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7217_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7218_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7218_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7219_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7219_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH721_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH721_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7220_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7220_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7221_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7221_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7222_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7222_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7223_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7223_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7224_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7224_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7225_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7225_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7226_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7226_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7227_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7227_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7228_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7228_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7229_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7229_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH722_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH722_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7230_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7230_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7231_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7231_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7232_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7232_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7233_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7233_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7234_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7234_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7235_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7235_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7236_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7236_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7237_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7237_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7238_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7238_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7239_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7239_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH723_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH723_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7240_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7240_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7241_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7241_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7242_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7242_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7243_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7243_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7244_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7244_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7245_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7245_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7246_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7246_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7247_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7247_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7248_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7248_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7249_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7249_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH724_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH724_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7250_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7250_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7251_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7251_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7252_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7252_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7253_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7253_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7254_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7254_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7255_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7255_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7256_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7256_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7257_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7257_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7258_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7258_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7259_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7259_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH725_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH725_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7260_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7260_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7261_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7261_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7262_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7262_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7263_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7263_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7264_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7264_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7265_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7265_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7266_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7266_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7267_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7267_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7268_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7268_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7269_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7269_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH726_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH726_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7270_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7270_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH7271_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH7271_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH727_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH727_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH728_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH728_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPMH729_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPH729_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML720_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL720_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7210_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7210_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7211_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7211_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7212_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7212_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7213_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7213_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7214_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7214_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7215_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7215_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7216_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7216_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7217_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7217_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7218_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7218_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7219_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7219_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML721_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL721_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7220_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7220_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7221_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7221_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7222_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7222_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7223_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7223_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7224_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7224_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7225_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7225_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7226_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7226_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7227_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7227_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7228_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7228_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7229_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7229_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML722_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL722_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7230_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7230_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7231_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7231_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7232_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7232_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7233_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7233_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7234_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7234_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7235_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7235_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7236_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7236_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7237_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7237_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7238_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7238_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7239_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7239_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML723_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL723_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7240_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7240_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7241_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7241_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7242_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7242_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7243_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7243_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7244_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7244_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7245_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7245_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7246_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7246_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7247_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7247_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7248_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7248_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7249_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7249_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML724_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL724_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7250_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7250_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7251_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7251_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7252_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7252_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7253_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7253_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7254_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7254_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7255_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7255_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7256_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7256_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7257_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7257_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7258_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7258_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7259_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7259_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML725_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL725_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7260_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7260_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7261_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7261_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7262_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7262_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7263_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7263_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7264_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7264_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7265_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7265_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7266_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7266_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7267_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7267_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7268_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7268_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7269_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7269_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML726_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL726_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7270_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7270_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML7271_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL7271_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML727_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL727_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML728_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL728_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPML729_MULT36_CORE_MULT36": [
+      (
+        from_wire: "JPL729_MULT36_CORE_MULT36",
+      ),
+    ],
+    "JPP0_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP0_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP0_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM0_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP0_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM0_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP0_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM0_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP0_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM0_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP10_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP10_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP10_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM10_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP10_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM10_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP10_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM10_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP10_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM10_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP11_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP11_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP11_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM11_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP11_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM11_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP11_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM11_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP11_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM11_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP12_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP12_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP12_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM12_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP12_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM12_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP12_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM12_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP12_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM12_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP13_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP13_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP13_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM13_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP13_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM13_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP13_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM13_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP13_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM13_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP14_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP14_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP14_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM14_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP14_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM14_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP14_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM14_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP14_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM14_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP15_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP15_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP15_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM15_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP15_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM15_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP15_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM15_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP15_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM15_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP16_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP16_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP16_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM16_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP16_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM16_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP16_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM16_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP16_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM16_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP17_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP17_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP17_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM17_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP17_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM17_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP17_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM17_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP17_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM17_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP18_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP0_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP19_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP1_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP1_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP1_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP1_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM1_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP1_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM1_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP1_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM1_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP1_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM1_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP20_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP2_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP21_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP3_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP22_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP4_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP23_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP5_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP24_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP6_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP25_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP7_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP26_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP8_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP27_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP9_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP28_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP10_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP29_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP11_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP2_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP2_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP2_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM2_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP2_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM2_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP2_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM2_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP2_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM2_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP30_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP12_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP31_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP13_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP32_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP14_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP33_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP15_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP34_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP16_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP35_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP17_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP36_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP0_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP37_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP1_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP38_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP2_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP39_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP3_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP3_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP3_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP3_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM3_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP3_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM3_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP3_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM3_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP3_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM3_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP40_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP4_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP41_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP5_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP42_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP6_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP43_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP7_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP44_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP8_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP45_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP9_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP46_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP10_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP47_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP11_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP48_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP12_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP49_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP13_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP4_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP4_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP4_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM4_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP4_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM4_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP4_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM4_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP4_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM4_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP50_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP14_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP51_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP15_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP52_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP16_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP53_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP17_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP54_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP0_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP55_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP1_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP56_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP2_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP57_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP3_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP58_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP4_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP59_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP5_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP5_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP5_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP5_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM5_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP5_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM5_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP5_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM5_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP5_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM5_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP60_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP6_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP61_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP7_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP62_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP8_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP63_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP9_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP64_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP10_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP65_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP11_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP66_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP12_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP67_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP13_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP68_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP14_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP69_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP15_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP6_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP6_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP6_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM6_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP6_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM6_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP6_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM6_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP6_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM6_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP70_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP16_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP71_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP17_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP7_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP7_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP7_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM7_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP7_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM7_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP7_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM7_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP7_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM7_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP8_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP8_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP8_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM8_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP8_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM8_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP8_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM8_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP8_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM8_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JPP9_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP9_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP9_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JPM9_REG18_CORE_REG18_H0_0",
+      ),
+    ],
+    "JPP9_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JPM9_REG18_CORE_REG18_H0_1",
+      ),
+    ],
+    "JPP9_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JPM9_REG18_CORE_REG18_H1_0",
+      ),
+    ],
+    "JPP9_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JPM9_REG18_CORE_REG18_H1_1",
+      ),
+    ],
+    "JRSTCIN_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E4:JLSR0",
+      ),
+    ],
+    "JRSTCTRL_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E4:JLSR1",
+      ),
+    ],
+    "JRSTC_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E2:JLSR0",
+      ),
+    ],
+    "JRSTO_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "E2:JLSR1",
+      ),
+    ],
+    "JRSTP_REG18_CORE_REG18_H0_0": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JRSTP_REG18_CORE_REG18_H0_1": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JRSTP_REG18_CORE_REG18_H1_0": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JRSTP_REG18_CORE_REG18_H1_1": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JSGNED18H_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W1:JSIGNED18_MULT18_CORE_MULT18_3",
+      ),
+    ],
+    "JSGNED18L_MULT18X36_CORE_MULT18X36_1": [
+      (
+        from_wire: "W2:JSIGNED18_MULT18_CORE_MULT18_2",
+      ),
+    ],
+    "JSUM00_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP0_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM010_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP10_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM011_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP11_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM012_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP12_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM013_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP13_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM014_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP14_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM015_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP15_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM016_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP16_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM017_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP17_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM018_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP18_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM019_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP19_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM01_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP1_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM020_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP20_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM021_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP21_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM022_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP22_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM023_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP23_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM024_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP24_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM025_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP25_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM026_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP26_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM027_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP27_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM028_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP28_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM029_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP29_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM02_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP2_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM030_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP30_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM031_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP31_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM032_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP32_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM033_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP33_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM034_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP34_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM035_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP35_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM03_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP3_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM04_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP4_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM05_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP5_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM06_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP6_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM07_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP7_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM08_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP8_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM09_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP9_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM10_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP36_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM110_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP46_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM111_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP47_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM112_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP48_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM113_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP49_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM114_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP50_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM115_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP51_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM116_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP52_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM117_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP53_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM118_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP54_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM119_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP55_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM11_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP37_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM120_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP56_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM121_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP57_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM122_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP58_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM123_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP59_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM124_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP60_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM125_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP61_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM126_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP62_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM127_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP63_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM128_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP64_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM129_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP65_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM12_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP38_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM130_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP66_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM131_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP67_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM132_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP68_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM133_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP69_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM134_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP70_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM135_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP71_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM13_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP39_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM14_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP40_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM15_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP41_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM16_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP42_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM17_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP43_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM18_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP44_ACC54_CORE_ACC54_1",
+      ),
+    ],
+    "JSUM19_ACC54_CORE_ACC54_1": [
+      (
+        from_wire: "JPP45_ACC54_CORE_ACC54_1",
+      ),
+    ],
+  },
+)

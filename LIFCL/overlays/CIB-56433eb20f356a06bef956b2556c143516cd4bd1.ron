@@ -1,0 +1,92 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JPVTSEL_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTD4",
+      ),
+    ],
+    "JPVTSNKI0_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTA0",
+      ),
+    ],
+    "JPVTSNKI1_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTA1",
+      ),
+    ],
+    "JPVTSNKI2_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTA2",
+      ),
+    ],
+    "JPVTSNKI3_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTA3",
+      ),
+    ],
+    "JPVTSNKI4_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTA4",
+      ),
+    ],
+    "JPVTSNKI5_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTA5",
+      ),
+    ],
+    "JPVTSNKI6_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTA6",
+      ),
+    ],
+    "JPVTSRCI0_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTB0",
+      ),
+    ],
+    "JPVTSRCI1_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTB1",
+      ),
+    ],
+    "JPVTSRCI2_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTB2",
+      ),
+    ],
+    "JPVTSRCI3_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTB3",
+      ),
+    ],
+    "JPVTSRCI4_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTB4",
+      ),
+    ],
+    "JPVTSRCI5_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTB5",
+      ),
+    ],
+    "JPVTSRCI6_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTB6",
+      ),
+    ],
+    "JSTDBYDIF_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTD0",
+      ),
+    ],
+    "JSTDBYINR_BNKREF18_CORE_BNKREF180": [
+      (
+        from_wire: "E16:JCIBMUXOUTD3",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,92 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "G:VCC": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+    "HROW:HPRX0000": [
+      (
+        from_wire: "G:LHPRX0",
+      ),
+    ],
+    "HROW:HPRX0100": [
+      (
+        from_wire: "G:LHPRX1",
+      ),
+    ],
+    "HROW:HPRX0200": [
+      (
+        from_wire: "G:LHPRX2",
+      ),
+    ],
+    "HROW:HPRX0300": [
+      (
+        from_wire: "G:LHPRX3",
+      ),
+    ],
+    "HROW:HPRX0400": [
+      (
+        from_wire: "G:LHPRX4",
+      ),
+    ],
+    "HROW:HPRX0500": [
+      (
+        from_wire: "G:LHPRX5",
+      ),
+    ],
+    "HROW:HPRX0600": [
+      (
+        from_wire: "G:LHPRX6",
+      ),
+    ],
+    "HROW:HPRX0700": [
+      (
+        from_wire: "G:LHPRX7",
+      ),
+    ],
+    "HROW:HPRX0800": [
+      (
+        from_wire: "G:LHPRX8",
+      ),
+    ],
+    "HROW:HPRX0900": [
+      (
+        from_wire: "G:LHPRX9",
+      ),
+    ],
+    "HROW:HPRX1000": [
+      (
+        from_wire: "G:LHPRX10",
+      ),
+    ],
+    "HROW:HPRX1100": [
+      (
+        from_wire: "G:LHPRX11",
+      ),
+    ],
+    "HROW:HPRX1200": [
+      (
+        from_wire: "G:LHPRX12",
+      ),
+    ],
+    "HROW:HPRX1300": [
+      (
+        from_wire: "G:LHPRX13",
+      ),
+    ],
+    "HROW:HPRX1400": [
+      (
+        from_wire: "G:LHPRX14",
+      ),
+    ],
+    "HROW:HPRX1500": [
+      (
+        from_wire: "G:LHPRX15",
+      ),
+    ],
+  },
+)

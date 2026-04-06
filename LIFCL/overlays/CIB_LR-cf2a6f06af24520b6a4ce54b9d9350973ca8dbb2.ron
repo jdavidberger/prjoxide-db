@@ -1,0 +1,15 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JCLKIN_DLLDEL_CORE_I0": [
+      (
+        from_wire: "N1W1:JINCK_SIOLOGIC_CORE_IBASE_PIC_A",
+      ),
+      (
+        from_wire: "N1W1:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+  },
+)

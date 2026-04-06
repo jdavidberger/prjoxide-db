@@ -1,0 +1,196 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N9:JRDATAB9_ALUREG_CORE",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N9:JRDATAB10_ALUREG_CORE",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N9:JRDATAB11_ALUREG_CORE",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N9:JRDATAB12_ALUREG_CORE",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N9:JRDATAB13_ALUREG_CORE",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N9:JRDATAB14_ALUREG_CORE",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N9:JRDATAB2_ALUREG_CORE",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N9:JRDATAB1_ALUREG_CORE",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N9:JRDATAB8_ALUREG_CORE",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N9:JRDATAB7_ALUREG_CORE",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N9:JRDATAB6_ALUREG_CORE",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N9:JRDATAB5_ALUREG_CORE",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N9:JRDATAB4_ALUREG_CORE",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N9:JRDATAB3_ALUREG_CORE",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N9:JRDATAB0_ALUREG_CORE",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "G:JD0_I4_0": [
+      (
+        from_wire: "S29W158:JCODE0_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_1": [
+      (
+        from_wire: "S29W158:JCODE1_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_2": [
+      (
+        from_wire: "S29W158:JCODE2_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_3": [
+      (
+        from_wire: "S29W158:JCODE3_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_4": [
+      (
+        from_wire: "S29W158:JCODE4_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_5": [
+      (
+        from_wire: "S29W158:JCODE5_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_6": [
+      (
+        from_wire: "S29W158:JCODE6_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_7": [
+      (
+        from_wire: "S29W158:JCODE7_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD0_I4_8": [
+      (
+        from_wire: "S29W158:JCODE8_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_0": [
+      (
+        from_wire: "S33:JCODE0_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_1": [
+      (
+        from_wire: "S33:JCODE1_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_2": [
+      (
+        from_wire: "S33:JCODE2_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_3": [
+      (
+        from_wire: "S33:JCODE3_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_4": [
+      (
+        from_wire: "S33:JCODE4_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_5": [
+      (
+        from_wire: "S33:JCODE5_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_6": [
+      (
+        from_wire: "S33:JCODE6_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_7": [
+      (
+        from_wire: "S33:JCODE7_DDRDLL_CORE_I1",
+      ),
+    ],
+    "G:JD1_I4_8": [
+      (
+        from_wire: "S33:JCODE8_DDRDLL_CORE_I1",
+      ),
+    ],
+    "JCLKIN_DLLDEL_CORE_I0": [
+      (
+        from_wire: "S3E1:JINCK_SIOLOGIC_CORE_IBASE_PIC_A",
+      ),
+      (
+        from_wire: "S3E1:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+  },
+)

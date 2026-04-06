@@ -1,0 +1,192 @@
+(
+  pips: {
+    "JQ7": [
+      (
+        from_wire: "JSW270CIB_DQSBUFA_CORE_I_DQS_TOP",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JDLLCODE0_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD0_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE1_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD1_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE2_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD2_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE3_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD3_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE4_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD4_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE5_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD5_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE6_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD6_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE7_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD7_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDLLCODE8_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JSELDLLCD8_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JDQSI_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "S1E4:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S1E4:JPADDI_DIFFIO18A_CORE_IOA",
+      ),
+    ],
+    "JECLKIN_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JECLKOUT_I_DQS_TOP_ECLK_ROUTING_MUX",
+      ),
+    ],
+    "JECLKOUT_I_DQS_TOP_ECLK_ROUTING_MUX": [
+      (
+        from_wire: "JECLK0_I_DQS_TOP_ECLK_ROUTING_MUX",
+      ),
+    ],
+    "JPAUSE_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E6:JCIBMUXOUTD7",
+      ),
+    ],
+    "JRDDIR_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "JCIBMUXOUTD7",
+      ),
+    ],
+    "JRDLOADN_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JREAD0_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E3:JCIBMUXOUTD7",
+      ),
+    ],
+    "JREAD1_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E4:JCIBMUXOUTD7",
+      ),
+    ],
+    "JREAD2_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E5:JCIBMUXOUTB4",
+      ),
+    ],
+    "JREAD3_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E5:JCIBMUXOUTD4",
+      ),
+    ],
+    "JREADMOVE_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JRST_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E1:JLSR1",
+      ),
+    ],
+    "JSCLK_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E1:JCLK1",
+      ),
+    ],
+    "JSELCLK_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E5:JCIBMUXOUTD7",
+      ),
+    ],
+    "JSELDLLCD0_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI00_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD1_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI01_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD2_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI02_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD3_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI03_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD4_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI04_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD5_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI05_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD6_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI06_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD7_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI07_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JSELDLLCD8_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI08_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+      ),
+    ],
+    "JWRLVDIR_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JWRLVLOAD_N_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E2:JCIBMUXOUTD7",
+      ),
+    ],
+    "JWRLVMOVE_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E3:JCIBMUXOUTD4",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,43 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "N1E7:JSEDCDSRERRLOCCIB12_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1E7:JSEDCERRCCIB_CONFIG_SEDC_CORE_CONFIG_SEDC",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1E7:JLMMIRDATA8_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1E7:JLMMIRDATA9_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N1E7:JLMMIRDATA10_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1E7:JLMMIRDATA11_CONFIG_CRE_CORE_CONFIG_HSE",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

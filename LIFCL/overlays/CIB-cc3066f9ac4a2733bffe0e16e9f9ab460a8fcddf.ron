@@ -1,0 +1,27 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JECLK0_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_0",
+      ),
+    ],
+    "JECLK1_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_1",
+      ),
+    ],
+    "JECLK2_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_2",
+      ),
+    ],
+    "JECLK3_I0": [
+      (
+        from_wire: "G:JCLKOUT_ECLKDDRR_3",
+      ),
+    ],
+  },
+)

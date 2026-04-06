@@ -1,0 +1,727 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JASFCLKI_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E12:JCLK0",
+      ),
+    ],
+    "JASFRDI_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTC1",
+      ),
+    ],
+    "JASFRESETI_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E12:JLSR0",
+      ),
+    ],
+    "JASFWRI_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCFG_CLK_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "JCFG_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JCIBAUTOREBOOT_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCIBMSPIMADDR0_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCIBMSPIMADDR10_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCIBMSPIMADDR11_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCIBMSPIMADDR12_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCIBMSPIMADDR13_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCIBMSPIMADDR14_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCIBMSPIMADDR15_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCIBMSPIMADDR16_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCIBMSPIMADDR17_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCIBMSPIMADDR18_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCIBMSPIMADDR19_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E10:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCIBMSPIMADDR1_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCIBMSPIMADDR20_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCIBMSPIMADDR21_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCIBMSPIMADDR22_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCIBMSPIMADDR23_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCIBMSPIMADDR24_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E11:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCIBMSPIMADDR25_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCIBMSPIMADDR26_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCIBMSPIMADDR27_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCIBMSPIMADDR28_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCIBMSPIMADDR29_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCIBMSPIMADDR2_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCIBMSPIMADDR30_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCIBMSPIMADDR31_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCIBMSPIMADDR3_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCIBMSPIMADDR4_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCIBMSPIMADDR5_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCIBMSPIMADDR6_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E8:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCIBMSPIMADDR7_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCIBMSPIMADDR8_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCIBMSPIMADDR9_CONFIG_MULTIBOOT_CORE_CONFIG_MULTIBOOT": [
+      (
+        from_wire: "S1E9:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCIBSED1ENABLE_CONFIG_SEDC_CORE_CONFIG_SEDC": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB6",
+      ),
+    ],
+    "JCIBSEDCCOF_CONFIG_SEDC_CORE_CONFIG_SEDC": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTB1",
+      ),
+    ],
+    "JCIBSEDCENABLE_CONFIG_SEDC_CORE_CONFIG_SEDC": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCIBSEDCMODE_CONFIG_SEDC_CORE_CONFIG_SEDC": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTB7",
+      ),
+    ],
+    "JCIBSEDCSTART_CONFIG_SEDC_CORE_CONFIG_SEDC": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCIBTSALL_CONFIG_IP_CORE_CONFIG_IP": [
+      (
+        from_wire: "S1E12:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCIBWDTRELOAD_CONFIG_WDT_CORE_CONFIG_WDT": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCRELRSTN_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E10:JLSR0",
+      ),
+    ],
+    "JCRE_CLK_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "JHSE_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JJTAG_LRST_N_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E17:JLSR0",
+      ),
+    ],
+    "JJTDO1_CONFIG_JTAG_CORE_CONFIG_JTAG": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTA2",
+      ),
+    ],
+    "JJTDO2_CONFIG_JTAG_CORE_CONFIG_JTAG": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMICLK_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCLK0",
+      ),
+    ],
+    "JLMMICLK_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "JLMMI_CLK_O_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JLMMIOFFSET0_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB0",
+      ),
+    ],
+    "JLMMIOFFSET0_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC0",
+      ),
+    ],
+    "JLMMIOFFSET10_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB2",
+      ),
+    ],
+    "JLMMIOFFSET11_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB3",
+      ),
+    ],
+    "JLMMIOFFSET12_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB4",
+      ),
+    ],
+    "JLMMIOFFSET13_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB5",
+      ),
+    ],
+    "JLMMIOFFSET14_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB6",
+      ),
+    ],
+    "JLMMIOFFSET15_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIOFFSET16_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E4:JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIOFFSET17_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIOFFSET1_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB1",
+      ),
+    ],
+    "JLMMIOFFSET1_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC1",
+      ),
+    ],
+    "JLMMIOFFSET2_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB2",
+      ),
+    ],
+    "JLMMIOFFSET2_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC2",
+      ),
+    ],
+    "JLMMIOFFSET3_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB3",
+      ),
+    ],
+    "JLMMIOFFSET3_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC3",
+      ),
+    ],
+    "JLMMIOFFSET4_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB4",
+      ),
+    ],
+    "JLMMIOFFSET4_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC4",
+      ),
+    ],
+    "JLMMIOFFSET5_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB5",
+      ),
+    ],
+    "JLMMIOFFSET5_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC5",
+      ),
+    ],
+    "JLMMIOFFSET6_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB6",
+      ),
+    ],
+    "JLMMIOFFSET6_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC6",
+      ),
+    ],
+    "JLMMIOFFSET7_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIOFFSET7_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E16:JCIBMUXOUTC7",
+      ),
+    ],
+    "JLMMIOFFSET8_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB0",
+      ),
+    ],
+    "JLMMIOFFSET9_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB1",
+      ),
+    ],
+    "JLMMIREQUEST_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA0",
+      ),
+    ],
+    "JLMMIREQUEST_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA1",
+      ),
+    ],
+    "JLMMIRESETN_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E16:JLSR0",
+      ),
+    ],
+    "JLMMIRESETN_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "JLMMI_RST_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JLMMIWDATA0_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA1",
+      ),
+    ],
+    "JLMMIWDATA0_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA10_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMIWDATA11_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA12_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA13_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWDATA14_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA0",
+      ),
+    ],
+    "JLMMIWDATA15_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA1",
+      ),
+    ],
+    "JLMMIWDATA16_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA2",
+      ),
+    ],
+    "JLMMIWDATA17_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMIWDATA18_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA19_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA1_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA2",
+      ),
+    ],
+    "JLMMIWDATA1_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E13:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA20_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA21_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWDATA22_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E7:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMIWDATA23_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E7:JCIBMUXOUTA1",
+      ),
+    ],
+    "JLMMIWDATA24_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E7:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA25_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E7:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA26_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E7:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWDATA27_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA28_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMIWDATA29_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JLMMIWDATA2_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMIWDATA2_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA2",
+      ),
+    ],
+    "JLMMIWDATA30_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA31_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWDATA3_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA3_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMIWDATA4_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA4_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA5_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA5_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA6_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA6_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA7_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA7_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWDATA8_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWDATA9_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTA1",
+      ),
+    ],
+    "JLMMIWRRDN_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWRRDN_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "S1E15:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMI_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E10:JCLK0",
+      ),
+    ],
+    "JLMMI_LRST_N_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E17:JLSR1",
+      ),
+    ],
+    "JMBISTCLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E16:JCLK0",
+      ),
+    ],
+    "JMBISTENABLEN_CONFIG_IP_CORE_CONFIG_IP": [
+      (
+        from_wire: "S1E15:JCIBMUXOUTA4",
+      ),
+    ],
+    "JMBISTTRRAEN_CONFIG_IP_CORE_CONFIG_IP": [
+      (
+        from_wire: "S1E15:JCIBMUXOUTA6",
+      ),
+    ],
+    "JOSCCLKSEDC_CONFIG_SEDC_CORE_CONFIG_SEDC": [
+      (
+        from_wire: "JCFG_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JOSCCLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E19:JHFCLKCFG_OSC_CORE",
+      ),
+    ],
+    "JOTM_CONFIG_CRE_CORE_CONFIG_HSE": [
+      (
+        from_wire: "S1E14:JCIBMUXOUTA0",
+      ),
+    ],
+    "JRSTSEDC_CONFIG_SEDC_CORE_CONFIG_SEDC": [
+      (
+        from_wire: "JSEDC_RST_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JRSTSMCLK_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "JSMCLK_RST_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JSEDC_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E19:JHFSDCOUT_OSC_CORE",
+      ),
+    ],
+    "JSEDC_LRST_N_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E19:JLSR0",
+      ),
+    ],
+    "JSMCLK_CONFIG_JTAG_CORE_CONFIG_JTAG": [
+      (
+        from_wire: "JCFG_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JSMCLK_CONFIG_LMMI_CORE_LMMI_MODEL": [
+      (
+        from_wire: "JCFG_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JTCK_CONFIG_JTAG_CORE_CONFIG_JTAG": [
+      (
+        from_wire: "S9E23:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JTDI_CONFIG_JTAG_CORE_CONFIG_JTAG": [
+      (
+        from_wire: "S5E23:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JTMS_CONFIG_JTAG_CORE_CONFIG_JTAG": [
+      (
+        from_wire: "S3E23:JPADDI_SEIO33_CORE_IOB",
+      ),
+    ],
+    "JWDT_CLK_CONFIG_WDT_CORE_CONFIG_WDT": [
+      (
+        from_wire: "JWDT_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+    "JWDT_LRST_N_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1E19:JLSR1",
+      ),
+    ],
+    "JWDT_RST_CONFIG_WDT_CORE_CONFIG_WDT": [
+      (
+        from_wire: "JWDT_RST_CONFIG_CLKRST_CORE_CONFIG_CLKRST",
+      ),
+    ],
+  },
+)

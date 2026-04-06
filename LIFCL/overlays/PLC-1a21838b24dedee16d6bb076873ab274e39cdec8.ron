@@ -1,0 +1,12 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "HFOE0000": [
+      (
+        from_wire: "JFCOUT",
+      ),
+    ],
+  },
+)

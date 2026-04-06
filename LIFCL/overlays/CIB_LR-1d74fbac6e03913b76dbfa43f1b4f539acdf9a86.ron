@@ -1,0 +1,22 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JCEA_LRAM_CORE": [
+      (
+        from_wire: "S5:JCE1",
+      ),
+    ],
+    "JCEB_LRAM_CORE": [
+      (
+        from_wire: "S5:JCE0",
+      ),
+    ],
+    "JCLK_LRAM_CORE": [
+      (
+        from_wire: "S5:JCLK1",
+      ),
+    ],
+  },
+)

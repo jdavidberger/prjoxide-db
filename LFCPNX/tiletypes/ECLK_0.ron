@@ -1,0 +1,123 @@
+(
+  pips: {
+    "G:JECLKOUT2_ECLKCASMUX_CORE_ECLKCASMUX4": [
+      (
+        from_wire: "N1E1:JECLKCAS0M2_ECLKCASMUX_CORE_ECLKCASMUX4",
+        bits: [(frame:81,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N1E1:JECLKCAS1M2_ECLKCASMUX_CORE_ECLKCASMUX4",
+        bits: [(frame:80,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N1E1:JECLKSYNCM2_ECLKCASMUX_CORE_ECLKCASMUX4",
+        bits: [(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
+      ),
+    ],
+    "G:JECLKOUT2_ECLKCASMUX_CORE_ECLKCASMUX5": [
+      (
+        from_wire: "N1:JECLKCAS1M2_ECLKCASMUX_CORE_ECLKCASMUX5",
+        bits: [(frame:93,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N1:JECLKSYNCM2_ECLKCASMUX_CORE_ECLKCASMUX5",
+        bits: [(frame:93,bit:0,invert:false,),],
+      ),
+    ],
+    "G:JMUXIN2_ECLKBANK_CORE_ECLKBANK5": [
+      (
+        from_wire: "G:JLLCLKOS2_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:88,bit:0,invert:false,),(frame:89,bit:0,invert:false,),(frame:92,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLLCLKOS5_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:88,bit:0,invert:false,),(frame:89,bit:0,invert:false,),(frame:91,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLLCLKOS_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:88,bit:0,invert:false,),(frame:89,bit:0,invert:false,),(frame:91,bit:0,invert:false,),(frame:92,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLRCLKOP_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:88,bit:0,invert:false,),(frame:89,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLRCLKOS3_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:89,bit:0,invert:false,),(frame:91,bit:0,invert:false,),(frame:92,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLRCLKOS4_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:89,bit:0,invert:false,),(frame:92,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT0_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:89,bit:0,invert:false,),(frame:91,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT1_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:89,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT2_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:88,bit:0,invert:false,),(frame:91,bit:0,invert:false,),(frame:92,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT3_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:88,bit:0,invert:false,),(frame:92,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N1:JECLKCIB2_ECLKBANK_CORE_ECLKBANK5",
+        bits: [(frame:88,bit:0,invert:false,),(frame:91,bit:0,invert:false,),],
+      ),
+    ],
+    "G:JMUXIN3_ECLKBANK_CORE_ECLKBANK4": [
+      (
+        from_wire: "G:JLLCLKOS2_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:82,bit:0,invert:false,),(frame:83,bit:0,invert:false,),(frame:84,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLLCLKOS3_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:82,bit:0,invert:false,),(frame:83,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLLCLKOS4_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:82,bit:0,invert:false,),(frame:83,bit:0,invert:false,),(frame:84,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLRCLKOP_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:82,bit:0,invert:false,),(frame:83,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLRCLKOS5_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:83,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JLRCLKOS_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:83,bit:0,invert:false,),(frame:84,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT0_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:83,bit:0,invert:false,),(frame:84,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT1_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:83,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT2_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:82,bit:0,invert:false,),(frame:84,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "G:JPCLKT3_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:82,bit:0,invert:false,),(frame:86,bit:0,invert:false,),],
+      ),
+      (
+        from_wire: "N1E1:JECLKCIB3_ECLKBANK_CORE_ECLKBANK4",
+        bits: [(frame:82,bit:0,invert:false,),(frame:84,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

@@ -1,0 +1,19 @@
+(
+  pips: {
+    "JQ6": [
+      (
+        from_wire: "W8:JDQSWCIB_DQSBUF_CORE_I_DQS_TOP",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "W8:JREADCOUT_DQSBUF_CORE_I_DQS_TOP",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

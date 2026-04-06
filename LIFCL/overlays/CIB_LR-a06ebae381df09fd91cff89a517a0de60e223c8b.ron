@@ -1,0 +1,394 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "JDA0_ADC_CORE_ADC0",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "JDA1_ADC_CORE_ADC0",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JDA2_ADC_CORE_ADC0",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JDA3_ADC_CORE_ADC0",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "JDA4_ADC_CORE_ADC0",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "JDA5_ADC_CORE_ADC0",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JDA6_ADC_CORE_ADC0",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JCALRDY_ADC_CORE_ADC0",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "JCOMP1OL_ADC_CORE_ADC0",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "JCOMP2OL_ADC_CORE_ADC0",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "JCOMP3OL_ADC_CORE_ADC0",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "JDB3_ADC_CORE_ADC0",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "JDB4_ADC_CORE_ADC0",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "JDB5_ADC_CORE_ADC0",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "JDB6_ADC_CORE_ADC0",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "JCOG_ADC_CORE_ADC0",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JADCEN_ADC_CORE_ADC0": [
+      (
+        from_wire: "JCIBMUXOUTA0",
+      ),
+    ],
+    "JCAL_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JCHAEN_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JCHASEL0_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JCHASEL1_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JCHASEL2_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JCHASEL3_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JCHBEN_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JCHBSEL0_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JCHBSEL1_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JCHBSEL2_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JCHBSEL3_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JCLKDCLK_ADC_CORE_ADC0": [
+      (
+        from_wire: "S3:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JCLKFAB_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCLK0",
+      ),
+    ],
+    "JCOMP1IN_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W58:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JCOMP1IP_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W58:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JCOMP2IN_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W56:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JCOMP2IP_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W56:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JCOMP3IN_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W48:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JCOMP3IP_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W48:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JCONVSTOP_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JDN0_ADC_CORE_ADC0": [
+      (
+        from_wire: "JPAD_APIO_DN0",
+      ),
+    ],
+    "JDN1_ADC_CORE_ADC0": [
+      (
+        from_wire: "JPAD_APIO_DN1",
+      ),
+    ],
+    "JDP0_ADC_CORE_ADC0": [
+      (
+        from_wire: "JPAD_APIO_DP0",
+      ),
+    ],
+    "JDP1_ADC_CORE_ADC0": [
+      (
+        from_wire: "JPAD_APIO_DP1",
+      ),
+    ],
+    "JGPION0_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W58:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION13_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W8:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION14_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W6:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION1_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W56:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION2_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W48:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION3_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W54:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION4_ADC_CORE_ADC0": [
+      (
+        from_wire: "JPAD_APIO_GPION4",
+      ),
+    ],
+    "JGPION5_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W18:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION6_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W14:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION7_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W16:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION8_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W10:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPION9_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W12:JINADC_SEIO18_CORE_IOB",
+      ),
+    ],
+    "JGPIOP0_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W58:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP13_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W8:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP14_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W6:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP1_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W56:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP2_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W48:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP3_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W54:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP5_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W18:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP6_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W14:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP7_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W16:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP8_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W10:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JGPIOP9_ADC_CORE_ADC0": [
+      (
+        from_wire: "S4W12:JINADC_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JPAD_APIO_DN0": [
+      (
+        from_wire: "JDN0_ADC_CORE_ADC0",
+      ),
+    ],
+    "JPAD_APIO_DN1": [
+      (
+        from_wire: "JDN1_ADC_CORE_ADC0",
+      ),
+    ],
+    "JPAD_APIO_DP0": [
+      (
+        from_wire: "JDP0_ADC_CORE_ADC0",
+      ),
+    ],
+    "JPAD_APIO_DP1": [
+      (
+        from_wire: "JDP1_ADC_CORE_ADC0",
+      ),
+    ],
+    "JPAD_APIO_GPION4": [
+      (
+        from_wire: "JGPION4_ADC_CORE_ADC0",
+      ),
+    ],
+    "JRESETN_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JRSTN_ADC_CORE_ADC0": [
+      (
+        from_wire: "JCE0",
+      ),
+    ],
+    "JRSVDH_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JRSVDL_ADC_CORE_ADC0": [
+      (
+        from_wire: "S1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JSOC_ADC_CORE_ADC0": [
+      (
+        from_wire: "JCIBMUXOUTA5",
+      ),
+    ],
+  },
+)

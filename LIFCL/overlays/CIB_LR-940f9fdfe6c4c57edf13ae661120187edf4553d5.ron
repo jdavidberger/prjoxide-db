@@ -1,0 +1,59 @@
+(
+  pips: {
+    "JF6": [
+      (
+        from_wire: "E1:JRXDATA1_SIOLOGIC_CORE_IBASE_PIC_B",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "E1:JRXDATA0_SIOLOGIC_CORE_IBASE_PIC_B",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "E1:JINFF_SIOLOGIC_CORE_IBASE_PIC_A",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "E1:JRXDATA1_SIOLOGIC_CORE_IBASE_PIC_A",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "E1:JINDD_SIOLOGIC_CORE_IBASE_PIC_A",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "E1:JRXDATA0_SIOLOGIC_CORE_IBASE_PIC_A",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "E1:JINDD_SIOLOGIC_CORE_IBASE_PIC_B",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "E1:JPADDI_SEIO33_CORE_IOB",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "E1:JINFF_SIOLOGIC_CORE_IBASE_PIC_B",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

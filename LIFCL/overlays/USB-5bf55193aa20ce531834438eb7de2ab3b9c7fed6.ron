@@ -1,0 +1,1217 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JDISRXDETU3RXDET_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JDM_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_DM",
+      ),
+    ],
+    "JDP_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_DP",
+      ),
+    ],
+    "JID_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_ID",
+      ),
+    ],
+    "JLMMICLK_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCLK0",
+      ),
+    ],
+    "JLMMIOFFSET10_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC6",
+      ),
+    ],
+    "JLMMIOFFSET11_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC5",
+      ),
+    ],
+    "JLMMIOFFSET12_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC4",
+      ),
+    ],
+    "JLMMIOFFSET13_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC3",
+      ),
+    ],
+    "JLMMIOFFSET14_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC2",
+      ),
+    ],
+    "JLMMIOFFSET15_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC1",
+      ),
+    ],
+    "JLMMIOFFSET16_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC0",
+      ),
+    ],
+    "JLMMIOFFSET2_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD6",
+      ),
+    ],
+    "JLMMIOFFSET3_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD5",
+      ),
+    ],
+    "JLMMIOFFSET4_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD4",
+      ),
+    ],
+    "JLMMIOFFSET5_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD3",
+      ),
+    ],
+    "JLMMIOFFSET6_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD2",
+      ),
+    ],
+    "JLMMIOFFSET7_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD1",
+      ),
+    ],
+    "JLMMIOFFSET8_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTD0",
+      ),
+    ],
+    "JLMMIOFFSET9_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCIBMUXOUTC7",
+      ),
+    ],
+    "JLMMIREQUEST_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIRESETN_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JLSR1",
+      ),
+    ],
+    "JLMMIWDATA0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD7",
+      ),
+    ],
+    "JLMMIWDATA10_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC5",
+      ),
+    ],
+    "JLMMIWDATA11_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC4",
+      ),
+    ],
+    "JLMMIWDATA12_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC3",
+      ),
+    ],
+    "JLMMIWDATA13_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC2",
+      ),
+    ],
+    "JLMMIWDATA14_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC1",
+      ),
+    ],
+    "JLMMIWDATA15_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC0",
+      ),
+    ],
+    "JLMMIWDATA16_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIWDATA17_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB6",
+      ),
+    ],
+    "JLMMIWDATA18_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB5",
+      ),
+    ],
+    "JLMMIWDATA19_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB4",
+      ),
+    ],
+    "JLMMIWDATA1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD6",
+      ),
+    ],
+    "JLMMIWDATA20_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB3",
+      ),
+    ],
+    "JLMMIWDATA21_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB2",
+      ),
+    ],
+    "JLMMIWDATA22_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB1",
+      ),
+    ],
+    "JLMMIWDATA23_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTB0",
+      ),
+    ],
+    "JLMMIWDATA24_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWDATA25_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA26_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA27_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA28_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA3",
+      ),
+    ],
+    "JLMMIWDATA29_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA2",
+      ),
+    ],
+    "JLMMIWDATA2_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD5",
+      ),
+    ],
+    "JLMMIWDATA30_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA1",
+      ),
+    ],
+    "JLMMIWDATA31_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTA0",
+      ),
+    ],
+    "JLMMIWDATA3_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD4",
+      ),
+    ],
+    "JLMMIWDATA4_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD3",
+      ),
+    ],
+    "JLMMIWDATA5_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD2",
+      ),
+    ],
+    "JLMMIWDATA6_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD1",
+      ),
+    ],
+    "JLMMIWDATA7_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTD0",
+      ),
+    ],
+    "JLMMIWDATA8_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC7",
+      ),
+    ],
+    "JLMMIWDATA9_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E3:JCIBMUXOUTC6",
+      ),
+    ],
+    "JLMMIWRRD_N_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JPAD_APIO_DM": [
+      (
+        from_wire: "JDM_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_DP": [
+      (
+        from_wire: "JDP_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_ID": [
+      (
+        from_wire: "JID_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_REFIN_CLK_EXT_M": [
+      (
+        from_wire: "JREFINCLKEXTM_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_REFIN_CLK_EXT_P": [
+      (
+        from_wire: "JREFINCLKEXTP_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_RES_EXT_USB2": [
+      (
+        from_wire: "JRESEXTUSB2_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_RES_EXT_USB3": [
+      (
+        from_wire: "JRESEXTUSB3_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_RX_M": [
+      (
+        from_wire: "JRXM_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_RX_P": [
+      (
+        from_wire: "JRXP_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_TX_M": [
+      (
+        from_wire: "JTXM_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_TX_P": [
+      (
+        from_wire: "JTXP_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_VBUS": [
+      (
+        from_wire: "JVBUS_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_XO_IN_18": [
+      (
+        from_wire: "JXOIN18_USB23_CORE_USB230",
+      ),
+    ],
+    "JPAD_APIO_XO_OUT_18": [
+      (
+        from_wire: "JXOOUT18_USB23_CORE_USB230",
+      ),
+    ],
+    "JREFINCLKEXTM_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_REFIN_CLK_EXT_M",
+      ),
+    ],
+    "JREFINCLKEXTP_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_REFIN_CLK_EXT_P",
+      ),
+    ],
+    "JRESEXTUSB2_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_RES_EXT_USB2",
+      ),
+    ],
+    "JRESEXTUSB3_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_RES_EXT_USB3",
+      ),
+    ],
+    "JRXM_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_RX_M",
+      ),
+    ],
+    "JRXP_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_RX_P",
+      ),
+    ],
+    "JSCANEN_CGUSB3PHY_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTD6",
+      ),
+    ],
+    "JSCANEN_CTRL_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JSCANEN_USB2PHY_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JSCANEN_USB3PHY_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTD5",
+      ),
+    ],
+    "JSS_RX_ACJT_EN_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JSS_RX_ACJT_ININ_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JSS_RX_ACJT_INIP_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JSS_RX_ACJT_INIT_EN_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JSS_RX_ACJT_MODE_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JSS_TX_ACJT_DATAIN_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JSS_TX_ACJT_DRVEN_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC7",
+      ),
+    ],
+    "JSS_TX_ACJT_HIGHZ_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JSTARTRXDETU3RXDET_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JTXM_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_TX_M",
+      ),
+    ],
+    "JTXP_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_TX_P",
+      ),
+    ],
+    "JUSB2_RESET_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JLSR0",
+      ),
+    ],
+    "JUSB3_MCUCLK_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCLK1",
+      ),
+    ],
+    "JUSB3_SYSRSTN_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JLSR1",
+      ),
+    ],
+    "JUSBPHY_REFCLK_ALT_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E5:JCLK0",
+      ),
+    ],
+    "JUSB_RESETN_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JLSR0",
+      ),
+    ],
+    "JUSB_SUSPENDCLK_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCLK0",
+      ),
+    ],
+    "JVBUS_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_VBUS",
+      ),
+    ],
+    "JXMARREADY_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JXMAWREADY_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JXMBID0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA7",
+      ),
+    ],
+    "JXMBID1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA6",
+      ),
+    ],
+    "JXMBID2_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA5",
+      ),
+    ],
+    "JXMBID3_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA4",
+      ),
+    ],
+    "JXMBID4_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA3",
+      ),
+    ],
+    "JXMBID5_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA2",
+      ),
+    ],
+    "JXMBID6_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA1",
+      ),
+    ],
+    "JXMBID7_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTA0",
+      ),
+    ],
+    "JXMBMISC_INFO0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC3",
+      ),
+    ],
+    "JXMBMISC_INFO1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC2",
+      ),
+    ],
+    "JXMBMISC_INFO2_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC1",
+      ),
+    ],
+    "JXMBMISC_INFO3_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC0",
+      ),
+    ],
+    "JXMBRESP0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTD1",
+      ),
+    ],
+    "JXMBRESP1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTD0",
+      ),
+    ],
+    "JXMBVALID_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JXMCSYSREQ_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JXMRDATA0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD7",
+      ),
+    ],
+    "JXMRDATA10_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC5",
+      ),
+    ],
+    "JXMRDATA11_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC4",
+      ),
+    ],
+    "JXMRDATA12_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC3",
+      ),
+    ],
+    "JXMRDATA13_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC2",
+      ),
+    ],
+    "JXMRDATA14_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC1",
+      ),
+    ],
+    "JXMRDATA15_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC0",
+      ),
+    ],
+    "JXMRDATA16_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB7",
+      ),
+    ],
+    "JXMRDATA17_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB6",
+      ),
+    ],
+    "JXMRDATA18_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB5",
+      ),
+    ],
+    "JXMRDATA19_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB4",
+      ),
+    ],
+    "JXMRDATA1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD6",
+      ),
+    ],
+    "JXMRDATA20_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB3",
+      ),
+    ],
+    "JXMRDATA21_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB2",
+      ),
+    ],
+    "JXMRDATA22_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB1",
+      ),
+    ],
+    "JXMRDATA23_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB0",
+      ),
+    ],
+    "JXMRDATA24_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA7",
+      ),
+    ],
+    "JXMRDATA25_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA6",
+      ),
+    ],
+    "JXMRDATA26_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA5",
+      ),
+    ],
+    "JXMRDATA27_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA4",
+      ),
+    ],
+    "JXMRDATA28_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA3",
+      ),
+    ],
+    "JXMRDATA29_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA2",
+      ),
+    ],
+    "JXMRDATA2_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD5",
+      ),
+    ],
+    "JXMRDATA30_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA1",
+      ),
+    ],
+    "JXMRDATA31_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA0",
+      ),
+    ],
+    "JXMRDATA32_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JXMRDATA33_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD6",
+      ),
+    ],
+    "JXMRDATA34_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD5",
+      ),
+    ],
+    "JXMRDATA35_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JXMRDATA36_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JXMRDATA37_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JXMRDATA38_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JXMRDATA39_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JXMRDATA3_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD4",
+      ),
+    ],
+    "JXMRDATA40_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC7",
+      ),
+    ],
+    "JXMRDATA41_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JXMRDATA42_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JXMRDATA43_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JXMRDATA44_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JXMRDATA45_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JXMRDATA46_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JXMRDATA47_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JXMRDATA48_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JXMRDATA49_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB6",
+      ),
+    ],
+    "JXMRDATA4_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD3",
+      ),
+    ],
+    "JXMRDATA50_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JXMRDATA51_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JXMRDATA52_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JXMRDATA53_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JXMRDATA54_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JXMRDATA55_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JXMRDATA56_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JXMRDATA57_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JXMRDATA58_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JXMRDATA59_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JXMRDATA5_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD2",
+      ),
+    ],
+    "JXMRDATA60_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JXMRDATA61_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JXMRDATA62_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JXMRDATA63_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JXMRDATA6_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD1",
+      ),
+    ],
+    "JXMRDATA7_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTD0",
+      ),
+    ],
+    "JXMRDATA8_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC7",
+      ),
+    ],
+    "JXMRDATA9_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTC6",
+      ),
+    ],
+    "JXMRID0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB7",
+      ),
+    ],
+    "JXMRID1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB6",
+      ),
+    ],
+    "JXMRID2_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB5",
+      ),
+    ],
+    "JXMRID3_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB4",
+      ),
+    ],
+    "JXMRID4_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB3",
+      ),
+    ],
+    "JXMRID5_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB2",
+      ),
+    ],
+    "JXMRID6_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB1",
+      ),
+    ],
+    "JXMRID7_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTB0",
+      ),
+    ],
+    "JXMRLAST_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB6",
+      ),
+    ],
+    "JXMRMISC_INFO0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC7",
+      ),
+    ],
+    "JXMRMISC_INFO1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC6",
+      ),
+    ],
+    "JXMRMISC_INFO2_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC5",
+      ),
+    ],
+    "JXMRMISC_INFO3_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTC4",
+      ),
+    ],
+    "JXMRRESP0_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTD3",
+      ),
+    ],
+    "JXMRRESP1_USB23_CORE_USB230": [
+      (
+        from_wire: "S1E6:JCIBMUXOUTD2",
+      ),
+    ],
+    "JXMRVALID_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JXMWREADY_USB23_CORE_USB230": [
+      (
+        from_wire: "S1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JXOIN18_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_XO_IN_18",
+      ),
+    ],
+    "JXOOUT18_USB23_CORE_USB230": [
+      (
+        from_wire: "JPAD_APIO_XO_OUT_18",
+      ),
+    ],
+    "N1:V06S0003": [
+      (
+        from_wire: "S2:V06N0003",
+      ),
+    ],
+    "N1:V06S0103": [
+      (
+        from_wire: "S2:V06N0103",
+      ),
+    ],
+    "N1:V06S0203": [
+      (
+        from_wire: "S2:V06N0203",
+      ),
+    ],
+    "N1:V06S0303": [
+      (
+        from_wire: "S2:V06N0303",
+      ),
+    ],
+    "N2:V06S0003": [
+      (
+        from_wire: "S3:V06N0003",
+      ),
+    ],
+    "N2:V06S0103": [
+      (
+        from_wire: "S3:V06N0103",
+      ),
+    ],
+    "N2:V06S0203": [
+      (
+        from_wire: "S3:V06N0203",
+      ),
+    ],
+    "N2:V06S0303": [
+      (
+        from_wire: "S3:V06N0303",
+      ),
+    ],
+    "S1:V02S0001": [
+      (
+        from_wire: "S1:V02N0000",
+      ),
+    ],
+    "S1:V02S0101": [
+      (
+        from_wire: "S1:V02N0100",
+      ),
+    ],
+    "S1:V02S0201": [
+      (
+        from_wire: "S1:V02N0200",
+      ),
+    ],
+    "S1:V02S0301": [
+      (
+        from_wire: "S1:V02N0300",
+      ),
+    ],
+    "S1:V02S0401": [
+      (
+        from_wire: "S1:V02N0400",
+      ),
+    ],
+    "S1:V02S0501": [
+      (
+        from_wire: "S1:V02N0500",
+      ),
+    ],
+    "S1:V02S0601": [
+      (
+        from_wire: "S1:V02N0600",
+      ),
+    ],
+    "S1:V02S0701": [
+      (
+        from_wire: "S1:V02N0700",
+      ),
+    ],
+    "S1:V06S0003": [
+      (
+        from_wire: "V06N0003",
+      ),
+    ],
+    "S1:V06S0103": [
+      (
+        from_wire: "V06N0103",
+      ),
+    ],
+    "S1:V06S0203": [
+      (
+        from_wire: "V06N0203",
+      ),
+    ],
+    "S1:V06S0303": [
+      (
+        from_wire: "V06N0303",
+      ),
+    ],
+    "S2:V06S0003": [
+      (
+        from_wire: "N1:V06N0003",
+      ),
+    ],
+    "S2:V06S0103": [
+      (
+        from_wire: "N1:V06N0103",
+      ),
+    ],
+    "S2:V06S0203": [
+      (
+        from_wire: "N1:V06N0203",
+      ),
+    ],
+    "S2:V06S0303": [
+      (
+        from_wire: "N1:V06N0303",
+      ),
+    ],
+    "S3:V06S0003": [
+      (
+        from_wire: "N2:V06N0003",
+      ),
+    ],
+    "S3:V06S0103": [
+      (
+        from_wire: "N2:V06N0103",
+      ),
+    ],
+    "S3:V06S0203": [
+      (
+        from_wire: "N2:V06N0203",
+      ),
+    ],
+    "S3:V06S0303": [
+      (
+        from_wire: "N2:V06N0303",
+      ),
+    ],
+    "V01S0000": [
+      (
+        from_wire: "S1:V01S0100",
+      ),
+    ],
+    "V01S0100": [
+      (
+        from_wire: "S1:V01S0000",
+      ),
+    ],
+    "V01S0200": [
+      (
+        from_wire: "S1:V01S0300",
+      ),
+    ],
+    "V01S0300": [
+      (
+        from_wire: "S1:V01S0200",
+      ),
+    ],
+    "V02S0001": [
+      (
+        from_wire: "S1:V02N0001",
+      ),
+    ],
+    "V02S0101": [
+      (
+        from_wire: "S1:V02N0101",
+      ),
+    ],
+    "V02S0201": [
+      (
+        from_wire: "S1:V02N0201",
+      ),
+    ],
+    "V02S0301": [
+      (
+        from_wire: "S1:V02N0301",
+      ),
+    ],
+    "V02S0401": [
+      (
+        from_wire: "S1:V02N0401",
+      ),
+    ],
+    "V02S0501": [
+      (
+        from_wire: "S1:V02N0501",
+      ),
+    ],
+    "V02S0601": [
+      (
+        from_wire: "S1:V02N0601",
+      ),
+    ],
+    "V02S0701": [
+      (
+        from_wire: "S1:V02N0701",
+      ),
+    ],
+    "V06S0003": [
+      (
+        from_wire: "S1:V06N0003",
+      ),
+    ],
+    "V06S0103": [
+      (
+        from_wire: "S1:V06N0103",
+      ),
+    ],
+    "V06S0203": [
+      (
+        from_wire: "S1:V06N0203",
+      ),
+    ],
+    "V06S0303": [
+      (
+        from_wire: "S1:V06N0303",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,77 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JCIBICODE0_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB0",
+      ),
+    ],
+    "JCIBICODE1_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB1",
+      ),
+    ],
+    "JCIBICODE2_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB2",
+      ),
+    ],
+    "JCIBICODE3_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB3",
+      ),
+    ],
+    "JCIBICODE4_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JCIBICODE5_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+    "JCIBSNK0_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA0",
+      ),
+    ],
+    "JCIBSNK1_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA1",
+      ),
+    ],
+    "JCIBSNK2_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA2",
+      ),
+    ],
+    "JCIBSNK3_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA3",
+      ),
+    ],
+    "JCIBSNK4_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA4",
+      ),
+    ],
+    "JCIBSNK5_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA5",
+      ),
+    ],
+    "JCIBSNK6_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA6",
+      ),
+    ],
+    "JCIBTRIG_PVTCAL18_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+  },
+)

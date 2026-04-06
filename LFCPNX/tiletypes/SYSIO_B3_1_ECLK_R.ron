@@ -1,0 +1,31 @@
+(
+  pips: {
+    "G:JCLKOUT_ECLKDDRR_0": [
+      (
+        from_wire: "N1W71:JECLKTREE1_ECLKDDRR_0",
+        bits: [(frame:101,bit:1,invert:false,),],
+      ),
+    ],
+    "G:JCLKOUT_ECLKDDRR_1": [
+      (
+        from_wire: "N1W71:JECLKTREE1_ECLKDDRR_1",
+        bits: [(frame:102,bit:1,invert:false,),],
+      ),
+    ],
+    "G:JCLKOUT_ECLKDDRR_2": [
+      (
+        from_wire: "N1W71:JECLKTREE1_ECLKDDRR_2",
+        bits: [(frame:103,bit:1,invert:false,),],
+      ),
+    ],
+    "G:JCLKOUT_ECLKDDRR_3": [
+      (
+        from_wire: "N1W71:JECLKTREE1_ECLKDDRR_3",
+        bits: [(frame:104,bit:1,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

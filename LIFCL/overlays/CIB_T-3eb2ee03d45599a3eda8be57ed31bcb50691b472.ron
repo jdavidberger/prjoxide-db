@@ -1,0 +1,31 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W14:JACJNOUT_PCIE_CORE_PCIE0",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W14:JACJPOUT_PCIE_CORE_PCIE0",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W14:JVRXSEL0_PCIE_CORE_PCIE0",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W14:JVRXSEL1_PCIE_CORE_PCIE0",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

@@ -1,0 +1,103 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "W1:JREFMUXCK_PLL_CORE_PLL_LMMI",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "W1:JLOCK_PLL_CORE_PLL_LMMI",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "W1:JINTLOCK_PLL_CORE_PLL_LMMI",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "W1:JPFDUP_PLL_CORE_PLL_LMMI",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "W1:JPFDDN_PLL_CORE_PLL_LMMI",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "W1:JLMMIRDATA0_PLL_CORE_PLL_LMMI",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "W1:JLMMIRDATA1_PLL_CORE_PLL_LMMI",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "W1:JLMMIRDATA2_PLL_CORE_PLL_LMMI",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "W1:JCLKOP_PLL_CORE_PLL_LMMI",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "W1:JCLKOS_PLL_CORE_PLL_LMMI",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "W1:JCLKOS2_PLL_CORE_PLL_LMMI",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "W1:JCLKOS3_PLL_CORE_PLL_LMMI",
+        bits: [(frame:47,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "W1:JCLKOS4_PLL_CORE_PLL_LMMI",
+        bits: [(frame:64,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "W1:JCLKOS5_PLL_CORE_PLL_LMMI",
+        bits: [(frame:73,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "W1:JLMMIRDATA3_PLL_CORE_PLL_LMMI",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "W1:JLMMIREADY_PLL_CORE_PLL_LMMI",
+        bits: [(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

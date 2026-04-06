@@ -1,0 +1,17 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JIVREF_IN_DIFFIO18A_CORE_IOA": [
+      (
+        from_wire: "BANK:JIVREFO_IVREF_CORE",
+      ),
+    ],
+    "JIVREF_IN_SEIO18A_CORE_IOB": [
+      (
+        from_wire: "BANK:JIVREFO_IVREF_CORE",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,19 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W39:JMGMT_INTERRUPT_O0_PCIELL_CORE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W39:JMGMT_INTERRUPT_O1_PCIELL_CORE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

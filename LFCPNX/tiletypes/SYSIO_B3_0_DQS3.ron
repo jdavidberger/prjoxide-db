@@ -1,0 +1,21 @@
+(
+  pips: {
+    "N1W6:JECLKOUT_I_DQS_TOP_ECLK_ROUTING_MUX": [
+      (
+        from_wire: "N1W6:JECLK1_I_DQS_TOP_ECLK_ROUTING_MUX",
+        bits: [(frame:52,bit:1,invert:false,),],
+      ),
+      (
+        from_wire: "N1W6:JECLK2_I_DQS_TOP_ECLK_ROUTING_MUX",
+        bits: [(frame:51,bit:1,invert:false,),],
+      ),
+      (
+        from_wire: "N1W6:JECLK3_I_DQS_TOP_ECLK_ROUTING_MUX",
+        bits: [(frame:51,bit:1,invert:false,),(frame:52,bit:1,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

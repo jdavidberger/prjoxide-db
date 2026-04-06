@@ -1,0 +1,43 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "N1:JLMMIRDATA0_DPHY_CORE_DPHY0",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1:JLMMIRDATA1_DPHY_CORE_DPHY0",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1:JLMMIRDATA2_DPHY_CORE_DPHY0",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1:JLMMIRDATA3_DPHY_CORE_DPHY0",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1:JLMMIRDATAVALID_DPHY_CORE_DPHY0",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1:JLMMIREADY_DPHY_CORE_DPHY0",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

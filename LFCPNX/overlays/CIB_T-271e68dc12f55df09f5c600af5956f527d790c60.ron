@@ -1,0 +1,43 @@
+(
+  pips: {
+    "JF2": [
+      (
+        from_wire: "N1E1:JJUPDATE_CONFIG_JTAG_CORE_CONFIG_JTAG",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "W3:JINSLEEP_I2CFIFO_CORE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1E1:JLASTADDRCIB0_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1E1:JLASTADDRCIB1_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N1E1:JLASTADDRCIB2_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1E1:JLASTADDRCIB3_CONFIG_IP_CORE_CONFIG_IP",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

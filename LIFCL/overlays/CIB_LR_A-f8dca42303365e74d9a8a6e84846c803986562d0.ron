@@ -1,0 +1,175 @@
+(
+  pips: {
+    "E1:H01W0101": [
+      (
+        from_wire: "E3:H06W0103",
+        bits: [(frame:21,bit:9,invert:false,),(frame:23,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF0",
+        bits: [(frame:14,bit:10,invert:false,),(frame:20,bit:9,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF1",
+        bits: [(frame:18,bit:9,invert:false,),(frame:20,bit:10,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF2",
+        bits: [(frame:19,bit:9,invert:false,),(frame:23,bit:8,invert:false,),(frame:40,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF3",
+        bits: [(frame:20,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:46,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF5",
+        bits: [(frame:19,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:72,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF6",
+        bits: [(frame:19,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:92,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF7",
+        bits: [(frame:21,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:98,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ1",
+        bits: [(frame:20,bit:9,invert:false,),(frame:21,bit:10,invert:false,),(frame:23,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JQ2",
+        bits: [(frame:18,bit:9,invert:false,),(frame:23,bit:8,invert:false,),(frame:38,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ3",
+        bits: [(frame:19,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:47,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ4",
+        bits: [(frame:20,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:64,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ5",
+        bits: [(frame:20,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:73,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ7",
+        bits: [(frame:21,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:99,bit:10,invert:false,),],
+      ),
+    ],
+    "H01W0100": [
+      (
+        from_wire: "E3:H06W0103",
+        bits: [(frame:21,bit:9,invert:false,),(frame:23,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF0",
+        bits: [(frame:14,bit:10,invert:false,),(frame:20,bit:9,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF1",
+        bits: [(frame:18,bit:9,invert:false,),(frame:20,bit:10,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JF2",
+        bits: [(frame:19,bit:9,invert:false,),(frame:23,bit:8,invert:false,),(frame:40,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF3",
+        bits: [(frame:20,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:46,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF4",
+        bits: [(frame:18,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:66,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF5",
+        bits: [(frame:19,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:72,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JF7",
+        bits: [(frame:21,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:98,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ0",
+        bits: [(frame:12,bit:10,invert:false,),(frame:19,bit:9,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JQ1",
+        bits: [(frame:20,bit:9,invert:false,),(frame:21,bit:10,invert:false,),(frame:23,bit:8,invert:false,),],
+      ),
+      (
+        from_wire: "JQ2",
+        bits: [(frame:18,bit:9,invert:false,),(frame:23,bit:8,invert:false,),(frame:38,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ3",
+        bits: [(frame:19,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:47,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ4",
+        bits: [(frame:20,bit:9,invert:false,),(frame:23,bit:9,invert:false,),(frame:64,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ5",
+        bits: [(frame:20,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:73,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ6",
+        bits: [(frame:21,bit:9,invert:false,),(frame:24,bit:9,invert:false,),(frame:90,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "JQ7",
+        bits: [(frame:21,bit:9,invert:false,),(frame:22,bit:9,invert:false,),(frame:99,bit:10,invert:false,),],
+      ),
+      (
+        from_wire: "W3:H06E0103",
+        bits: [(frame:21,bit:9,invert:false,),(frame:24,bit:8,invert:false,),],
+      ),
+    ],
+    "JB4": [
+      (
+        from_wire: "E1:H01W0101",
+        bits: [(frame:51,bit:4,invert:false,),(frame:55,bit:5,invert:false,),],
+      ),
+      (
+        from_wire: "H01W0100",
+        bits: [(frame:51,bit:4,invert:false,),(frame:55,bit:5,invert:false,),],
+      ),
+    ],
+    "JB5": [
+      (
+        from_wire: "E1:H01W0101",
+        bits: [(frame:55,bit:4,invert:false,),(frame:60,bit:4,invert:false,),],
+      ),
+      (
+        from_wire: "H01W0100",
+        bits: [(frame:55,bit:4,invert:false,),(frame:60,bit:4,invert:false,),],
+      ),
+    ],
+    "JB6": [
+      (
+        from_wire: "E1:H01W0101",
+        bits: [(frame:77,bit:4,invert:false,),(frame:82,bit:4,invert:false,),],
+      ),
+      (
+        from_wire: "H01W0100",
+        bits: [(frame:77,bit:4,invert:false,),(frame:82,bit:4,invert:false,),],
+      ),
+    ],
+    "JB7": [
+      (
+        from_wire: "E1:H01W0101",
+        bits: [(frame:82,bit:5,invert:false,),(frame:86,bit:4,invert:false,),],
+      ),
+      (
+        from_wire: "H01W0100",
+        bits: [(frame:82,bit:5,invert:false,),(frame:86,bit:4,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

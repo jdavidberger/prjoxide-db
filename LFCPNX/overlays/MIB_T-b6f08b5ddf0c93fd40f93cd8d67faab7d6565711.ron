@@ -1,0 +1,67 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JDIFFIOCLK0_PCSREFMUX8_CORE": [
+      (
+        from_wire: "E122:JCLKOUT0_DIFFCLKIO_CORE_DIFFCLKIO0",
+      ),
+    ],
+    "JDIFFIOCLK1_PCSREFMUX8_CORE": [
+      (
+        from_wire: "E122:JCLKOUT1_DIFFCLKIO_CORE_DIFFCLKIO0",
+      ),
+    ],
+    "JPLLCLK0_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1W8:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JPLLCLK1_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1E149:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JQ0CLKSEL0_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JQ0CLKSEL1_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JQ0CLK_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCLK0",
+      ),
+    ],
+    "JQ0DIFFIOCLKSEL_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JQ1CLKSEL0_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JQ1CLKSEL1_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JQ1CLK_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCLK1",
+      ),
+    ],
+    "JQ1DIFFIOCLKSEL_PCSREFMUX8_CORE": [
+      (
+        from_wire: "S1:JCIBMUXOUTB0",
+      ),
+    ],
+  },
+)

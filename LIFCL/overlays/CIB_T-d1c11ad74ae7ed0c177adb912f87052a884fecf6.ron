@@ -1,0 +1,82 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JPVTSEL_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JPVTSNKI0_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JPVTSNKI1_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JPVTSNKI2_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JPVTSNKI3_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JPVTSNKI4_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JPVTSNKI5_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JPVTSNKI6_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JPVTSRCI0_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JPVTSRCI1_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTB1",
+      ),
+    ],
+    "JPVTSRCI2_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JPVTSRCI3_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JPVTSRCI4_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JPVTSRCI5_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JPVTSRCI6_BNKREF33_CORE": [
+      (
+        from_wire: "W1:JCIBMUXOUTB6",
+      ),
+    ],
+  },
+)

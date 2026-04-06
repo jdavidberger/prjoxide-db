@@ -1,0 +1,47 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JRDCLKSEL0_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E8:JCIBMUXOUTD7",
+      ),
+    ],
+    "JRDCLKSEL1_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E7:JCIBMUXOUTD7",
+      ),
+    ],
+    "JRDCLKSEL2_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E7:JCIBMUXOUTD4",
+      ),
+    ],
+    "JRDCLKSEL3_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E7:JCIBMUXOUTB4",
+      ),
+    ],
+    "JRSTSMCNT_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E9:JCIBMUXOUTB4",
+      ),
+    ],
+    "JWRDIR_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E10:JCIBMUXOUTD7",
+      ),
+    ],
+    "JWRLOAD_N_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E9:JCIBMUXOUTD4",
+      ),
+    ],
+    "JWRMOVE_DQSBUFA_CORE_I_DQS_TOP": [
+      (
+        from_wire: "E9:JCIBMUXOUTD7",
+      ),
+    ],
+  },
+)

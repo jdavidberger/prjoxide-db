@@ -1,0 +1,37 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JADA10_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD7",
+      ),
+    ],
+    "JADA11_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA5",
+      ),
+    ],
+    "JADA13_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB3",
+      ),
+    ],
+    "JADA6_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTD6",
+      ),
+    ],
+    "JADA7_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JADA9_EBR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA1",
+      ),
+    ],
+  },
+)

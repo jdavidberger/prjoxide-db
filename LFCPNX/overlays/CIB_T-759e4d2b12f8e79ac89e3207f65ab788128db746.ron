@@ -1,0 +1,103 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_LOCAL_FS_PCS_RX_DATA0_PCS_CORE_PCS0",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W12:JCH1_LMMIRDATA6_PCS_CORE_PCS0",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_LOCAL_FS_PCS_RX_DATA1_PCS_CORE_PCS0",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W12:JCH1_LMMIRDATA7_PCS_CORE_PCS0",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_LOCAL_FS_PCS_RX_DATA2_PCS_CORE_PCS0",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W12:JCH1_ACJPOUT_PCS_CORE_PCS0",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_LOCAL_FS_PCS_RX_DATA3_PCS_CORE_PCS0",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W12:JCH1_PCLKAUX_SEL_LL_PCS_CORE_PCS0",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W12:JCH1_ACJNOUT_PCS_CORE_PCS0",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_RX_DATAK_PCS_RX_DATA0_PCS_CORE_PCS0",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1W12:JCH1_CLKREQO_PCS_CORE_PCS0",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_RX_DATAK_PCS_RX_DATA1_PCS_CORE_PCS0",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "N1W12:JCH1_CLKREQOE_PCS_CORE_PCS0",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_RX_DATAK_PCS_RX_DATA2_PCS_CORE_PCS0",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "N1W12:JCH1_PCS_RX_HI_BER_PCS_CORE_PCS0",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "N1W12:JCH1_PIPE_RX_DATAK_PCS_RX_DATA3_PCS_CORE_PCS0",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

@@ -1,0 +1,244 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "JTXFIFOF_I2CFIFO_CORE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "JTXFIFOE_I2CFIFO_CORE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "JTXFIFOAE_I2CFIFO_CORE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "JSLVADDRMATCHSCL_I2CFIFO_CORE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "JSLVADDRMATCH_I2CFIFO_CORE",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "JSDAOEN_I2CFIFO_CORE",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JSDAOE_I2CFIFO_CORE",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JSCLOUT_I2CFIFO_CORE",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "JLMMIRDATA0_I2CFIFO_CORE",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "JLMMIRDATA1_I2CFIFO_CORE",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "JLMMIRDATA2_I2CFIFO_CORE",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "JLMMIRDATA3_I2CFIFO_CORE",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ4": [
+      (
+        from_wire: "JLMMIRDATA4_I2CFIFO_CORE",
+        bits: [(frame:64,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ5": [
+      (
+        from_wire: "JLMMIRDATA5_I2CFIFO_CORE",
+        bits: [(frame:73,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "JLMMIRDATA6_I2CFIFO_CORE",
+        bits: [(frame:90,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ7": [
+      (
+        from_wire: "JLMMIRDATA7_I2CFIFO_CORE",
+        bits: [(frame:99,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JALTSCLIN_I2CFIFO_CORE": [
+      (
+        from_wire: "S6E3:JPADDI_SEIO33_CORE_IOB",
+      ),
+    ],
+    "JALTSDAIN_I2CFIFO_CORE": [
+      (
+        from_wire: "S6E3:JPADDI_SEIO33_CORE_IOA",
+      ),
+    ],
+    "JFIFORESET_I2CFIFO_CORE": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JI2CLSRRSTN_I2CFIFO_CORE": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JLMMICLK_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCLK0",
+      ),
+    ],
+    "JLMMIOFFSET0_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JLMMIOFFSET1_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JLMMIOFFSET2_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JLMMIOFFSET3_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JLMMIOFFSET4_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JLMMIOFFSET5_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JLMMIREQUEST_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JLMMIRESETN_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JLSR1",
+      ),
+    ],
+    "JLMMIWDATA0_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JLMMIWDATA1_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+    "JLMMIWDATA2_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JLMMIWDATA3_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIWDATA4_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA5_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA6_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA7_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWRRDN_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB2",
+      ),
+    ],
+    "JOPCGLOADCLK_I2CFIFO_CORE": [
+      (
+        from_wire: "JCLK1",
+      ),
+    ],
+    "JSCANCLK_I2CFIFO_CORE": [
+      (
+        from_wire: "JCLK0",
+      ),
+    ],
+    "JSCANRST_I2CFIFO_CORE": [
+      (
+        from_wire: "E1:JLSR0",
+      ),
+    ],
+    "JSCLIN_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB3",
+      ),
+    ],
+    "JSDAIN_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB1",
+      ),
+    ],
+    "JSLEEPCLKSELN_I2CFIFO_CORE": [
+      (
+        from_wire: "JCIBMUXOUTB0",
+      ),
+    ],
+  },
+)

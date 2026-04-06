@@ -1,0 +1,12 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "G:VCC": [
+      (
+        from_wire: "G:VCC",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,19 @@
+(
+  pips: {
+    "JQ0": [
+      (
+        from_wire: "N1W11:JUCRXWCHS_DPHY_CORE_DPHY0",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "HFIE0000": [
+      (
+        from_wire: "W1:HFOE0000",
+      ),
+    ],
+  },
+)

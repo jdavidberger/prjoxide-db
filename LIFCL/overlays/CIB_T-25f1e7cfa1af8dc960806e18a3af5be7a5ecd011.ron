@@ -1,0 +1,25 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W5:JD2ACTIVE1_DPHY_CORE_DPHY0",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W5:JD2VALID1_DPHY_CORE_DPHY0",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W5:JLOCK_DPHY_CORE_DPHY0",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

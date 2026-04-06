@@ -1,0 +1,79 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL_EN0_PCIELL_CORE",
+        bits: [(frame:14,bit:0,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL_EN1_PCIELL_CORE",
+        bits: [(frame:20,bit:0,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL0_PCIELL_CORE",
+        bits: [(frame:40,bit:0,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL1_PCIELL_CORE",
+        bits: [(frame:46,bit:0,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL2_PCIELL_CORE",
+        bits: [(frame:66,bit:0,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL3_PCIELL_CORE",
+        bits: [(frame:72,bit:0,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL4_PCIELL_CORE",
+        bits: [(frame:92,bit:0,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL5_PCIELL_CORE",
+        bits: [(frame:98,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL6_PCIELL_CORE",
+        bits: [(frame:12,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL7_PCIELL_CORE",
+        bits: [(frame:21,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL8_PCIELL_CORE",
+        bits: [(frame:38,bit:0,invert:false,),],
+      ),
+    ],
+    "JQ3": [
+      (
+        from_wire: "N1W51:JPM_DPA_CONTROL9_PCIELL_CORE",
+        bits: [(frame:47,bit:0,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

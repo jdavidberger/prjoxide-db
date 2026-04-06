@@ -1,0 +1,61 @@
+(
+  pips: {
+    "N1W4:JSELDLLCD0_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI10_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD1_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI11_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD2_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI12_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD3_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI13_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD4_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI14_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD5_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI15_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD6_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI16_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD7_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI17_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+    "N1W4:JSELDLLCD8_I_DQS_TOP_DLL_CODE_ROUTING_MUX": [
+      (
+        from_wire: "G:JCODEI18_I_DQS_TOP_DLL_CODE_ROUTING_MUX",
+        bits: [(frame:45,bit:1,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

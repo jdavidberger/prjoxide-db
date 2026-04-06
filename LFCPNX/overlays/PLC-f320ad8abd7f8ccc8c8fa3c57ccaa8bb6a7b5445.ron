@@ -1,0 +1,12 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "HFIE0000": [
+      (
+        from_wire: "W1:HFOE0000",
+      ),
+    ],
+  },
+)

@@ -1,0 +1,484 @@
+(
+  pips: {
+    "JF3": [
+      (
+        from_wire: "JLMMIRDATAVALID_PLL_CORE_PLL_LMMI",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "JLMMIRDATA4_PLL_CORE_PLL_LMMI",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "JLMMIRDATA5_PLL_CORE_PLL_LMMI",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "JLMMIRDATA6_PLL_CORE_PLL_LMMI",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "JLMMIRDATA7_PLL_CORE_PLL_LMMI",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ0": [
+      (
+        from_wire: "JREGQA_PLL_CORE_PLL_LMMI",
+        bits: [(frame:12,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ1": [
+      (
+        from_wire: "JREGQB_PLL_CORE_PLL_LMMI",
+        bits: [(frame:21,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ2": [
+      (
+        from_wire: "JREGQB1_PLL_CORE_PLL_LMMI",
+        bits: [(frame:38,bit:10,invert:false,),],
+      ),
+    ],
+    "JQ6": [
+      (
+        from_wire: "JREFDETLOS_PLL_CORE_PLL_LMMI",
+        bits: [(frame:90,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {
+    "JBINACT0_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB0",
+      ),
+    ],
+    "JBINACT1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB1",
+      ),
+    ],
+    "JBINTEST0_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB2",
+      ),
+    ],
+    "JBINTEST1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB3",
+      ),
+    ],
+    "JCIBDIR_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JCIBDSEL0_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JCIBDSEL1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JCIBDSEL2_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JCIBLDREG_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JCIBROT_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JDIRDELP1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB5",
+      ),
+    ],
+    "JDIRDEL_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB4",
+      ),
+    ],
+    "JENCLKOP_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA0",
+      ),
+    ],
+    "JENCLKOS2_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA2",
+      ),
+    ],
+    "JENCLKOS3_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA3",
+      ),
+    ],
+    "JENCLKOS4_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA4",
+      ),
+    ],
+    "JENCLKOS5_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA5",
+      ),
+    ],
+    "JENCLKOS_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA1",
+      ),
+    ],
+    "JENEXT_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JENEXT_FBMUX_CORE_FBKMUX",
+      ),
+    ],
+    "JFBKCK_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JFBKCLK0_FBMUX_CORE_FBKMUX",
+      ),
+    ],
+    "JFBKCK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JFBKCK_FBMUX_CORE_FBKMUX",
+      ),
+    ],
+    "JFBKCLK0_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK0_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK10_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "S1E22:JECLKOUT_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL",
+      ),
+    ],
+    "JFBKCLK11_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "S1:JCLK1",
+      ),
+    ],
+    "JFBKCLK1_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK1_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK2_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK3_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK4_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK5_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTFBK5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JFBKCLK6_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JCLKOUTDL_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JGRAYACT0_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTC0",
+      ),
+    ],
+    "JGRAYACT1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTC1",
+      ),
+    ],
+    "JGRAYACT2_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTC2",
+      ),
+    ],
+    "JGRAYACT3_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTC3",
+      ),
+    ],
+    "JGRAYACT4_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTA0",
+      ),
+    ],
+    "JGRAYTEST0_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTD3",
+      ),
+    ],
+    "JGRAYTEST1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTD4",
+      ),
+    ],
+    "JGRAYTEST2_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTD5",
+      ),
+    ],
+    "JGRAYTEST3_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTD6",
+      ),
+    ],
+    "JGRAYTEST4_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTA2",
+      ),
+    ],
+    "JINTLOCK_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JINTLOCK_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLEGACY_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTD0",
+      ),
+    ],
+    "JLGYRDYN_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "JLEGRDYN_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLMMICLK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCLK1",
+      ),
+    ],
+    "JLMMIOFFSET0_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTB4",
+      ),
+    ],
+    "JLMMIOFFSET1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTB5",
+      ),
+    ],
+    "JLMMIOFFSET2_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTB6",
+      ),
+    ],
+    "JLMMIOFFSET3_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTB7",
+      ),
+    ],
+    "JLMMIOFFSET4_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTC4",
+      ),
+    ],
+    "JLMMIOFFSET5_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTC5",
+      ),
+    ],
+    "JLMMIOFFSET6_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTC6",
+      ),
+    ],
+    "JLMMIREQUEST_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIRESETN_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JLSR0",
+      ),
+    ],
+    "JLMMIWDATA0_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JLMMIWDATA1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JLMMIWDATA2_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTD4",
+      ),
+    ],
+    "JLMMIWDATA3_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTD5",
+      ),
+    ],
+    "JLMMIWDATA4_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTA4",
+      ),
+    ],
+    "JLMMIWDATA5_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTA5",
+      ),
+    ],
+    "JLMMIWDATA6_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTA6",
+      ),
+    ],
+    "JLMMIWDATA7_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTA7",
+      ),
+    ],
+    "JLMMIWRRDN_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTA7",
+      ),
+    ],
+    "JOPCGLDCK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1E1:JCLK1",
+      ),
+    ],
+    "JPLLPDN_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTD2",
+      ),
+    ],
+    "JPLLRESET_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JLSR1",
+      ),
+    ],
+    "JREFCK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JREFCK_REFMUX_CORE_REFMUX",
+      ),
+    ],
+    "JREFCK_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "JREFCLK10_REFMUX_CORE_REFMUX",
+      ),
+    ],
+    "JREFCLK11_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S1:JCLK0",
+      ),
+    ],
+    "JREFCLK14_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S2E3:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S2E3:JPADDI_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JREFCLK16_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S2E9:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S2E9:JPADDI_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JREFCLK21_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "JCLK0",
+      ),
+    ],
+    "JREFCLK25_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S2E5:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S2E5:JPADDI_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JREFCLK26_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S2E13:JINCK_IOLOGIC_CORE_I_GEARING_PIC_TOP_A",
+      ),
+      (
+        from_wire: "S2E13:JPADDI_DIFFIO18_CORE_IOA",
+      ),
+    ],
+    "JREFDETRESET_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JREFSEL_REFMUX_CORE_REFMUX": [
+      (
+        from_wire: "S1:JCIBMUXOUTB0",
+      ),
+    ],
+    "JROTDELP1_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB7",
+      ),
+    ],
+    "JROTDEL_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTB6",
+      ),
+    ],
+    "JSCANCLK_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "S1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JSCANRST_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JSTDBY_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JCIBMUXOUTD1",
+      ),
+    ],
+    "JWKUPSYNC_FBMUX_CORE_FBKMUX": [
+      (
+        from_wire: "S1:JCIBMUXOUTB2",
+      ),
+    ],
+    "JZRSEL3_PLL_CORE_PLL_LMMI": [
+      (
+        from_wire: "JZRSEL3_REFMUX_CORE_REFMUX",
+      ),
+    ],
+  },
+)

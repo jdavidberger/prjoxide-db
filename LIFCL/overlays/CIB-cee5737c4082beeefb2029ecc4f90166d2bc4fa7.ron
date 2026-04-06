@@ -1,0 +1,55 @@
+(
+  pips: {
+    "JF0": [
+      (
+        from_wire: "W1:JSUM128_ACC54_CORE_ACC54_0",
+        bits: [(frame:14,bit:10,invert:false,),],
+      ),
+    ],
+    "JF1": [
+      (
+        from_wire: "W1:JSUM129_ACC54_CORE_ACC54_0",
+        bits: [(frame:20,bit:10,invert:false,),],
+      ),
+    ],
+    "JF2": [
+      (
+        from_wire: "W1:JSUM130_ACC54_CORE_ACC54_0",
+        bits: [(frame:40,bit:10,invert:false,),],
+      ),
+    ],
+    "JF3": [
+      (
+        from_wire: "W1:JSUM131_ACC54_CORE_ACC54_0",
+        bits: [(frame:46,bit:10,invert:false,),],
+      ),
+    ],
+    "JF4": [
+      (
+        from_wire: "W1:JSUM132_ACC54_CORE_ACC54_0",
+        bits: [(frame:66,bit:10,invert:false,),],
+      ),
+    ],
+    "JF5": [
+      (
+        from_wire: "W1:JSUM133_ACC54_CORE_ACC54_0",
+        bits: [(frame:72,bit:10,invert:false,),],
+      ),
+    ],
+    "JF6": [
+      (
+        from_wire: "W1:JSUM134_ACC54_CORE_ACC54_0",
+        bits: [(frame:92,bit:10,invert:false,),],
+      ),
+    ],
+    "JF7": [
+      (
+        from_wire: "W1:JSUM135_ACC54_CORE_ACC54_0",
+        bits: [(frame:98,bit:10,invert:false,),],
+      ),
+    ],
+  },
+  words: {},
+  enums: {},
+  conns: {},
+)

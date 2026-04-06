@@ -1,0 +1,52 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JIGN_LRAM_CORE": [
+      (
+        from_wire: "N4E1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JOCEA_LRAM_CORE": [
+      (
+        from_wire: "N5E1:JCE1",
+      ),
+    ],
+    "JOCEB_LRAM_CORE": [
+      (
+        from_wire: "N4E1:JCE1",
+      ),
+    ],
+    "JOPCGLOADCLK_LRAM_CORE": [
+      (
+        from_wire: "N4E1:JCLK1",
+      ),
+    ],
+    "JRSTA_LRAM_CORE": [
+      (
+        from_wire: "N5E1:JLSR0",
+      ),
+    ],
+    "JRSTB_LRAM_CORE": [
+      (
+        from_wire: "N6E1:JLSR0",
+      ),
+    ],
+    "JSCANCLK_LRAM_CORE": [
+      (
+        from_wire: "N4E1:JCLK0",
+      ),
+    ],
+    "JSCANRST_LRAM_CORE": [
+      (
+        from_wire: "N4E1:JLSR0",
+      ),
+    ],
+    "JSTDBYN_LRAM_CORE": [
+      (
+        from_wire: "N4E1:JCIBMUXOUTA6",
+      ),
+    ],
+  },
+)

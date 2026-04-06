@@ -1,0 +1,112 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JDCALIRST_SGMIICDR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA1",
+      ),
+    ],
+    "JDFACQRST_SGMIICDR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA2",
+      ),
+    ],
+    "JLMMIOFFSET0_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD0",
+      ),
+    ],
+    "JLMMIOFFSET1_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD1",
+      ),
+    ],
+    "JLMMIOFFSET2_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD2",
+      ),
+    ],
+    "JLMMIOFFSET3_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "JLMMIREQUEST_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTB3",
+      ),
+    ],
+    "JLMMIWDATA0_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC0",
+      ),
+    ],
+    "JLMMIWDATA1_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC1",
+      ),
+    ],
+    "JLMMIWDATA2_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC2",
+      ),
+    ],
+    "JLMMIWDATA3_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "JLMMIWDATA4_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "JLMMIWDATA5_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC5",
+      ),
+    ],
+    "JLMMIWDATA6_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC6",
+      ),
+    ],
+    "JLMMIWDATA7_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTC7",
+      ),
+    ],
+    "JLMMIWRRDN_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCIBMUXOUTD7",
+      ),
+    ],
+    "JOPCGLOADCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "E1:JCLK1",
+      ),
+    ],
+    "JRRST_SGMIICDR_CORE": [
+      (
+        from_wire: "JLSR0",
+      ),
+    ],
+    "JRSTBFBW_SGMIICDR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA4",
+      ),
+    ],
+    "JRSTBRXF_SGMIICDR_CORE": [
+      (
+        from_wire: "JCIBMUXOUTA6",
+      ),
+    ],
+    "JSPCLK_SGMIICDR_CORE": [
+      (
+        from_wire: "JCLK0",
+      ),
+    ],
+  },
+)

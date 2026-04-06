@@ -1,0 +1,17 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JPADDO_SEIO33_CORE_IOB": [
+      (
+        from_wire: "W11:JTDO_CONFIG_JTAG_CORE_CONFIG_JTAG",
+      ),
+    ],
+    "JPADDT_SEIO33_CORE_IOB": [
+      (
+        from_wire: "W11:JTDO_OEN_CONFIG_JTAG_CORE_CONFIG_JTAG",
+      ),
+    ],
+  },
+)

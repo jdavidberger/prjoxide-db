@@ -1,0 +1,87 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JLLCLKOP_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "W46:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "W46:JCLKOS2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "W46:JCLKOS3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS4_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "W46:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS5_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "W46:JCLKOS5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLLCLKOS_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "W46:JCLKOS_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLRCLKOP_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N2E39:JCLKOP_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLRCLKOS2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N2E39:JCLKOS2_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLRCLKOS3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N2E39:JCLKOS3_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLRCLKOS4_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N2E39:JCLKOS4_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLRCLKOS5_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N2E39:JCLKOS5_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JLRCLKOS_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "N2E39:JCLKOS_PLL_CORE_PLL_LMMI",
+      ),
+    ],
+    "JTESTINP0_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E2:JCIBMUXOUTA7",
+      ),
+    ],
+    "JTESTINP1_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E2:JCIBMUXOUTA6",
+      ),
+    ],
+    "JTESTINP2_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E4:JCIBMUXOUTC0",
+      ),
+    ],
+    "JTESTINP3_ECLKLOGICMUXPLLFB_CORE_ECLKPLLFBL": [
+      (
+        from_wire: "E4:JCIBMUXOUTC1",
+      ),
+    ],
+  },
+)

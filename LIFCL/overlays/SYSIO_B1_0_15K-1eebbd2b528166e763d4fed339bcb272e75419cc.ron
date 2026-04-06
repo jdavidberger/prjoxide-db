@@ -1,0 +1,27 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {
+    "JPADDO_SEIO33_CORE_IOA": [
+      (
+        from_wire: "N6W3:JALTSDAOUT_I2CFIFO_CORE",
+      ),
+    ],
+    "JPADDO_SEIO33_CORE_IOB": [
+      (
+        from_wire: "N6W3:JALTSCLOUT_I2CFIFO_CORE",
+      ),
+    ],
+    "JPADDT_SEIO33_CORE_IOA": [
+      (
+        from_wire: "N6W3:JALTSDAOEN_I2CFIFO_CORE",
+      ),
+    ],
+    "JPADDT_SEIO33_CORE_IOB": [
+      (
+        from_wire: "N6W3:JALTSCLOEN_I2CFIFO_CORE",
+      ),
+    ],
+  },
+)
