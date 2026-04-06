@@ -1,0 +1,14 @@
+(
+  pips: {},
+  words: {},
+  enums: {
+    "PIOB.SEIO18.VREF": (
+      options: {
+        "OFF": [],
+        "VREF1_LOAD": [],
+        "VREF2_LOAD": [(frame:94,bit:1,invert:false,),],
+      },
+    ),
+  },
+  conns: {},
+)
