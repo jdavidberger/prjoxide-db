@@ -1,0 +1,20 @@
+(
+  pips: {},
+  words: {},
+  enums: {},
+  conns: {},
+  bels: [
+    (
+      name: "PCLKDIVA",
+      beltype: "PCLKDIV",
+      pins: [
+        (name:"CLKIN",dir:INOUT,wire:(rel_y:8,name:"JCLKIN_PCLKDIV_PCLKDIV0",),),
+        (name:"CLKOUT",dir:INOUT,wire:(rel_y:8,name:"JCLKOUT_PCLKDIV_PCLKDIV0",),),
+        (name:"LSRPDIV",dir:INPUT,wire:(rel_y:8,name:"JLSRPDIV_PCLKDIV_PCLKDIV0",),),
+        (name:"PCLKDIVTESTINP0",dir:INPUT,wire:(rel_y:8,name:"JPCLKDIVTESTINP0_PCLKDIV_PCLKDIV0",),),
+        (name:"PCLKDIVTESTINP1",dir:INPUT,wire:(rel_y:8,name:"JPCLKDIVTESTINP1_PCLKDIV_PCLKDIV0",),),
+        (name:"PCLKDIVTESTINP2",dir:INPUT,wire:(rel_y:8,name:"JPCLKDIVTESTINP2_PCLKDIV_PCLKDIV0",),),
+      ],
+    ),
+  ],
+)

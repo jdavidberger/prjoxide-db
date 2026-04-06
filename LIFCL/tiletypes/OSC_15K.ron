@@ -1,0 +1,75 @@
+(
+  pips: {},
+  words: {
+    "OSC_CORE_R1C71.HF_CLK_DIV": (
+      bits: [
+        [(frame:39,bit:1,invert:false,),],
+        [(frame:38,bit:1,invert:false,),],
+        [(frame:37,bit:1,invert:false,),],
+        [(frame:36,bit:1,invert:false,),],
+        [(frame:35,bit:1,invert:false,),],
+        [(frame:34,bit:1,invert:false,),],
+        [(frame:33,bit:1,invert:false,),],
+        [(frame:32,bit:1,invert:false,),],
+      ],
+      desc: "high frequency oscillator output divider",
+    ),
+    "OSC_CORE_R1C71.HF_SED_SEC_DIV": (
+      bits: [
+        [(frame:51,bit:1,invert:false,),],
+        [(frame:50,bit:1,invert:false,),],
+        [(frame:49,bit:1,invert:false,),],
+        [(frame:48,bit:1,invert:false,),],
+        [(frame:47,bit:1,invert:false,),],
+        [(frame:46,bit:1,invert:false,),],
+        [(frame:45,bit:1,invert:false,),],
+        [(frame:44,bit:1,invert:false,),],
+      ],
+      desc: "high frequency oscillator output divider",
+    ),
+  },
+  enums: {
+    "OSC_CORE_R1C71.DEBUG_N": (
+      options: {
+        "DISABLED": [(frame:53,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "enable debug mode",
+    ),
+    "OSC_CORE_R1C71.DTR_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:41,bit:1,invert:false,),],
+      },
+    ),
+    "OSC_CORE_R1C71.HFDIV_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:52,bit:1,invert:false,),],
+      },
+      desc: "enable HF divider from parameter",
+    ),
+    "OSC_CORE_R1C71.HF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:29,bit:1,invert:false,),],
+      },
+      desc: "enable HF oscillator trimming from input pins",
+    ),
+    "OSC_CORE_R1C71.LF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:31,bit:1,invert:false,),],
+      },
+      desc: "enable LF oscillator trimming from input pins",
+    ),
+    "OSC_CORE_R1C71.LF_OUTPUT_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:30,bit:1,invert:false,),],
+      },
+      desc: "enable LF oscillator output",
+    ),
+  },
+  conns: {},
+)

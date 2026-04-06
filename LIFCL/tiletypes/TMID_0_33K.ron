@@ -1,0 +1,137 @@
+(
+  pips: {},
+  words: {},
+  enums: {
+    "DCC_T0.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:10,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_T1.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:11,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_T2.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:12,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_T3.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:13,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_T4.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:14,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_T5.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:15,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_T6.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:16,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_T7.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:17,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+  },
+  conns: {},
+  bels: [
+    (
+      name: "DCC_T0",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC0",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC0",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC0",),),
+      ],
+    ),
+    (
+      name: "DCC_T1",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC1",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC1",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC1",),),
+      ],
+    ),
+    (
+      name: "DCC_T2",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC2",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC2",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC2",),),
+      ],
+    ),
+    (
+      name: "DCC_T3",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC3",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC3",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC3",),),
+      ],
+    ),
+    (
+      name: "DCC_T4",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC4",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC4",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC4",),),
+      ],
+    ),
+    (
+      name: "DCC_T5",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC5",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC5",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC5",),),
+      ],
+    ),
+    (
+      name: "DCC_T6",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC6",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC6",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC6",),),
+      ],
+    ),
+    (
+      name: "DCC_T7",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(name:"JCE_DCC_DCC7",),),
+        (name:"CLKI",dir:INOUT,wire:(name:"JCLKI_DCC_DCC7",),),
+        (name:"CLKO",dir:INOUT,wire:(name:"JCLKO_DCC_DCC7",),),
+      ],
+    ),
+  ],
+)

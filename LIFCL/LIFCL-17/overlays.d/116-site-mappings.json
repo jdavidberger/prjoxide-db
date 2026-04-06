@@ -1,0 +1,62 @@
+{
+    "overlays": {
+        "1d0a3a0e1c747b3c6dbf53626dc460a3c616f898": [
+            "IO_B4_1_15K_DLY50",
+            "overlays/IO_B4_1_15K_DLY50-LIFCL-17"
+        ],
+        "6a497f82b7e3b555ac0bee625464ba2f7cbc379c": [
+            "CMUX_0",
+            "overlays/CMUX_0-LIFCL-17"
+        ],
+        "7c5fa8b29be28eed4a63991be470953d16394b98": [
+            "PIC_B4_1_15K_DLY30_DQS40",
+            "overlays/PIC_B4_1_15K_DLY30_DQS40-LIFCL-17"
+        ],
+        "a36a63713a6c3e779b12ea783cfae7c024cdef3f": [
+            "IO_B4_0_15K_DLY42",
+            "overlays/IO_B4_0_15K_DLY42-LIFCL-17"
+        ],
+        "afad167fd4649668b1672c445eb5e0a7df1710de": [
+            "PIC_B4_1_15K_DLY40",
+            "overlays/PIC_B4_1_15K_DLY40-LIFCL-17"
+        ],
+        "c453abfb0848a669096c86fd48c7f05b94582f12": [
+            "PIC_B4_0_15K_DLY32",
+            "overlays/PIC_B4_0_15K_DLY32-LIFCL-17"
+        ],
+        "c619f567c9bed69ceed18691b21c1a35b462c397": [
+            "IO_B4_0_15K_DLY52_BK5",
+            "overlays/IO_B4_0_15K_DLY52_BK5-LIFCL-17"
+        ],
+        "f3a929e9b1a2a57410cea068a804d04146fa659d": [
+            "RMID_PICB_DLY10",
+            "overlays/RMID_PICB_DLY10-LIFCL-17"
+        ]
+    },
+    "tiletypes": {
+        "1d0a3a0e1c747b3c6dbf53626dc460a3c616f898": [
+            "CIB_R29C33:IO_B4_1_15K_DLY50"
+        ],
+        "6a497f82b7e3b555ac0bee625464ba2f7cbc379c": [
+            "CIB_R11C37:CMUX_0"
+        ],
+        "7c5fa8b29be28eed4a63991be470953d16394b98": [
+            "CIB_R29C43:PIC_B4_1_15K_DLY30_DQS40"
+        ],
+        "a36a63713a6c3e779b12ea783cfae7c024cdef3f": [
+            "CIB_R29C34:IO_B4_0_15K_DLY42"
+        ],
+        "afad167fd4649668b1672c445eb5e0a7df1710de": [
+            "CIB_R29C41:PIC_B4_1_15K_DLY40"
+        ],
+        "c453abfb0848a669096c86fd48c7f05b94582f12": [
+            "CIB_R29C42:PIC_B4_0_15K_DLY32"
+        ],
+        "c619f567c9bed69ceed18691b21c1a35b462c397": [
+            "CIB_R29C32:IO_B4_0_15K_DLY52_BK5"
+        ],
+        "f3a929e9b1a2a57410cea068a804d04146fa659d": [
+            "CIB_R10C75:RMID_PICB_DLY10"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+(
+  pips: {},
+  words: {
+    "IOL_R11A.DEL_VALUE": (
+      bits: [
+        [(frame:10,bit:3,invert:false,),],
+        [(frame:9,bit:3,invert:false,),],
+        [(frame:8,bit:3,invert:false,),],
+        [(frame:7,bit:3,invert:false,),],
+        [(frame:6,bit:3,invert:false,),],
+        [(frame:5,bit:3,invert:false,),],
+        [(frame:4,bit:3,invert:false,),],
+      ],
+      desc: "DEL_VALUE",
+    ),
+    "IOL_R11B.DEL_VALUE": (
+      bits: [
+        [(frame:6,bit:5,invert:false,),],
+        [(frame:5,bit:5,invert:false,),],
+        [(frame:4,bit:5,invert:false,),],
+        [(frame:3,bit:5,invert:false,),],
+        [(frame:2,bit:5,invert:false,),],
+        [(frame:1,bit:5,invert:false,),],
+        [(frame:0,bit:5,invert:false,),],
+      ],
+      desc: "DEL_VALUE",
+    ),
+  },
+  enums: {
+    "IOL_R11A.COARSE_DELAY": (
+      options: {
+        "0NS": [],
+        "0P8NS": [(frame:2,bit:1,invert:false,),],
+        "1P6NS": [(frame:3,bit:1,invert:false,),],
+      },
+      desc: "Coarse delay setting for lol delay cell.",
+    ),
+    "IOL_R11A.GSR": (
+      options: {
+        "DISABLED": [(frame:5,bit:2,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Enable global set/reset.",
+    ),
+    "IOL_R11B.COARSE_DELAY": (
+      options: {
+        "0NS": [],
+        "0P8NS": [(frame:3,bit:4,invert:false,),],
+        "1P6NS": [(frame:4,bit:4,invert:false,),],
+      },
+      desc: "Coarse delay setting for lol delay cell.",
+    ),
+    "IOL_R11B.GSR": (
+      options: {
+        "DISABLED": [(frame:2,bit:6,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Enable global set/reset.",
+    ),
+  },
+  conns: {},
+)

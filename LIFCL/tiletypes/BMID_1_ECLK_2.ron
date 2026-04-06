@@ -594,6 +594,397 @@
     ],
   },
   words: {},
-  enums: {},
+  enums: {
+    "DCC_B10.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:11,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B11.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:12,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B12.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:13,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B13.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:14,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B14.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:15,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B15.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:16,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B16.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:17,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B17.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:18,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCC_B9.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:10,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "ECLKDIV_CORE_R28C37A.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:45,bit:1,invert:false,),],
+        "5": [(frame:55,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C37A.GSR": (
+      options: {
+        "DISABLED": [(frame:65,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R28C37B.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:46,bit:1,invert:false,),],
+        "5": [(frame:56,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C37B.GSR": (
+      options: {
+        "DISABLED": [(frame:66,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R28C37C.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:39,bit:1,invert:false,),],
+        "5": [(frame:49,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C37D.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:40,bit:1,invert:false,),],
+        "5": [(frame:50,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C38A.ECLK_DIV": (
+      options: {
+        "2": [(frame:85,bit:1,invert:false,),],
+        "3P5": [(frame:93,bit:1,invert:false,),],
+        "4": [(frame:37,bit:1,invert:false,),],
+        "5": [(frame:67,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C38A.GSR": (
+      options: {
+        "DISABLED": [(frame:59,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R28C38B.ECLK_DIV": (
+      options: {
+        "2": [(frame:86,bit:1,invert:false,),],
+        "3P5": [(frame:94,bit:1,invert:false,),],
+        "4": [(frame:38,bit:1,invert:false,),],
+        "5": [(frame:35,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C38B.GSR": (
+      options: {
+        "DISABLED": [(frame:60,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R28C38C.ECLK_DIV": (
+      options: {
+        "2": [(frame:89,bit:1,invert:false,),],
+        "3P5": [(frame:95,bit:1,invert:false,),],
+        "4": [(frame:41,bit:1,invert:false,),],
+        "5": [(frame:51,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C38C.GSR": (
+      options: {
+        "DISABLED": [(frame:61,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R28C38D.ECLK_DIV": (
+      options: {
+        "2": [(frame:90,bit:1,invert:false,),],
+        "3P5": [(frame:98,bit:1,invert:false,),],
+        "4": [(frame:42,bit:1,invert:false,),],
+        "5": [(frame:52,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R28C38D.GSR": (
+      options: {
+        "DISABLED": [(frame:62,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R55C49A.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:45,bit:1,invert:false,),],
+        "5": [(frame:55,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C49A.GSR": (
+      options: {
+        "DISABLED": [(frame:65,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R55C49B.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:46,bit:1,invert:false,),],
+        "5": [(frame:56,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C49B.GSR": (
+      options: {
+        "DISABLED": [(frame:66,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R55C49C.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:39,bit:1,invert:false,),],
+        "5": [(frame:49,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C49D.ECLK_DIV": (
+      options: {
+        "2": [],
+        "3P5": [],
+        "4": [(frame:40,bit:1,invert:false,),],
+        "5": [(frame:50,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C50A.ECLK_DIV": (
+      options: {
+        "2": [(frame:85,bit:1,invert:false,),],
+        "3P5": [(frame:93,bit:1,invert:false,),],
+        "4": [(frame:37,bit:1,invert:false,),],
+        "5": [(frame:67,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C50A.GSR": (
+      options: {
+        "DISABLED": [(frame:59,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R55C50B.ECLK_DIV": (
+      options: {
+        "2": [(frame:86,bit:1,invert:false,),],
+        "3P5": [(frame:94,bit:1,invert:false,),],
+        "4": [(frame:38,bit:1,invert:false,),],
+        "5": [(frame:35,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C50B.GSR": (
+      options: {
+        "DISABLED": [(frame:60,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R55C50C.ECLK_DIV": (
+      options: {
+        "2": [(frame:89,bit:1,invert:false,),],
+        "3P5": [(frame:95,bit:1,invert:false,),],
+        "4": [(frame:41,bit:1,invert:false,),],
+        "5": [(frame:51,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C50C.GSR": (
+      options: {
+        "DISABLED": [(frame:61,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+    "ECLKDIV_CORE_R55C50D.ECLK_DIV": (
+      options: {
+        "2": [(frame:90,bit:1,invert:false,),],
+        "3P5": [(frame:98,bit:1,invert:false,),],
+        "4": [(frame:42,bit:1,invert:false,),],
+        "5": [(frame:52,bit:1,invert:false,),],
+        "DISABLE": [],
+      },
+      desc: "Clock Divider",
+    ),
+    "ECLKDIV_CORE_R55C50D.GSR": (
+      options: {
+        "DISABLED": [(frame:62,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Global set/reset",
+    ),
+  },
   conns: {},
+  bels: [
+    (
+      name: "DCC_B10",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC10",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC10",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC10",),),
+      ],
+    ),
+    (
+      name: "DCC_B11",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC11",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC11",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC11",),),
+      ],
+    ),
+    (
+      name: "DCC_B12",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC12",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC12",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC12",),),
+      ],
+    ),
+    (
+      name: "DCC_B13",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC13",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC13",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC13",),),
+      ],
+    ),
+    (
+      name: "DCC_B14",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC14",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC14",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC14",),),
+      ],
+    ),
+    (
+      name: "DCC_B15",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC15",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC15",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC15",),),
+      ],
+    ),
+    (
+      name: "DCC_B16",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC16",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC16",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC16",),),
+      ],
+    ),
+    (
+      name: "DCC_B17",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC17",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC17",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC17",),),
+      ],
+    ),
+    (
+      name: "DCC_B9",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_x:-1,name:"JCE_DCC_DCC9",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_x:-1,name:"JCLKI_DCC_DCC9",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_x:-1,name:"JCLKO_DCC_DCC9",),),
+      ],
+    ),
+  ],
 )

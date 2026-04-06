@@ -1,0 +1,21 @@
+(
+  pips: {},
+  words: {},
+  enums: {
+    "DLLDELDLY10.CLKIN": (
+      options: {
+        "#SIG": [(frame:15,bit:0,invert:true,),],
+        "INV": [(frame:15,bit:0,invert:false,),],
+      },
+      desc: "CLK inversion control",
+    ),
+    "DLLDELDLY10.ENABLE": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:11,bit:0,invert:false,),],
+      },
+      desc: "Enables the block and ties off the clk output when not using this block.",
+    ),
+  },
+  conns: {},
+)

@@ -1,0 +1,68 @@
+(
+  pips: {},
+  words: {
+    "DLLDELDLY50.ADJUST": (
+      bits: [
+        [(frame:69,bit:1,invert:false,),],
+        [(frame:67,bit:1,invert:false,),],
+        [(frame:66,bit:1,invert:false,),],
+        [(frame:65,bit:1,invert:false,),],
+        [(frame:64,bit:1,invert:false,),],
+        [(frame:62,bit:1,invert:false,),],
+        [(frame:61,bit:1,invert:false,),],
+        [(frame:60,bit:1,invert:false,),],
+        [(frame:59,bit:1,invert:false,),],
+      ],
+      desc: "ADJUST",
+    ),
+  },
+  enums: {
+    "DLLDELDLY50.CLKIN": (
+      options: {
+        "#SIG": [(frame:74,bit:1,invert:true,),],
+        "INV": [(frame:74,bit:1,invert:false,),],
+      },
+      desc: "CLK inversion control",
+    ),
+    "DLLDELDLY50.DEL_ADJUST": (
+      options: {
+        "MINUS": [(frame:57,bit:1,invert:false,),],
+        "PLUS": [],
+      },
+      desc: "[\'Sign bit for mc1_adjust, bit [9].\', \'The DEL_ADJUST and ADJUST are set to a value based on device performance. MAP will use fixed values for these components during the MAP.\']",
+    ),
+    "DLLDELDLY50.ENABLE": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:75,bit:1,invert:false,),],
+      },
+      desc: "Enables the block and ties off the clk output when not using this block.",
+    ),
+  },
+  conns: {},
+  bels: [
+    (
+      name: "DLLDELDLY50",
+      beltype: "DLLDEL",
+      pins: [
+        (name:"BYPASS",dir:INPUT,wire:(name:"JBYPASS_DLLDEL_CORE_I0",),),
+        (name:"CLKIN",dir:INOUT,wire:(name:"JCLKIN_DLLDEL_CORE_I0",),),
+        (name:"CLKOUT",dir:INOUT,wire:(name:"JCLKOUT_DLLDEL_CORE_I0",),),
+        (name:"CODE0",dir:INPUT,wire:(name:"JCODE0_DLLDEL_CORE_I0",),),
+        (name:"CODE1",dir:INPUT,wire:(name:"JCODE1_DLLDEL_CORE_I0",),),
+        (name:"CODE2",dir:INPUT,wire:(name:"JCODE2_DLLDEL_CORE_I0",),),
+        (name:"CODE3",dir:INPUT,wire:(name:"JCODE3_DLLDEL_CORE_I0",),),
+        (name:"CODE4",dir:INPUT,wire:(name:"JCODE4_DLLDEL_CORE_I0",),),
+        (name:"CODE5",dir:INPUT,wire:(name:"JCODE5_DLLDEL_CORE_I0",),),
+        (name:"CODE6",dir:INPUT,wire:(name:"JCODE6_DLLDEL_CORE_I0",),),
+        (name:"CODE7",dir:INPUT,wire:(name:"JCODE7_DLLDEL_CORE_I0",),),
+        (name:"CODE8",dir:INPUT,wire:(name:"JCODE8_DLLDEL_CORE_I0",),),
+        (name:"COUT",dir:OUTPUT,wire:(name:"JCOUT_DLLDEL_CORE_I0",),),
+        (name:"DIR",dir:INPUT,wire:(name:"JDIR_DLLDEL_CORE_I0",),),
+        (name:"LOAD_N",dir:INPUT,wire:(name:"JLOAD_N_DLLDEL_CORE_I0",),),
+        (name:"MOVE",dir:INPUT,wire:(name:"JMOVE_DLLDEL_CORE_I0",),),
+      ],
+      rel_y: -1,
+    ),
+  ],
+)

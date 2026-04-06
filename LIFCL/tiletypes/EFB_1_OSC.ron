@@ -1,0 +1,98 @@
+(
+  pips: {},
+  words: {
+    "OSC_CORE_R1C77.HF_CLK_DIV": (
+      bits: [
+        [(frame:10,bit:1,invert:false,),],
+        [(frame:9,bit:1,invert:false,),],
+        [(frame:8,bit:1,invert:false,),],
+        [(frame:5,bit:1,invert:false,),],
+        [(frame:4,bit:1,invert:false,),],
+        [(frame:3,bit:1,invert:false,),],
+        [(frame:1,bit:1,invert:false,),],
+        [(frame:0,bit:1,invert:false,),],
+      ],
+      desc: "high frequency oscillator output divider",
+    ),
+    "OSC_CORE_R1C77.HF_SED_SEC_DIV": (
+      bits: [
+        [(frame:22,bit:1,invert:false,),],
+        [(frame:21,bit:1,invert:false,),],
+        [(frame:18,bit:1,invert:false,),],
+        [(frame:17,bit:1,invert:false,),],
+        [(frame:16,bit:1,invert:false,),],
+        [(frame:14,bit:1,invert:false,),],
+        [(frame:13,bit:1,invert:false,),],
+        [(frame:12,bit:1,invert:false,),],
+      ],
+      desc: "high frequency oscillator output divider",
+    ),
+  },
+  enums: {
+    "OSC_CORE_R1C77.DEBUG_N": (
+      options: {
+        "DISABLED": [(frame:23,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "enable debug mode",
+    ),
+    "OSC_CORE_R1C77.DTR_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:105,bit:0,invert:false,),],
+      },
+    ),
+    "OSC_CORE_R1C77.HFDIV_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:38,bit:1,invert:false,),],
+      },
+      desc: "enable HF divider from parameter",
+    ),
+    "OSC_CORE_R1C77.HF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:40,bit:1,invert:false,),],
+      },
+      desc: "enable HF oscillator trimming from input pins",
+    ),
+    "OSC_CORE_R1C77.LF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:56,bit:1,invert:false,),],
+      },
+      desc: "enable LF oscillator trimming from input pins",
+    ),
+    "OSC_CORE_R1C77.LF_OUTPUT_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:59,bit:1,invert:false,),],
+      },
+      desc: "enable LF oscillator output",
+    ),
+    "WDT.WDTEN": (
+      options: {
+        "DIS": [],
+        "EN": [(frame:49,bit:0,invert:false,),],
+      },
+    ),
+    "WDT.WDTMODE": (
+      options: {
+        "CONTINUOUS": [(frame:50,bit:0,invert:false,),],
+        "SINGLE": [],
+      },
+    ),
+  },
+  conns: {},
+  bels: [
+    (
+      name: "WDT",
+      beltype: "WDT",
+      pins: [
+        (name:"WDTRELOAD",dir:INPUT,wire:(rel_x:-4,name:"JCIBWDTRELOAD_CONFIG_WDT_CORE_CONFIG_WDT",),),
+        (name:"WDT_CLK",dir:INPUT,wire:(rel_x:-4,name:"JWDT_CLK_CONFIG_WDT_CORE_CONFIG_WDT",),),
+        (name:"WDT_RST",dir:INPUT,wire:(rel_x:-4,name:"JWDT_RST_CONFIG_WDT_CORE_CONFIG_WDT",),),
+      ],
+    ),
+  ],
+)

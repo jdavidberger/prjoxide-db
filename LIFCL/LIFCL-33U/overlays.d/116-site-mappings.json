@@ -1,0 +1,55 @@
+{
+    "overlays": {
+        "20b94303cd5c7d48937c83b3dcd4329dc65bd1d9": [
+            "PCLK_DLY_20",
+            "overlays/PCLK_DLY_20-LIFCL-33U"
+        ],
+        "2fcee65b93907e571f85163f04a4c25bbd135979": [
+            "PCLK_DLY_30",
+            "overlays/PCLK_DLY_30-LIFCL-33U"
+        ],
+        "5753317cb3ff137cf2916f9f3d5ac4956434ca19": [
+            "PCLK_DLY_32",
+            "overlays/PCLK_DLY_32-LIFCL-33U"
+        ],
+        "7d2069af7506d9efdc0ed23dab6a5e8d791e2e1f": [
+            "PCLK_DLY_10",
+            "overlays/PCLK_DLY_10-LIFCL-33U"
+        ],
+        "a7bdb6a5634efa6ae273e2a99f2c8fa45388c46e": [
+            "PCLK_DLY_12",
+            "overlays/PCLK_DLY_12-LIFCL-33U"
+        ],
+        "c0ca5b63f08c7c5fdd101553a5b610a07b48f4b5": [
+            "PCLK_DLY_22",
+            "overlays/PCLK_DLY_22-LIFCL-33U"
+        ],
+        "db8c82640bb04fd569c6cd5f83c52656a2bd1239": [
+            "CMUX_0_TL",
+            "overlays/CMUX_0_TL-LIFCL-33U"
+        ]
+    },
+    "tiletypes": {
+        "20b94303cd5c7d48937c83b3dcd4329dc65bd1d9": [
+            "CIB_R83C29:PCLK_DLY_20"
+        ],
+        "2fcee65b93907e571f85163f04a4c25bbd135979": [
+            "CIB_R83C21:PCLK_DLY_30"
+        ],
+        "5753317cb3ff137cf2916f9f3d5ac4956434ca19": [
+            "CIB_R83C22:PCLK_DLY_32"
+        ],
+        "7d2069af7506d9efdc0ed23dab6a5e8d791e2e1f": [
+            "CIB_R0C24:PCLK_DLY_10"
+        ],
+        "a7bdb6a5634efa6ae273e2a99f2c8fa45388c46e": [
+            "CIB_R0C27:PCLK_DLY_12"
+        ],
+        "c0ca5b63f08c7c5fdd101553a5b610a07b48f4b5": [
+            "CIB_R83C30:PCLK_DLY_22"
+        ],
+        "db8c82640bb04fd569c6cd5f83c52656a2bd1239": [
+            "CIB_R38C25:CMUX_0_TL"
+        ]
+    }
+}

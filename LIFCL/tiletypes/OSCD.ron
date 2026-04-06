@@ -1,0 +1,103 @@
+(
+  pips: {},
+  words: {
+    "OSCD.HF_CLK_DIV": (
+      bits: [
+        [(frame:32,bit:1,invert:false,),],
+        [(frame:31,bit:1,invert:false,),],
+        [(frame:30,bit:1,invert:false,),],
+        [(frame:29,bit:1,invert:false,),],
+        [(frame:28,bit:1,invert:false,),],
+        [(frame:27,bit:1,invert:false,),],
+        [(frame:26,bit:1,invert:false,),],
+        [(frame:25,bit:1,invert:false,),],
+      ],
+    ),
+    "OSCD.HF_SED_SEC_DIV": (
+      bits: [
+        [(frame:40,bit:1,invert:false,),],
+        [(frame:39,bit:1,invert:false,),],
+        [(frame:38,bit:1,invert:false,),],
+        [(frame:37,bit:1,invert:false,),],
+        [(frame:36,bit:1,invert:false,),],
+        [(frame:35,bit:1,invert:false,),],
+        [(frame:34,bit:1,invert:false,),],
+        [(frame:33,bit:1,invert:false,),],
+      ],
+    ),
+  },
+  enums: {
+    "OSCD.DEBUG_N": (
+      options: {
+        "DISABLED": [(frame:41,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+    ),
+    "OSCD.DTR_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:24,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD.HF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:51,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD.HF_OSC_EN": (
+      options: {
+        "DISABLED": [(frame:22,bit:1,invert:false,),(frame:23,bit:1,invert:false,),],
+        "ENABLED": [(frame:52,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD.LF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:62,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD.LF_OUTPUT_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:63,bit:1,invert:false,),],
+      },
+    ),
+  },
+  conns: {},
+  bels: [
+    (
+      name: "OSCD",
+      beltype: "OSCD",
+      pins: [
+        (name:"HFCLKCFG",dir:OUTPUT,wire:(name:"JHFCLKCFG_OSCD_CORE",),),
+        (name:"HFCLKOUT",dir:OUTPUT,wire:(name:"JHFCLKOUT_OSCD_CORE",),),
+        (name:"HFOUTCIBEN",dir:INPUT,wire:(name:"JHFOUTCIBEN_OSCD_CORE",),),
+        (name:"HFOUTEN",dir:INPUT,wire:(name:"JHFOUTEN_OSCD_CORE",),),
+        (name:"HFSDCOUT",dir:OUTPUT,wire:(name:"JHFSDCOUT_OSCD_CORE",),),
+        (name:"HFSDSCEN",dir:INPUT,wire:(name:"JHFSDSCEN_OSCD_CORE",),),
+        (name:"HFTRMFAB0",dir:INPUT,wire:(name:"JHFTRMFAB0_OSCD_CORE",),),
+        (name:"HFTRMFAB1",dir:INPUT,wire:(name:"JHFTRMFAB1_OSCD_CORE",),),
+        (name:"HFTRMFAB2",dir:INPUT,wire:(name:"JHFTRMFAB2_OSCD_CORE",),),
+        (name:"HFTRMFAB3",dir:INPUT,wire:(name:"JHFTRMFAB3_OSCD_CORE",),),
+        (name:"HFTRMFAB4",dir:INPUT,wire:(name:"JHFTRMFAB4_OSCD_CORE",),),
+        (name:"HFTRMFAB5",dir:INPUT,wire:(name:"JHFTRMFAB5_OSCD_CORE",),),
+        (name:"HFTRMFAB6",dir:INPUT,wire:(name:"JHFTRMFAB6_OSCD_CORE",),),
+        (name:"HFTRMFAB7",dir:INPUT,wire:(name:"JHFTRMFAB7_OSCD_CORE",),),
+        (name:"HFTRMFAB8",dir:INPUT,wire:(name:"JHFTRMFAB8_OSCD_CORE",),),
+        (name:"LFCLKOUT",dir:OUTPUT,wire:(name:"JLFCLKOUT_OSCD_CORE",),),
+        (name:"LFTRMFAB0",dir:INPUT,wire:(name:"JLFTRMFAB0_OSCD_CORE",),),
+        (name:"LFTRMFAB1",dir:INPUT,wire:(name:"JLFTRMFAB1_OSCD_CORE",),),
+        (name:"LFTRMFAB2",dir:INPUT,wire:(name:"JLFTRMFAB2_OSCD_CORE",),),
+        (name:"LFTRMFAB3",dir:INPUT,wire:(name:"JLFTRMFAB3_OSCD_CORE",),),
+        (name:"LFTRMFAB4",dir:INPUT,wire:(name:"JLFTRMFAB4_OSCD_CORE",),),
+        (name:"LFTRMFAB5",dir:INPUT,wire:(name:"JLFTRMFAB5_OSCD_CORE",),),
+        (name:"LFTRMFAB6",dir:INPUT,wire:(name:"JLFTRMFAB6_OSCD_CORE",),),
+        (name:"LFTRMFAB7",dir:INPUT,wire:(name:"JLFTRMFAB7_OSCD_CORE",),),
+        (name:"LFTRMFAB8",dir:INPUT,wire:(name:"JLFTRMFAB8_OSCD_CORE",),),
+        (name:"REBOOT",dir:INPUT,wire:(name:"JREBOOT_OSCD_CORE",),),
+      ],
+      rel_y: 1,
+    ),
+  ],
+)

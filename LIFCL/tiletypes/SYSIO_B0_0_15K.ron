@@ -1,0 +1,62 @@
+(
+  pips: {},
+  words: {
+    "IOL_T57A.DEL_VALUE": (
+      bits: [
+        [(frame:44,bit:1,invert:false,),],
+        [(frame:45,bit:1,invert:false,),],
+        [(frame:46,bit:1,invert:false,),],
+        [(frame:47,bit:1,invert:false,),],
+        [(frame:48,bit:1,invert:false,),],
+        [(frame:49,bit:1,invert:false,),],
+        [(frame:50,bit:1,invert:false,),],
+      ],
+      desc: "DEL_VALUE",
+    ),
+    "IOL_T57B.DEL_VALUE": (
+      bits: [
+        [(frame:86,bit:0,invert:false,),],
+        [(frame:87,bit:0,invert:false,),],
+        [(frame:88,bit:0,invert:false,),],
+        [(frame:89,bit:0,invert:false,),],
+        [(frame:90,bit:0,invert:false,),],
+        [(frame:91,bit:0,invert:false,),],
+        [(frame:93,bit:0,invert:false,),],
+      ],
+      desc: "DEL_VALUE",
+    ),
+  },
+  enums: {
+    "IOL_T57A.COARSE_DELAY": (
+      options: {
+        "0NS": [],
+        "0P8NS": [(frame:37,bit:1,invert:false,),],
+        "1P6NS": [(frame:36,bit:1,invert:false,),],
+      },
+      desc: "Coarse delay setting for lol delay cell.",
+    ),
+    "IOL_T57A.GSR": (
+      options: {
+        "DISABLED": [(frame:24,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Enable global set/reset.",
+    ),
+    "IOL_T57B.COARSE_DELAY": (
+      options: {
+        "0NS": [],
+        "0P8NS": [(frame:99,bit:1,invert:false,),],
+        "1P6NS": [(frame:94,bit:1,invert:false,),],
+      },
+      desc: "Coarse delay setting for lol delay cell.",
+    ),
+    "IOL_T57B.GSR": (
+      options: {
+        "DISABLED": [(frame:79,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Enable global set/reset.",
+    ),
+  },
+  conns: {},
+)

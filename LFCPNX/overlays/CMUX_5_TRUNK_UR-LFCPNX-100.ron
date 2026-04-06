@@ -1,0 +1,20 @@
+(
+  pips: {},
+  words: {},
+  enums: {
+    "PCLKDIVA.DIV_PCLKDIV": (
+      options: {
+        "X1": [],
+        "X128": [(frame:17,bit:0,invert:false,),(frame:18,bit:0,invert:false,),(frame:19,bit:0,invert:false,),],
+        "X16": [(frame:19,bit:0,invert:false,),],
+        "X2": [(frame:17,bit:0,invert:false,),],
+        "X32": [(frame:17,bit:0,invert:false,),(frame:19,bit:0,invert:false,),],
+        "X4": [(frame:18,bit:0,invert:false,),],
+        "X64": [(frame:18,bit:0,invert:false,),(frame:19,bit:0,invert:false,),],
+        "X8": [(frame:17,bit:0,invert:false,),(frame:18,bit:0,invert:false,),],
+      },
+      desc: "Divisor applied to clkin",
+    ),
+  },
+  conns: {},
+)

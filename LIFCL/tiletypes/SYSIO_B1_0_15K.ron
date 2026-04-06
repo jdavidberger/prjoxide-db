@@ -1,0 +1,35 @@
+(
+  pips: {},
+  words: {
+    "IOL_R11A.DEL_VALUE": (
+      bits: [
+        [(frame:12,bit:11,invert:false,),],
+        [(frame:11,bit:11,invert:false,),],
+        [(frame:10,bit:11,invert:false,),],
+        [(frame:9,bit:11,invert:false,),],
+        [(frame:8,bit:11,invert:false,),],
+        [(frame:7,bit:11,invert:false,),],
+        [(frame:6,bit:11,invert:false,),],
+      ],
+      desc: "DEL_VALUE",
+    ),
+  },
+  enums: {
+    "IOL_R11A.COARSE_DELAY": (
+      options: {
+        "0NS": [],
+        "0P8NS": [(frame:11,bit:3,invert:false,),],
+        "1P6NS": [(frame:12,bit:3,invert:false,),],
+      },
+      desc: "Coarse delay setting for lol delay cell.",
+    ),
+    "IOL_R11A.GSR": (
+      options: {
+        "DISABLED": [(frame:7,bit:10,invert:false,),],
+        "ENABLED": [],
+      },
+      desc: "Enable global set/reset.",
+    ),
+  },
+  conns: {},
+)

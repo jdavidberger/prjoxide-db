@@ -522,6 +522,51 @@
     ],
   },
   words: {},
-  enums: {},
+  enums: {
+    "DCC_C0.DCCEN": (
+      options: {
+        "0": [],
+        "1": [(frame:84,bit:0,invert:false,),],
+      },
+      desc: "DCC bypassed (0) or used as gate (1)",
+    ),
+    "DCS0.DCSMODE": (
+      options: {
+        "BUF0": [(frame:74,bit:0,invert:false,),(frame:78,bit:0,invert:false,),(frame:79,bit:0,invert:false,),],
+        "BUF1": [(frame:73,bit:0,invert:false,),(frame:78,bit:0,invert:false,),(frame:79,bit:0,invert:false,),],
+        "BUFGCECLK0": [(frame:78,bit:0,invert:false,),],
+        "BUFGCECLK0_1": [(frame:72,bit:0,invert:false,),(frame:78,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
+        "BUFGCECLK1": [(frame:79,bit:0,invert:false,),],
+        "BUFGCECLK1_1": [(frame:72,bit:0,invert:false,),(frame:79,bit:0,invert:false,),(frame:80,bit:0,invert:false,),],
+        "DCS": [(frame:72,bit:0,invert:false,),(frame:78,bit:0,invert:false,),(frame:79,bit:0,invert:false,),],
+        "DCS_1": [(frame:78,bit:0,invert:false,),(frame:79,bit:0,invert:false,),],
+        "GND": [],
+        "VCC": [(frame:72,bit:0,invert:false,),(frame:80,bit:0,invert:false,),(frame:81,bit:0,invert:false,),],
+      },
+      desc: "clock selector mode",
+    ),
+  },
   conns: {},
+  bels: [
+    (
+      name: "DCC_C0",
+      beltype: "DCC",
+      pins: [
+        (name:"CE",dir:INPUT,wire:(rel_y:-1,name:"JCE_DCC_DCC0",),),
+        (name:"CLKI",dir:INOUT,wire:(rel_y:-1,name:"JCLKI_DCC_DCC0",),),
+        (name:"CLKO",dir:INOUT,wire:(rel_y:-1,name:"JCLKO_DCC_DCC0",),),
+      ],
+    ),
+    (
+      name: "DCS0",
+      beltype: "DCS",
+      pins: [
+        (name:"CLK0",dir:INOUT,wire:(rel_y:-1,name:"JCLK0_DCS_DCSIP",),),
+        (name:"CLK1",dir:INOUT,wire:(rel_y:-1,name:"JCLK1_DCS_DCSIP",),),
+        (name:"DCSOUT",dir:INOUT,wire:(rel_y:-1,name:"JDCSOUT_DCS_DCSIP",),),
+        (name:"SEL",dir:INPUT,wire:(rel_y:-1,name:"JSEL_DCS_DCSIP",),),
+        (name:"SELFORCE",dir:INPUT,wire:(rel_y:-1,name:"JSELFORCE_DCS_DCSIP",),),
+      ],
+    ),
+  ],
 )

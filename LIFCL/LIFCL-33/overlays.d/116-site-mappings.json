@@ -1,0 +1,55 @@
+{
+    "overlays": {
+        "17956c22fa9f2eeb98f60dfc1344ed1a3f98b02f": [
+            "PCLK_DLY_10",
+            "overlays/PCLK_DLY_10-LIFCL-33"
+        ],
+        "318ca5ebcc0ddbd973f312aa65a3f734a04fed9c": [
+            "PCLK_DLY_22",
+            "overlays/PCLK_DLY_22-LIFCL-33"
+        ],
+        "3cfef6c10ca6dd2a138baab930773ec7a0348115": [
+            "PCLK_DLY_20",
+            "overlays/PCLK_DLY_20-LIFCL-33"
+        ],
+        "56baa1457539964e1bb5bf9f9e569ae79662f212": [
+            "PCLK_DLY_12",
+            "overlays/PCLK_DLY_12-LIFCL-33"
+        ],
+        "ba26dcc6c1971c384a0442731ef708f5fa76c3e1": [
+            "PCLK_DLY_30",
+            "overlays/PCLK_DLY_30-LIFCL-33"
+        ],
+        "c500823572347c928b911f29cba0e68b92860698": [
+            "CMUX_0_TL",
+            "overlays/CMUX_0_TL-LIFCL-33"
+        ],
+        "c64273002324bf366aa085d4ce17a356abd0073e": [
+            "PCLK_DLY_32",
+            "overlays/PCLK_DLY_32-LIFCL-33"
+        ]
+    },
+    "tiletypes": {
+        "17956c22fa9f2eeb98f60dfc1344ed1a3f98b02f": [
+            "CIB_R0C24:PCLK_DLY_10"
+        ],
+        "318ca5ebcc0ddbd973f312aa65a3f734a04fed9c": [
+            "CIB_R83C30:PCLK_DLY_22"
+        ],
+        "3cfef6c10ca6dd2a138baab930773ec7a0348115": [
+            "CIB_R83C29:PCLK_DLY_20"
+        ],
+        "56baa1457539964e1bb5bf9f9e569ae79662f212": [
+            "CIB_R0C27:PCLK_DLY_12"
+        ],
+        "ba26dcc6c1971c384a0442731ef708f5fa76c3e1": [
+            "CIB_R83C21:PCLK_DLY_30"
+        ],
+        "c500823572347c928b911f29cba0e68b92860698": [
+            "CIB_R38C25:CMUX_0_TL"
+        ],
+        "c64273002324bf366aa085d4ce17a356abd0073e": [
+            "CIB_R83C22:PCLK_DLY_32"
+        ]
+    }
+}

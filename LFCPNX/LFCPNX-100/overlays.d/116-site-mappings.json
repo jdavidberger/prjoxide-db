@@ -1,0 +1,90 @@
+{
+    "overlays": {
+        "0fb3626a7d263bf0b6ccdc37cc0761c3b0d1ebe5": [
+            "DLY30",
+            "overlays/DLY30-LFCPNX-100"
+        ],
+        "4b21bf8c32c0ad128aa3757761d7e36e7071a708": [
+            "DLY50",
+            "overlays/DLY50-LFCPNX-100"
+        ],
+        "51ded6193703ed97e56d47b72903fed4db8d3ad5": [
+            "CMUX_4_TRUNK_UL",
+            "overlays/CMUX_4_TRUNK_UL-LFCPNX-100"
+        ],
+        "5347dd25c992fe61c40020338f73ea1381dc1afb": [
+            "CMUX_0",
+            "overlays/CMUX_0-LFCPNX-100"
+        ],
+        "5ccc0e88fd7d5bd3184088314f202bc007b1c10f": [
+            "PCLK_DLY_60",
+            "overlays/PCLK_DLY_60-LFCPNX-100"
+        ],
+        "73df7336a97dd1fc52c113188f1619f0943e71fb": [
+            "PCLK_DLY_70",
+            "overlays/PCLK_DLY_70-LFCPNX-100"
+        ],
+        "7953bf97b301339756dd6ed9b08af5275f8fa37f": [
+            "PCLK_DLY_10",
+            "overlays/PCLK_DLY_10-LFCPNX-100"
+        ],
+        "8329eb82595c8673b3461022c651a5c1dfd6e8eb": [
+            "DLY40",
+            "overlays/DLY40-LFCPNX-100"
+        ],
+        "aed02cd6252885369978115af762fe73cee21557": [
+            "DLY52",
+            "overlays/DLY52-LFCPNX-100"
+        ],
+        "b4a07c30fdefaa051a9e95d83860a018d592eefe": [
+            "PCLK_DLY_20",
+            "overlays/PCLK_DLY_20-LFCPNX-100"
+        ],
+        "db16e2c095cac5fe5922eb2676aa2a400dc0ca3c": [
+            "BANKREF4_DLY42_DDR41",
+            "overlays/BANKREF4_DLY42_DDR41-LFCPNX-100"
+        ],
+        "fde63e769d64aca1a42e81db4bd504b329d830fd": [
+            "DLY32",
+            "overlays/DLY32-LFCPNX-100"
+        ]
+    },
+    "tiletypes": {
+        "0fb3626a7d263bf0b6ccdc37cc0761c3b0d1ebe5": [
+            "CIB_R74C78:DLY30"
+        ],
+        "4b21bf8c32c0ad128aa3757761d7e36e7071a708": [
+            "CIB_R74C68:DLY50"
+        ],
+        "51ded6193703ed97e56d47b72903fed4db8d3ad5": [
+            "CIB_R29C73:CMUX_4_TRUNK_UL"
+        ],
+        "5347dd25c992fe61c40020338f73ea1381dc1afb": [
+            "CIB_R38C73:CMUX_0"
+        ],
+        "5ccc0e88fd7d5bd3184088314f202bc007b1c10f": [
+            "CIB_R39C0:PCLK_DLY_60"
+        ],
+        "73df7336a97dd1fc52c113188f1619f0943e71fb": [
+            "CIB_R36C0:PCLK_DLY_70"
+        ],
+        "7953bf97b301339756dd6ed9b08af5275f8fa37f": [
+            "CIB_R36C159:PCLK_DLY_10"
+        ],
+        "8329eb82595c8673b3461022c651a5c1dfd6e8eb": [
+            "CIB_R74C70:DLY40"
+        ],
+        "aed02cd6252885369978115af762fe73cee21557": [
+            "CIB_R74C69:DLY52"
+        ],
+        "b4a07c30fdefaa051a9e95d83860a018d592eefe": [
+            "CIB_R39C159:PCLK_DLY_20"
+        ],
+        "db16e2c095cac5fe5922eb2676aa2a400dc0ca3c": [
+            "CIB_R74C77:BANKREF4_DLY42_DDR41"
+        ],
+        "fde63e769d64aca1a42e81db4bd504b329d830fd": [
+            "CIB_R74C79:DLY32"
+        ]
+    }
+}

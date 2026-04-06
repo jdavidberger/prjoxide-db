@@ -1,0 +1,30 @@
+(
+  pips: {},
+  words: {},
+  enums: {
+    "WDT.WDTEN": (
+      options: {
+        "DIS": [],
+        "EN": [(frame:95,bit:0,invert:false,),],
+      },
+    ),
+    "WDT.WDTMODE": (
+      options: {
+        "CONTINUOUS": [(frame:98,bit:0,invert:false,),],
+        "SINGLE": [],
+      },
+    ),
+  },
+  conns: {},
+  bels: [
+    (
+      name: "WDT",
+      beltype: "WDT",
+      pins: [
+        (name:"WDTRELOAD",dir:INPUT,wire:(rel_x:-14,name:"JCIBWDTRELOAD_CONFIG_WDT_CORE_CONFIG_WDT",),),
+        (name:"WDT_CLK",dir:INPUT,wire:(rel_x:-14,name:"JWDT_CLK_CONFIG_WDT_CORE_CONFIG_WDT",),),
+        (name:"WDT_RST",dir:INPUT,wire:(rel_x:-14,name:"JWDT_RST_CONFIG_WDT_CORE_CONFIG_WDT",),),
+      ],
+    ),
+  ],
+)
