@@ -46,6 +46,7 @@
     "hrows": [
         {
             "hrow_col": 25,
+            "hrow_row": 10,
             "spine_cols": [
                 13,
                 25
@@ -53,6 +54,7 @@
         },
         {
             "hrow_col": 49,
+            "hrow_row": 10,
             "spine_cols": [
                 49,
                 61

@@ -32,12 +32,14 @@
     "hrows": [
         {
             "hrow_col": 19,
+            "hrow_row": 37,
             "spine_cols": [
                 13
             ]
         },
         {
             "hrow_col": 31,
+            "hrow_row": 37,
             "spine_cols": [
                 37
             ]
