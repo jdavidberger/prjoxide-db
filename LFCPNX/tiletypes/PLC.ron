@@ -171,6 +171,12 @@
     ),
   },
   enums: {
+    "SLICEA.CCU2.INJECT": (
+      options: {
+        "NO": [(frame:22,bit:10,invert:false,),],
+        "YES": [],
+      },
+    ),
     "SLICEA.CEMUX": (
       options: {
         "CE": [],
@@ -201,6 +207,13 @@
         "LSR": [],
       },
       desc: "selects set/reset gating and inversion",
+    ),
+    "SLICEA.MODE": (
+      options: {
+        "CCU2": [(frame:22,bit:11,invert:false,),],
+        "DPRAM": [],
+        "LOGIC": [],
+      },
     ),
     "SLICEA.REG0.LSRMODE": (
       options: {
@@ -263,6 +276,12 @@
       },
       desc: "selects asynchronous set/reset, or sync set/reset which overrides CE for FFs in SLICE A/B",
     ),
+    "SLICEB.CCU2.INJECT": (
+      options: {
+        "NO": [(frame:29,bit:10,invert:false,),],
+        "YES": [],
+      },
+    ),
     "SLICEB.CEMUX": (
       options: {
         "CE": [],
@@ -293,6 +312,13 @@
         "LSR": [],
       },
       desc: "selects set/reset gating and inversion",
+    ),
+    "SLICEB.MODE": (
+      options: {
+        "CCU2": [(frame:29,bit:11,invert:false,),],
+        "DPRAM": [],
+        "LOGIC": [],
+      },
     ),
     "SLICEB.REG0.LSRMODE": (
       options: {
@@ -362,6 +388,12 @@
       },
       desc: "selects asynchronous set/reset, or sync set/reset which overrides CE for FFs in SLICE A/B",
     ),
+    "SLICEC.CCU2.INJECT": (
+      options: {
+        "NO": [(frame:76,bit:10,invert:false,),],
+        "YES": [],
+      },
+    ),
     "SLICEC.CEMUX": (
       options: {
         "CE": [],
@@ -392,6 +424,13 @@
         "LSR": [],
       },
       desc: "selects set/reset gating and inversion",
+    ),
+    "SLICEC.MODE": (
+      options: {
+        "CCU2": [(frame:76,bit:11,invert:false,),],
+        "LOGIC": [],
+        "RAMW": [(frame:78,bit:10,invert:false,),(frame:80,bit:11,invert:false,),(frame:81,bit:11,invert:false,),],
+      },
     ),
     "SLICEC.REG0.LSRMODE": (
       options: {
@@ -461,6 +500,12 @@
       },
       desc: "selects asynchronous set/reset, or sync set/reset which overrides CE for FFs in SLICE C/D",
     ),
+    "SLICED.CCU2.INJECT": (
+      options: {
+        "NO": [(frame:83,bit:10,invert:false,),],
+        "YES": [],
+      },
+    ),
     "SLICED.CEMUX": (
       options: {
         "CE": [],
@@ -491,6 +536,12 @@
         "LSR": [],
       },
       desc: "selects set/reset gating and inversion",
+    ),
+    "SLICED.MODE": (
+      options: {
+        "CCU2": [(frame:83,bit:11,invert:false,),],
+        "LOGIC": [],
+      },
     ),
     "SLICED.REG0.LSRMODE": (
       options: {
