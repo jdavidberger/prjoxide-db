@@ -578,6 +578,103 @@
     ],
   },
   words: {},
-  enums: {},
+  enums: {
+    "CIB.JF0_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:14,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JF1_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:20,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JF2_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:40,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JF3_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:46,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JF4_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:66,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JF5_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:72,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JF6_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:92,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JF7_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:98,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ0_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:12,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ1_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:21,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ2_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:38,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ3_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:47,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ4_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:64,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ5_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:73,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ6_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:90,bit:0,invert:false,),],
+      },
+    ),
+    "CIB.JQ7_USED": (
+      options: {
+        "NO": [],
+        "YES": [(frame:99,bit:0,invert:false,),],
+      },
+    ),
+  },
   conns: {},
 )
