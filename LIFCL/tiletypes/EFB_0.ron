@@ -1,0 +1,14 @@
+(
+  pips: {},
+  words: {},
+  enums: {
+    "SYSCONFIG.SLAVE_I3C_PORT": (
+      options: {
+        "DISABLE": [],
+        "ENABLE": [(frame:49,bit:0,invert:false,),],
+      },
+      desc: "status of slave I3C port after configuration",
+    ),
+  },
+  conns: {},
+)

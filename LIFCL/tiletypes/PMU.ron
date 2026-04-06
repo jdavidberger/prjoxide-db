@@ -9,6 +9,13 @@
       },
       desc: "Adjust back bias for high speed or low power",
     ),
+    "SYSCONFIG.JTAG_PORT": (
+      options: {
+        "DISABLE": [],
+        "ENABLE": [(frame:38,bit:0,invert:false,),],
+      },
+      desc: "status of JTAG port after configuration",
+    ),
   },
   conns: {},
 )

@@ -1,0 +1,14 @@
+(
+  pips: {},
+  words: {},
+  enums: {
+    "SYSCONFIG.JTAG_PORT": (
+      options: {
+        "DISABLE": [],
+        "ENABLE": [(frame:7,bit:1,invert:false,),],
+      },
+      desc: "status of JTAG port after configuration",
+    ),
+  },
+  conns: {},
+)
