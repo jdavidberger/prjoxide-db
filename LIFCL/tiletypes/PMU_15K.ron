@@ -2,6 +2,13 @@
   pips: {},
   words: {},
   enums: {
+    "CONFIG_CRE_CORE.MODE": (
+      options: {
+        "CONFIG_CRE_CORE": [(frame:5,bit:1,invert:false,),],
+        "NONE": [],
+      },
+      desc: "CONFIG_CRE_CORE primitive mode",
+    ),
     "SYSCONFIG.JTAG_PORT": (
       options: {
         "DISABLE": [],
