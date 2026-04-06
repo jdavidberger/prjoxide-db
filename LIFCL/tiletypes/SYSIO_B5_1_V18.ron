@@ -29,6 +29,13 @@
     ),
   },
   enums: {
+    "BANK5.VREF2_USED": (
+      options: {
+        "OFF": [],
+        "ON": [(frame:94,bit:1,invert:false,),],
+      },
+      desc: "use VREF2 input for bank 5",
+    ),
     "IOL_B12B.DELAYA.COARSE_DELAY": (
       options: {
         "0NS": [],

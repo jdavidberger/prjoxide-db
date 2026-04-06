@@ -24,6 +24,14 @@
     ],
   },
   words: {},
-  enums: {},
+  enums: {
+    "BANK3.VREF2_USED": (
+      options: {
+        "OFF": [],
+        "ON": [(frame:94,bit:1,invert:false,),],
+      },
+      desc: "use VREF2 input for bank 3",
+    ),
+  },
   conns: {},
 )
