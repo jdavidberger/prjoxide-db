@@ -546,7 +546,18 @@
       desc: "clock selector mode",
     ),
   },
-  conns: {},
+  conns: {
+    "N1:JCLK_GSR_CORE_GSR_CENTER": [
+      (
+        from_wire: "N1E1:JCLK1",
+      ),
+    ],
+    "N1:JGSR_N_GSR_CORE_GSR_CENTER": [
+      (
+        from_wire: "N1E1:JCIBMUXOUTB3",
+      ),
+    ],
+  },
   bels: [
     (
       name: "DCC_C0",
