@@ -303,4 +303,16 @@
     ),
   },
   conns: {},
+  always_on: [
+    (
+      frame: 10,
+      bit: 7,
+      invert: false,
+    ),
+    (
+      frame: 15,
+      bit: 10,
+      invert: false,
+    ),
+  ],
 )

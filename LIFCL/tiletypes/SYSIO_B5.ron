@@ -419,6 +419,18 @@
     ),
   },
   conns: {},
+  always_on: [
+    (
+      frame: 16,
+      bit: 1,
+      invert: false,
+    ),
+    (
+      frame: 69,
+      bit: 1,
+      invert: false,
+    ),
+  ],
   tile_configures_external_tiles: [
     (0, 0),
   ],

@@ -15,4 +15,41 @@
     ),
   },
   conns: {},
+  always_on: [
+    (
+      frame: 1,
+      bit: 1,
+      invert: false,
+    ),
+    (
+      frame: 14,
+      bit: 1,
+      invert: false,
+    ),
+    (
+      frame: 14,
+      bit: 3,
+      invert: false,
+    ),
+    (
+      frame: 14,
+      bit: 5,
+      invert: false,
+    ),
+    (
+      frame: 15,
+      bit: 1,
+      invert: false,
+    ),
+    (
+      frame: 15,
+      bit: 3,
+      invert: false,
+    ),
+    (
+      frame: 15,
+      bit: 5,
+      invert: false,
+    ),
+  ],
 )

@@ -380,4 +380,41 @@
     ),
   },
   conns: {},
+  always_on: [
+    (
+      frame: 64,
+      bit: 0,
+      invert: false,
+    ),
+    (
+      frame: 70,
+      bit: 0,
+      invert: false,
+    ),
+    (
+      frame: 72,
+      bit: 0,
+      invert: false,
+    ),
+    (
+      frame: 87,
+      bit: 0,
+      invert: false,
+    ),
+    (
+      frame: 91,
+      bit: 0,
+      invert: false,
+    ),
+    (
+      frame: 102,
+      bit: 0,
+      invert: false,
+    ),
+    (
+      frame: 104,
+      bit: 0,
+      invert: false,
+    ),
+  ],
 )
