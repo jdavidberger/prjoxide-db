@@ -63,8 +63,175 @@
         "ENABLED": [(frame:63,bit:1,invert:false,),],
       },
     ),
+    "OSCD_CORE.DEBUG_N": (
+      options: {
+        "DISABLED": [(frame:41,bit:1,invert:false,),],
+        "ENABLED": [],
+      },
+    ),
+    "OSCD_CORE.DTR_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:24,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD_CORE.HF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:51,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD_CORE.HF_OSC_EN": (
+      options: {
+        "DISABLED": [(frame:22,bit:1,invert:false,),(frame:23,bit:1,invert:false,),],
+        "ENABLED": [(frame:52,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD_CORE.LF_FABRIC_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:62,bit:1,invert:false,),],
+      },
+    ),
+    "OSCD_CORE.LF_OUTPUT_EN": (
+      options: {
+        "DISABLED": [],
+        "ENABLED": [(frame:63,bit:1,invert:false,),],
+      },
+    ),
   },
-  conns: {},
+  conns: {
+    "E2:JOSCCLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1:JHFCLKCFG_OSCD_CORE",
+      ),
+    ],
+    "E2:JSEDC_CLK_CONFIG_CLKRST_CORE_CONFIG_CLKRST": [
+      (
+        from_wire: "S1:JHFSDCOUT_OSCD_CORE",
+      ),
+    ],
+    "G:JOSCHF_TMID_CORE_TMIDMUX": [
+      (
+        from_wire: "S1:JHFCLKOUT_OSCD_CORE",
+      ),
+    ],
+    "G:JOSCLF_TMID_CORE_TMIDMUX": [
+      (
+        from_wire: "S1:JLFCLKOUT_OSCD_CORE",
+      ),
+    ],
+    "S1:JHFOUTCIBEN_OSCD_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD7",
+      ),
+    ],
+    "S1:JHFOUTEN_OSCD_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD3",
+      ),
+    ],
+    "S1:JHFSDSCEN_OSCD_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC5",
+      ),
+    ],
+    "S1:JHFTRMFAB0_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB0",
+      ),
+    ],
+    "S1:JHFTRMFAB1_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB1",
+      ),
+    ],
+    "S1:JHFTRMFAB2_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB2",
+      ),
+    ],
+    "S1:JHFTRMFAB3_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB3",
+      ),
+    ],
+    "S1:JHFTRMFAB4_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB4",
+      ),
+    ],
+    "S1:JHFTRMFAB5_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB5",
+      ),
+    ],
+    "S1:JHFTRMFAB6_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB6",
+      ),
+    ],
+    "S1:JHFTRMFAB7_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTB7",
+      ),
+    ],
+    "S1:JHFTRMFAB8_OSCD_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC3",
+      ),
+    ],
+    "S1:JLFTRMFAB0_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA0",
+      ),
+    ],
+    "S1:JLFTRMFAB1_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA1",
+      ),
+    ],
+    "S1:JLFTRMFAB2_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA2",
+      ),
+    ],
+    "S1:JLFTRMFAB3_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA3",
+      ),
+    ],
+    "S1:JLFTRMFAB4_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA4",
+      ),
+    ],
+    "S1:JLFTRMFAB5_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA5",
+      ),
+    ],
+    "S1:JLFTRMFAB6_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA6",
+      ),
+    ],
+    "S1:JLFTRMFAB7_OSCD_CORE": [
+      (
+        from_wire: "S1E2:JCIBMUXOUTA7",
+      ),
+    ],
+    "S1:JLFTRMFAB8_OSCD_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTC4",
+      ),
+    ],
+    "S1:JREBOOT_OSCD_CORE": [
+      (
+        from_wire: "S1E1:JCIBMUXOUTD6",
+      ),
+    ],
+  },
   bels: [
     (
       name: "OSCD",
