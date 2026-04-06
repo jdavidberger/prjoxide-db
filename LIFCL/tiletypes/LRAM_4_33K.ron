@@ -122,6 +122,9 @@
     ),
   },
   conns: {},
+  tile_configures_external_tiles: [
+    (-1, 0),
+  ],
   bels: [
     (
       name: "LRAM4",
